@@ -1,7 +1,7 @@
 # Getting Started with Local Development for XRdocs
 How to setup docker-compose, and edit/preview any XRdocs webpage locally with live changes
 
-The docker-compose file runs your chosen repository (ex: programmability page) by running docker-compose up to start the locally hosted website on localhost:4000. To get it running with your choice of repository, create a new file called docker-compose.yml, and copy the contents of the file above. 
+The docker-compose file runs your chosen repository (ex: programmability) by running docker-compose up to start the locally hosted website on localhost:4000. To get it running with your choice of repository, create a new file called docker-compose.yml, and copy the contents of the file above. 
 
 To get docker running, follow the docker installation guide for your system ([Docker Mac Install](https://docs.docker.com/desktop/install/mac-install/)). Once installed and tested, run "docker-compose up" in your terminal/command line and the jekyll website will launch on localhost:4000.
 

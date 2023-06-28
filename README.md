@@ -7,7 +7,7 @@ To get docker running, follow the docker installation guide for your system ([Do
 
 If it is your first time running the docker-compose file on your machine, it will take some time as it is pulling and installing dependencies. Once the installs are done, you will see a port host at the end of your command line
 
-If you recieve this error instead of a host, run "bundle add webrick"
+If you receive this error instead of a host, run "bundle add webrick"
 <img width="1141" alt="Screenshot 2023-06-28 at 7 48 05 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/95593c70-3fdc-4622-ab90-6b151b567bae">
 
 If you get this error instead, run "sudo gem install bundler:2.3.25" or whichever version of bundler it shows. Then run "bundle add webrick"

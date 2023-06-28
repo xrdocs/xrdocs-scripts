@@ -1,5 +1,5 @@
 # Getting Started with Local Development for XRdocs
-How to setup docker-compose, and preview any XRdocs webpage edits live locally 
+How to setup docker-compose, and edit/preview any XRdocs webpage locally with live changes
 
 The docker-compose file runs your chosen repository (ex: programmability page) by running docker-compose up to start the locally hosted website on localhost:4000. To get it running with your choice of repository, create a new file called docker-compose.yml, and copy the contents of the file above. 
 

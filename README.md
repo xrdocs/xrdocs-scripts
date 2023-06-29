@@ -21,3 +21,20 @@ You can also check in the docker desktop app, and see the container and images r
 
 Once you open the link, you will be greeted with the webpage that you have chosen to edit (in this example, I have opened the programmability webpage)
 <img width="1440" alt="Screenshot 2023-06-28 at 7 58 22 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/390b9347-847f-4097-8fb7-f51d6e6ab8a8">
+
+# Editing live
+After opening the local host site, you are now able to edit anything via an IDE (using VScode in this example)
+<img width="1440" alt="Screenshot 2023-06-29 at 9 48 41 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/814ed0cd-99b2-407d-98eb-66efedc8a7b3">
+
+Here we are editing the blog article of "Getting started with gNMI".
+
+As you edit the file, once you are done with your changes and want to see them live, save the file you are working on locally. Once you save, you will see Jekyll refresh the website in your terminal
+<img width="535" alt="Screenshot 2023-06-29 at 9 53 36 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/584d0d31-13af-43af-af8e-85bf2a65a412">
+
+Once Jekyll has reloaded, simply refresh the local webpage and you will see your changes visible
+<img width="1440" alt="Screenshot 2023-06-29 at 9 54 29 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/72ca8655-1b77-48e7-a7cd-0a0089ab875e">
+
+If you have to edit more, the same process follows. Edit the file, save changes, and refresh webpage.
+
+Once you are satisfied with the changes, you can simply run "docker-compose stop" or on mac, use "ctrl + c" to end the local webpage. After, you can push your changes to github in the respective repository, and your changes will load live on github pages.
+

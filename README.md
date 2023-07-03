@@ -3,7 +3,9 @@ How to setup a local environment to edit XRdocs and view changes before pushing
 
 There are two ways to set this up, using a docker run command which is easiest, and then adding a docker-compose file into each clone repo locally.
 
-The best way to set everything up for local edits would be to ensure that you have all of the repositories that you want 
+The best way to set everything up for local edits would be to ensure that you have all of the repositories that you want to edit in a desginated folder such as "xrdocs" located on your device. (Here I have a folder created on my Desktop called XRdocs github, with repo's that have been cloned inside)
+<img width="920" alt="Screenshot 2023-07-03 at 7 51 42 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/f2b6df41-64a0-4aca-b419-e5046b372f63">
+
 
 The docker-compose file runs your chosen repository (ex: programmability) by running docker-compose up to start the locally hosted website on localhost:4000. To get it running with your choice of repository, create a new file called docker-compose.yml, and copy the contents of the file above. 
 

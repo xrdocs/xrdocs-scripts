@@ -22,16 +22,14 @@ The second method of setting up is a way to create a designated container for ea
   2. Once added, save the file and in your terminal run the command (docker-compose up). After dependencies, you should see this <img width="916" alt="Screenshot 2023-06-28 at 7 55 39 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/c3885781-e999-4936-997e-bacd29c9a06f">
   3. If you want to check the container as well, you can check now in the Docker Desktop and will see a designated container for your repo (ex: programmability) <img width="1020" alt="Screenshot 2023-06-28 at 7 56 03 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/122f967c-4d9e-4c8b-a324-6be7abffbabd">
 
-
-If it is your first time running the docker-compose file on your machine, it will take some time as it is pulling and installing dependencies. Once the installs are done, you will see a port host at the end of your command line
-
+# Errors 
 If you receive this error instead of a host, run "bundle add webrick"
 <img width="1141" alt="Screenshot 2023-06-28 at 7 48 05 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/95593c70-3fdc-4622-ab90-6b151b567bae">
 
 If you get this error instead, run "sudo gem install bundler:2.3.25" or whichever version of bundler it shows. Then run "bundle add webrick"
 <img width="1221" alt="Screenshot 2023-06-28 at 7 51 41 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/8b534f38-2f0a-4fec-b737-7ab631548cfd">
 
-Once everything is installed, you can run "docker-compose up", the following will show in your terminal if successful
+Once everything is installed, you can retry, the following will show in your terminal if successful
 <img width="916" alt="Screenshot 2023-06-28 at 7 55 39 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/c3885781-e999-4936-997e-bacd29c9a06f">
 
 Once you open the link, you will be greeted with the webpage that you have chosen to edit (in this example, I have opened the programmability webpage)

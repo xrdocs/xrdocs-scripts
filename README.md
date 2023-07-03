@@ -16,7 +16,7 @@ The steps are as follows:
   7. Once inside, you should be able to run the command listed (docker run --volume="$PWD:/srv/jekyll" -p 4000:4000 jekyll/jekyll:4.0 jekyll serve). After running, dependencies will be fetched and after a minute or so you will see a link to your locally hosted website
   8. If you want to see the Docker run in the Docker Desktop App, you can open it and will see it temporarily running 
 
-#Compose File Method
+# Compose File Method
 The second method of setting up is a way to create a designated container for each repo you choose to edit rather than just a run command. Follow all of the above steps except for the Docker run command. Once completed, follow the steps below
   1. Create a file called docker-compose.yml. To get it running with your choice of repository, copy the contents of the file above.
   2. Once added, save the file and in your terminal run the command (docker-compose up). After dependencies, you should see this <img width="916" alt="Screenshot 2023-06-28 at 7 55 39 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/c3885781-e999-4936-997e-bacd29c9a06f">

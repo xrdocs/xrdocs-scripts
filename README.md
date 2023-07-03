@@ -1,5 +1,9 @@
 # Getting Started with Local Development for XRdocs
-How to setup docker-compose, and edit/preview any XRdocs webpage locally with live changes
+How to setup a local environment to edit XRdocs and view changes before pushing
+
+There are two ways to set this up, using a docker run command which is easiest, and then adding a docker-compose file into each clone repo locally.
+
+The best way to set everything up for local edits would be to ensure that you have all of the repositories that you want 
 
 The docker-compose file runs your chosen repository (ex: programmability) by running docker-compose up to start the locally hosted website on localhost:4000. To get it running with your choice of repository, create a new file called docker-compose.yml, and copy the contents of the file above. 
 

@@ -8,7 +8,8 @@ The best way to set everything up for local edits would be to ensure that you ha
 
 Once you have everything set up, the next steps are as follow:
   1. Download any IDE of your choice
-  2. Download Docker for your operating sysyem [Docker Mac Install](https://docs.docker.com/desktop/install/mac-install/), [Docker Windows Install] (https://docs.docker.com/desktop/install/windows-install/) 
+  2. Ensure that you have git downloaded on your system [Git install guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+  3. Download Docker for your operating sysyem [Docker Mac Install](https://docs.docker.com/desktop/install/mac-install/), [Docker Windows Install](https://docs.docker.com/desktop/install/windows-install/) 
 
 The docker-compose file runs your chosen repository (ex: programmability) by running docker-compose up to start the locally hosted website on localhost:4000. To get it running with your choice of repository, create a new file called docker-compose.yml, and copy the contents of the file above. 
 

@@ -13,13 +13,15 @@ The steps are as follows:
   4. Download Docker for your operating sysyem [Docker Mac Install](https://docs.docker.com/desktop/install/mac-install/), [Docker Windows Install](https://docs.docker.com/desktop/install/windows-install/)
   5. Run the test command for Docker (docker run hello-world) to ensure it is running properly
   6. Change your directory into whatever part of the webiste you want to work on (Ex: programmability)
-  7. Once inside, you should be able to run the command listed (docker run --volume="$PWD:/srv/jekyll" -p 4000:4000 jekyll/jekyll:4.0 jekyll serve)
+  7. Once inside, you should be able to run the command listed (docker run --volume="$PWD:/srv/jekyll" -p 4000:4000 jekyll/jekyll:4.0 jekyll serve). After running, dependencies will be fetched and after a minute or so you will see a link to your locally hosted website
+  8. If you want to see the Docker run in the Docker Desktop App, you can open it and will see it temporarily running 
 
+#Compose File Method
+The second method of setting up is a way to create a designated container for each repo you choose to edit rather than just a run command. Follow all of the above steps except for the Docker run command. Once completed, follow the steps below
+  1. Create a file called docker-compose.yml. To get it running with your choice of repository, copy the contents of the file above.
+  2. Once added, save the file and in your terminal run the command (docker-compose up). After dependencies, you should see this <img width="916" alt="Screenshot 2023-06-28 at 7 55 39 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/c3885781-e999-4936-997e-bacd29c9a06f">
+  3. If you want to check the container as well, you can check now in the Docker Desktop and will see a designated container for your repo (ex: programmability) <img width="1020" alt="Screenshot 2023-06-28 at 7 56 03 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/122f967c-4d9e-4c8b-a324-6be7abffbabd">
 
-
-The docker-compose file runs your chosen repository (ex: programmability) by running docker-compose up to start the locally hosted website on localhost:4000. To get it running with your choice of repository, create a new file called docker-compose.yml, and copy the contents of the file above. 
-
-To get docker running, follow the docker installation guide for your system ([Docker Mac Install](https://docs.docker.com/desktop/install/mac-install/)). Once installed and tested, run "docker-compose up" in your terminal/command line and the jekyll website will launch on localhost:4000.
 
 If it is your first time running the docker-compose file on your machine, it will take some time as it is pulling and installing dependencies. Once the installs are done, you will see a port host at the end of your command line
 
@@ -31,9 +33,6 @@ If you get this error instead, run "sudo gem install bundler:2.3.25" or whicheve
 
 Once everything is installed, you can run "docker-compose up", the following will show in your terminal if successful
 <img width="916" alt="Screenshot 2023-06-28 at 7 55 39 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/c3885781-e999-4936-997e-bacd29c9a06f">
-
-You can also check in the docker desktop app, and see the container and images running.
-<img width="1020" alt="Screenshot 2023-06-28 at 7 56 03 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/122f967c-4d9e-4c8b-a324-6be7abffbabd">
 
 Once you open the link, you will be greeted with the webpage that you have chosen to edit (in this example, I have opened the programmability webpage)
 <img width="1440" alt="Screenshot 2023-06-28 at 7 58 22 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/390b9347-847f-4097-8fb7-f51d6e6ab8a8">

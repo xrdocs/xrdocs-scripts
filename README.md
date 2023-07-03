@@ -25,13 +25,13 @@ The second method of setting up is a way to create a designated container for ea
 One thing to note with this method, is that whenever you finish editing changes and want to push to origin, you will constantly have to remove and add this compose file into each repo locally. It is recommended to follow the docker run method instead.
 
 # Errors 
-If you receive this error instead of a host, run "bundle add webrick"
+If you receive this error instead of a host, run "bundle add webrick". Retry after
 <img width="1141" alt="Screenshot 2023-06-28 at 7 48 05 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/95593c70-3fdc-4622-ab90-6b151b567bae">
 
-If you get this error instead, run "sudo gem install bundler:2.3.25" or whichever version of bundler it shows. Then run "bundle add webrick"
+If you get this error, run "sudo gem install bundler:2.3.25" or whichever version of bundler it shows, then run "bundle add webrick" and retry 
 <img width="1221" alt="Screenshot 2023-06-28 at 7 51 41 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/8b534f38-2f0a-4fec-b737-7ab631548cfd">
 
-Once everything is installed, you can retry, the following will show in your terminal if successful
+You should see the following in your terminal if successful
 <img width="916" alt="Screenshot 2023-06-28 at 7 55 39 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/c3885781-e999-4936-997e-bacd29c9a06f">
 
 Once you open the link, you will be greeted with the webpage that you have chosen to edit (in this example, I have opened the programmability webpage)

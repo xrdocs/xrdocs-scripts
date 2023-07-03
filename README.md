@@ -18,9 +18,11 @@ The steps are as follows:
 
 # Compose File Method
 The second method of setting up is a way to create a designated container for each repo you choose to edit rather than just a run command. Follow all of the above steps except for the Docker run command. Once completed, follow the steps below
-  1. Create a file called docker-compose.yml. To get it running with your choice of repository, copy the contents of the file above.
+  1. Create a file called docker-compose.yml in your local repo. To get it running with your choice of repository, copy the contents of the file above.
   2. Once added, save the file and in your terminal run the command (docker-compose up). After dependencies, you should see this <img width="916" alt="Screenshot 2023-06-28 at 7 55 39 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/c3885781-e999-4936-997e-bacd29c9a06f">
   3. If you want to check the container as well, you can check now in the Docker Desktop and will see a designated container for your repo (ex: programmability) <img width="1020" alt="Screenshot 2023-06-28 at 7 56 03 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/122f967c-4d9e-4c8b-a324-6be7abffbabd">
+
+One thing to note with this method, is that whenever you finish editing changes and want to push to origin, you will constantly have to remove and add this compose file into each repo locally. It is recommended to follow the docker run method instead.
 
 # Errors 
 If you receive this error instead of a host, run "bundle add webrick"

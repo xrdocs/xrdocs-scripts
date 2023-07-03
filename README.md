@@ -6,6 +6,9 @@ There are two ways to set this up, using a docker run command which is easiest, 
 The best way to set everything up for local edits would be to ensure that you have all of the repositories that you want to edit in a desginated folder such as "xrdocs" located on your device. (Here I have a folder created on my Desktop called XRdocs github, with repo's that have been cloned inside)
 <img width="920" alt="Screenshot 2023-07-03 at 7 51 42 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/f2b6df41-64a0-4aca-b419-e5046b372f63">
 
+Once you have everything set up, the next steps are as follow:
+  1. Download any IDE of your choice
+  2. Download Docker for your operating sysyem ([Docker Mac Install], [Docker Windows Install https://docs.docker.com/desktop/install/windows-install/]) 
 
 The docker-compose file runs your chosen repository (ex: programmability) by running docker-compose up to start the locally hosted website on localhost:4000. To get it running with your choice of repository, create a new file called docker-compose.yml, and copy the contents of the file above. 
 

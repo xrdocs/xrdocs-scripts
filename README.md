@@ -39,7 +39,8 @@ Once you open the link, you will be greeted with the webpage that you have chose
 
 # Editing live
 After opening the local host site, you are now able to edit anything via an IDE (using VScode in this example)
-<img width="1440" alt="Screenshot 2023-06-29 at 9 48 41 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/814ed0cd-99b2-407d-98eb-66efedc8a7b3">
+<img width="1440" alt="Screenshot 2023-07-05 at 7 35 28 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/fae3524d-8245-4650-b220-4da943c7b843">
+
 
 Here we are editing the blog article of "Getting started with gNMI".
 

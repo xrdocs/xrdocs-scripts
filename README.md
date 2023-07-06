@@ -48,12 +48,11 @@ After opening the local host site, you are now able to edit anything via an IDE 
 
 <img width="1440" alt="Screenshot 2023-07-05 at 7 35 28 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/fae3524d-8245-4650-b220-4da943c7b843">
 
-
 As you edit the file, once you are done with your changes and want to see them live, save the file you are working on locally. Once you save, you will see Jekyll refresh the website in your terminal
 
 <img width="535" alt="Screenshot 2023-06-29 at 9 53 36 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/584d0d31-13af-43af-af8e-85bf2a65a412">
 
-Once Jekyll has reloaded, simply refresh the local webpage and you will see your changes visible
+Once Jekyll has reloaded, simply refresh the local webpage and you will see your changes visible. Here we can see that the green highlights in our IDE indicate the changes we have made onto our webpage
 
 <img width="1440" alt="Screenshot 2023-06-29 at 9 54 29 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/72ca8655-1b77-48e7-a7cd-0a0089ab875e">
 

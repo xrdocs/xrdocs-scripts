@@ -58,5 +58,7 @@ Once Jekyll has reloaded, simply refresh the local webpage and you will see your
 <img width="1440" alt="Screenshot 2023-06-29 at 9 54 29 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/72ca8655-1b77-48e7-a7cd-0a0089ab875e">
 
 Once you are satisfied with the changes, you can simply run do "ctrl + C" on mac or close the terminal to end the local webpage. After, you can push your changes to github in the respective repository, and your changes will load live on github pages. Sometimes your local IDE will show lots of changes being pushed to github, which were all done when dependencies were being updated alongside with the changes that you have made. Just make sure the changes you have made are visible and you can push to Github
+
+
 <img width="218" alt="Screenshot 2023-07-06 at 8 21 10 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/934c7d96-80f4-4cd2-8ead-0ed155b3a744">
 

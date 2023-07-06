@@ -44,17 +44,17 @@ Once you open the link, you will be greeted with the webpage that you have chose
 <img width="1440" alt="Screenshot 2023-06-28 at 7 58 22 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/390b9347-847f-4097-8fb7-f51d6e6ab8a8">
 
 # Editing live
-After opening the local host site, you are now able to edit anything via an IDE (using VScode in this example)
+After opening the local host site, you are now able to edit anything via an IDE (using VScode in this example). Here we are editing the blog article of "Getting started with gNMI".
+
 <img width="1440" alt="Screenshot 2023-07-05 at 7 35 28 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/fae3524d-8245-4650-b220-4da943c7b843">
 
-Here we are editing the blog article of "Getting started with gNMI".
 
 As you edit the file, once you are done with your changes and want to see them live, save the file you are working on locally. Once you save, you will see Jekyll refresh the website in your terminal
-
 
 <img width="535" alt="Screenshot 2023-06-29 at 9 53 36 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/584d0d31-13af-43af-af8e-85bf2a65a412">
 
 Once Jekyll has reloaded, simply refresh the local webpage and you will see your changes visible
+
 <img width="1440" alt="Screenshot 2023-06-29 at 9 54 29 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/72ca8655-1b77-48e7-a7cd-0a0089ab875e">
 
 Once you are satisfied with the changes, you can simply run do "ctrl + C" on mac or close the terminal to end the local webpage. After, you can push your changes to github in the respective repository, and your changes will load live on github pages. Sometimes your local IDE will show lots of changes being pushed to github, which were all done when dependencies were being updated alongside with the changes that you have made. Just make sure the changes you have made are visible and you can push to Github

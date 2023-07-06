@@ -15,6 +15,8 @@ The steps are as follows:
   6. Change your directory into whatever part of the webiste you want to work on (Ex: programmability)
   7. Once inside, you should be able to run the command listed (docker run --volume="$PWD:/srv/jekyll" -p 4000:4000 jekyll/jekyll:4.0 jekyll serve). After running, dependencies will be fetched and after a minute or so you will see a link to your locally hosted website
 <img width="515" alt="Screenshot 2023-07-06 at 8 26 08 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/2cd16777-df6a-412d-8c65-c509fe7b4756">
+
+
   8. If you want to see the Docker run in the Docker Desktop App, you can open it and will see it temporarily running
 <img width="1022" alt="Screenshot 2023-07-06 at 8 26 44 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/f6113802-c6c4-4e72-99d3-22bd93d7ff57">
 

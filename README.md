@@ -31,10 +31,10 @@ The second method of setting up is a way to create a designated container for ea
 One thing to note with this method is that whenever you finish editing changes and want to push to the origin, you will constantly have to remove and add this compose file into each repo locally. It is recommended to follow the docker run method instead.
 
 # Troubleshooting 
-If you receive this error instead of a host, run "bundle add webrick" and retry
+If you receive this error instead of a host, make sure you have ruby downloaded (ruby -v). Run "bundle add webrick" and retry
 <img width="1141" alt="Screenshot 2023-06-28 at 7 48 05 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/95593c70-3fdc-4622-ab90-6b151b567bae">
 
-If you get this error, run "sudo gem install bundler:2.3.25" or whichever version of bundler it shows, then run "bundle add webrick" and retry 
+If you get this error, run "sudo gem install bundler:2.3.25" or for windows run "gem install bundler" or whichever version of bundler it shows, then run "bundle add webrick" and retry 
 <img width="1221" alt="Screenshot 2023-06-28 at 7 51 41 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/8b534f38-2f0a-4fec-b737-7ab631548cfd">
 
 You should see the following in your terminal once successful

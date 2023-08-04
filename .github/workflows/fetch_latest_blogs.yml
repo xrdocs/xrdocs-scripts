@@ -18,9 +18,23 @@ jobs:
           python-version: 3.11
       
       - name: Install dependencies
-        run: pip install pyyaml PyGithub 
+        run: pip install pyyaml PyGithub
       
       - name: Run Python Script
         env: 
-          PRIVATEKEY_FETCH_LATEST_BLOGS: ${{ secrets.PRIVATEKEY_FETCH_LATEST_BLOGS}}
+          FETCH_BLOGS: ${{ secrets.FETCH_BLOGS}}
         run: python fetch_blogs.py
+
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Github Action"
+          git add .
+          git commit -m "Add json file" -a
+
+      - name: Push json file
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+    

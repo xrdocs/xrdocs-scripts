@@ -1,0 +1,26 @@
+name: Fetch Latest Blogs
+
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+    
+jobs:
+  fetch_latest_blogs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+        
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.11
+      
+      - name: Install dependencies
+        run: pip install pyyaml PyGithub 
+      
+      - name: Run Python Script
+        env: 
+          PRIVATEKEY_FETCH_LATEST_BLOGS: ${{ secrets.PRIVATEKEY_FETCH_LATEST_BLOGS}}
+        run: python fetch_blogs.py

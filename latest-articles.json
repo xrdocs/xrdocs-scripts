@@ -1,0 +1,758 @@
+[
+    {
+        "title": "convergence-of-ip-optical-and-control-routed-optical-networks",
+        "date": "2023-08-03T08:03:14",
+        "url": "https://xrdocs.io/design/blogs/2023-07-31-convergence-of-ip-optical-and-control-routed-optical-networks/",
+        "blog-description": "The control system for Routed Optical Networks"
+    },
+    {
+        "title": "modernizing-ixp-design",
+        "date": "2023-08-02T20:44:49",
+        "url": "https://xrdocs.io/design/blogs/2019-09-06-modernizing-ixp-design/",
+        "blog-description": "IX fabrics began as very simple L2 switching designs but have evolved to worldwide interconnection networks supporting Terabits of traffic. SR and EVPN transform simple IX networks into flexible and resilient fabrics support any service type at any location in the fabric."
+    },
+    {
+        "title": "cisco-8000-port-assignment",
+        "date": "2023-07-25T20:53:28",
+        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-port-assignment/",
+        "blog-description": "This article will highlight how ports are allocated to IFG/Slice/NPU for each Cisco 8000 line card and systems."
+    },
+    {
+        "title": "cisco-8800-fan-tray-fabric-card-line-card-replacement",
+        "date": "2023-07-19T21:00:13",
+        "url": "https://xrdocs.io/8000/tutorials/cisco-8800-fan-tray-fabric-card-line-card-replacement/",
+        "blog-description": "This blog post details the steps required to replace a FT, FC and LC on a Cisco 8800 router. "
+    },
+    {
+        "title": "pyats-series-adding-and-removing-configuration",
+        "date": "2023-06-27T20:29:51",
+        "url": "https://xrdocs.io/programmability/tutorials/pyats-series-adding-and-removing-configuration/",
+        "blog-description": "Adding and removing configuration from IOS XR device using pyATS"
+    },
+    {
+        "title": "pyats-series-install-and-use-pyats",
+        "date": "2023-06-21T19:34:28",
+        "url": "https://xrdocs.io/programmability/tutorials/pyats-series-install-and-use-pyats/",
+        "blog-description": "Installation of pyATS and collecting your first CLI output"
+    },
+    {
+        "title": "pyats-series-parsing-like-a-pro",
+        "date": "2023-06-21T19:34:06",
+        "url": "https://xrdocs.io/programmability/tutorials/pyats-series-parsing-like-a-pro/",
+        "blog-description": "Explore pyATS libraries and parse your first CLI output"
+    },
+    {
+        "title": "pyats-series-be-a-model",
+        "date": "2023-06-21T19:33:35",
+        "url": "https://xrdocs.io/programmability/tutorials/pyats-series-be-a-model/",
+        "blog-description": "What's a pyATS model and when to use it"
+    },
+    {
+        "title": "pyats-series-collecting-many-show-commands",
+        "date": "2023-06-21T19:33:14",
+        "url": "https://xrdocs.io/programmability/tutorials/pyats-series-collecting-many-show-commands/",
+        "blog-description": "Collecting a list of show commands on a list of devices"
+    },
+    {
+        "title": "pyats-series-tips-and-tricks",
+        "date": "2023-06-21T19:32:54",
+        "url": "https://xrdocs.io/programmability/tutorials/pyats-series-tips-and-tricks/",
+        "blog-description": ""
+    },
+    {
+        "title": "scrapli-overview",
+        "date": "2023-06-21T18:46:29",
+        "url": "https://xrdocs.io/programmability/tutorials/2022-02-22-scrapli-overview/",
+        "blog-description": "Scrapli is a Python library that grabbed the attention of network engineers. You can learn more about it and take a look at how you could manage Cisco devices with it."
+    },
+    {
+        "title": "2023-04-18-application-hosting-with-appmgr",
+        "date": "2023-06-12T23:16:32",
+        "url": "https://xrdocs.io/application-hosting/tutorials/2023-04-18-2023-04-18-application-hosting-with-appmgr/",
+        "blog-description": "Learn how to use XR appmgr to build docker applications"
+    },
+    {
+        "title": "service-assurance-a-guide-for-the-perplexed",
+        "date": "2023-05-31T15:49:32",
+        "url": "https://xrdocs.io/design/blogs/2023-05-16-service-assurance-a-guide-for-the-perplexed/",
+        "blog-description": "An introduction to the current landscape of assurance in service provider networks"
+    },
+    {
+        "title": "service-assurance-a-guide-for-the-perplexed-part-two",
+        "date": "2023-05-31T15:41:48",
+        "url": "https://xrdocs.io/design/blogs/2023-05-26-service-assurance-a-guide-for-the-perplexed-part-two/",
+        "blog-description": "An overview of protocols, methods and tools for service assurance"
+    },
+    {
+        "title": "internet-edge-peering-current-practice",
+        "date": "2023-05-16T16:26:45",
+        "url": "https://xrdocs.io/design/blogs/2017-08-01-internet-edge-peering-current-practice/",
+        "blog-description": "Design and deployment practices for today's Internet peering networks"
+    },
+    {
+        "title": "multicast-distribution-trees-mdts",
+        "date": "2023-05-03T06:58:45",
+        "url": "https://xrdocs.io/multicast/blogs/multicast-distribution-trees-mdts/",
+        "blog-description": "Description of MDTs (Default, Partitioned, Data)"
+    },
+    {
+        "title": "asr9k-inline-map-t-border-relay-configuration-and-troubleshooting",
+        "date": "2023-05-02T21:41:26",
+        "url": "https://xrdocs.io/asr9k/tutorials/asr9k-inline-map-t-border-relay-configuration-and-troubleshooting/",
+        "blog-description": "ASR 9000 supports inline MAP-T Border Relay functions explained in RFC 7599. This tutorial covers basic configuration and advanced torubleshooting required for implementing this feature in Classic (32-bit) and Evolved (64-bit) IOS-XR SW versions."
+    },
+    {
+        "title": "cst-srv6-addition",
+        "date": "2023-04-26T12:23:41",
+        "url": "https://xrdocs.io/design/blogs/2023-03-01-cst-srv6-addition/",
+        "blog-description": "CST SRv6 HLD"
+    },
+    {
+        "title": "cisco-8000-fib-scale",
+        "date": "2023-04-06T15:10:47",
+        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-fib-scale/",
+        "blog-description": "This article will document how Silicon One Q100 and Q200 based systems can support current and future BGP scale for peering and core roles. Based on projected growth, tests will demonstrate they are also future proof. Last, a new feature introduced to increase FIB scale on Q200 will be demonstrated. Telemetry data will also be used to illustrate system capabilities."
+    },
+    {
+        "title": "8100-8200-deployment-note",
+        "date": "2023-03-22T23:08:53",
+        "url": "https://xrdocs.io/8000/blogs/8100-8200-deployment-note/",
+        "blog-description": "While the 8100 and 8200 Series have similar hardware architectures and form factors, there are key differences that impact the network roles they address. This post will cover their positioning and differences. "
+    },
+    {
+        "title": "pppoe-ds-dhcpv6-subscriber-bringup-in-cnbng",
+        "date": "2023-03-20T19:00:21",
+        "url": "https://xrdocs.io/cnbng/tutorials/pppoe-ds-dhcpv6-subscriber-bringup-in-cnbng/",
+        "blog-description": "Learn how to bring a PPPoE Dualstack session in this tutorial. This tutorial covers pap/chap auth for PPPoE subscriber and accounting."
+    },
+    {
+        "title": "ipoe-ds-subscriber-bringup-in-cnbng",
+        "date": "2023-03-20T18:45:32",
+        "url": "https://xrdocs.io/cnbng/tutorials/ipoe-ds-subscriber-bringup-in-cnbng/",
+        "blog-description": "Learn how to bring an IPoE Dualstack session in this tutorial. This tutorial covers Radius auth based on MAC as well."
+    },
+    {
+        "title": "cnbng-cp-single-vm-aio-deployment-guide",
+        "date": "2023-03-20T18:44:26",
+        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-single-vm-aio-deployment-guide/",
+        "blog-description": "cnBNG Control Plane can be deployed in Single VM. This single VM deployment of cnBNG is called as All-in-one (AIO) deployment. AIO deployment includes ops-center, telemetry, grafana with full cloud native stack from SMI and cnBNG control plane application software. In this tutorial lean how to deploy cnBNG CP in Single VM."
+    },
+    {
+        "title": "pppoe-lac-subscriber-bringup-in-cnbng",
+        "date": "2023-03-20T17:13:29",
+        "url": "https://xrdocs.io/cnbng/tutorials/pppoe-lac-subscriber-bringup-in-cnbng/",
+        "blog-description": "Learn how to bring PPPoE LAC sessions in this tutorial. This tutorial also brings up PPPoE PTA sessions on same access interface."
+    },
+    {
+        "title": "cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment",
+        "date": "2023-03-20T17:07:47",
+        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment/",
+        "blog-description": "Learn how to deploy cnBNG Control Plane in a pre-deployed VM in any environment"
+    },
+    {
+        "title": "inception-server-deployment-guide",
+        "date": "2023-03-20T17:04:12",
+        "url": "https://xrdocs.io/cnbng/tutorials/inception-server-deployment-guide/",
+        "blog-description": "Inception server provides automation to deploy cnBNG CP. In this deployment guide learn how to deploy Inception Server in VMWare ESXi Environment."
+    },
+    {
+        "title": "multicast-101-introduction",
+        "date": "2023-02-20T18:38:46",
+        "url": "https://xrdocs.io/multicast/blogs/multicast-101-introduction/",
+        "blog-description": "Multicast 101 Introduction"
+    },
+    {
+        "title": "getting-started-with-xrd-on-aws",
+        "date": "2023-02-15T11:13:05",
+        "url": "https://xrdocs.io/virtual-routing/tutorials/2022-12-08-getting-started-with-xrd-on-aws/",
+        "blog-description": "Learn how to deploy and interact with XRd running in an EKS cluster"
+    },
+    {
+        "title": "setting-up-host-environment-to-run-xrd",
+        "date": "2023-02-03T16:59:45",
+        "url": "https://xrdocs.io/virtual-routing/tutorials/2022-08-22-setting-up-host-environment-to-run-xrd/",
+        "blog-description": "Learn how to set up the host environment to successfully launch Control-Plane and vRouter XRd images in your setup."
+    },
+    {
+        "title": "xrd-with-docker-compose-control-plane",
+        "date": "2023-01-21T23:25:45",
+        "url": "https://xrdocs.io/virtual-routing/tutorials/2022-08-29-xrd-with-docker-compose-control-plane/",
+        "blog-description": "Learn how to bring up XRd with docker-compose for the Control-Plane variant."
+    },
+    {
+        "title": "xrd-images-where-can-one-get-them",
+        "date": "2023-01-21T23:21:43",
+        "url": "https://xrdocs.io/virtual-routing/tutorials/2022-08-22-xrd-images-where-can-one-get-them/",
+        "blog-description": "Learn how to download the latest XRd images and set them up for further use."
+    },
+    {
+        "title": "cisco-8000-pbts-implementation-basic",
+        "date": "2022-12-22T21:09:23",
+        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-pbts-implementation-basic/",
+        "blog-description": "This post aims to describe PBTS implementation on Cisco 8000 routers.   It will go over feature operation, configuration, verification, and other notes like constraints and supported scale."
+    },
+    {
+        "title": "cst-routed-optical-2_0",
+        "date": "2022-12-12T14:47:41",
+        "url": "https://xrdocs.io/design/blogs/2022-12-01-cst-routed-optical-2_0/",
+        "blog-description": "Routed Optical Networking 2.0"
+    },
+    {
+        "title": "cst-routed-optical-1_0",
+        "date": "2022-12-12T14:33:12",
+        "url": "https://xrdocs.io/design/blogs/2022-01-07-cst-routed-optical-1_0/",
+        "blog-description": "Routed Optical Networking 1.0"
+    },
+    {
+        "title": "2022-1001-ron-openconfig",
+        "date": "2022-11-16T03:08:50",
+        "url": "https://xrdocs.io/design/blogs/2022-1001-ron-openconfig/",
+        "blog-description": "Openconfig ZR/ZR+ Provisioning"
+    },
+    {
+        "title": "xrd-with-docker-control-plane-and-vrouter",
+        "date": "2022-11-10T05:51:11",
+        "url": "https://xrdocs.io/virtual-routing/tutorials/2022-08-23-xrd-with-docker-control-plane-and-vrouter/",
+        "blog-description": "Learn the basics of bringing up XRd with Docker."
+    },
+    {
+        "title": "build-your-own-xrv9000-amis-for-aws",
+        "date": "2022-09-08T10:45:14",
+        "url": "https://xrdocs.io/virtual-routing/blogs/2022-08-23-build-your-own-xrv9000-amis-for-aws/",
+        "blog-description": "If you have access to an XRv9000 iso and are looking to deploy it on AWS - then this blog will walk you through the steps needed to build the AWS AMI yourself."
+    },
+    {
+        "title": "high-availability-with-xrv9000-on-aws-using-apphosting-sl-api",
+        "date": "2022-09-08T09:44:47",
+        "url": "https://xrdocs.io/virtual-routing/blogs/2022-08-23-high-availability-with-xrv9000-on-aws-using-apphosting-sl-api/",
+        "blog-description": "Learn how to enable 1:1 high-availability with XRv9000 when running on AWS. In this blog we discuss a solution to achieve HA by building our own third-party container application that hooks into IOS-XR Service-layer APIs and can be deployed using XR AppMgr"
+    },
+    {
+        "title": "8000-software-xr7-giso",
+        "date": "2022-09-01T19:10:35",
+        "url": "https://xrdocs.io/8000/tutorials/8000-software-xr7-giso/",
+        "blog-description": "This tutorial will describe and illustrate how to generate a Golden ISO (GISO) image for Cisco 8000 routers. GISO can be used to stage, re-image, patch or upgrade Cisco 8000 routers. "
+    },
+    {
+        "title": "8000-software-xr7-usb-boot",
+        "date": "2022-08-29T12:57:11",
+        "url": "https://xrdocs.io/8000/tutorials/8000-software-xr7-usb-boot/",
+        "blog-description": "This tutorial will describe and illustrate how to USB boot Cisco 8000 routers. This step-by-step procedure can be used to stage, re-image or recover a router from a boot failure."
+    },
+    {
+        "title": "user-interface-and-knobs-for-xrd",
+        "date": "2022-08-25T11:31:22",
+        "url": "https://xrdocs.io/virtual-routing/tutorials/2022-08-25-user-interface-and-knobs-for-xrd/",
+        "blog-description": "Learn the different environment variables and knobs that are supported for XRd when used with container orchestrators like docker, docker-compose or k8s"
+    },
+    {
+        "title": "helper-tools-to-get-started-with-xrd",
+        "date": "2022-08-24T10:27:07",
+        "url": "https://xrdocs.io/virtual-routing/tutorials/2022-08-22-helper-tools-to-get-started-with-xrd/",
+        "blog-description": "Helper scripts and tools to launch Cisco XRd platform in containerized network environments."
+    },
+    {
+        "title": "8000-software-xr7-add-package",
+        "date": "2022-08-16T13:19:37",
+        "url": "https://xrdocs.io/8000/tutorials/8000-software-xr7-add-package/",
+        "blog-description": "This blog post aims to describe IOS XR7 software operation details to add optional packages on a Cisco 8000 router."
+    },
+    {
+        "title": "monitoring-bng-with-model-driven-telemetry",
+        "date": "2022-08-10T18:03:00",
+        "url": "https://xrdocs.io/telemetry/tutorials/2022-07-27-monitoring-bng-with-model-driven-telemetry/",
+        "blog-description": "This tutorial describes sensor-paths for basic BNG monitoring"
+    },
+    {
+        "title": "how-to-get-a-serial-number-pyats",
+        "date": "2022-08-10T13:33:29",
+        "url": "https://xrdocs.io/programmability/tutorials/how-to-get-a-serial-number-pyats/",
+        "blog-description": "How to get a serial number on an IOS XR device using pyATS?"
+    },
+    {
+        "title": "8000-software-xr7-remove-package",
+        "date": "2022-08-10T11:56:14",
+        "url": "https://xrdocs.io/8000/tutorials/8000-software-xr7-remove-package/",
+        "blog-description": "This blog post aims to describe IOS XR7 software operation details to remove optional packages. "
+    },
+    {
+        "title": "converged-sdn-transport-4_0-hld",
+        "date": "2022-07-20T14:37:46",
+        "url": "https://xrdocs.io/design/blogs/2021-01-20-converged-sdn-transport-4_0-hld/",
+        "blog-description": "Cisco Converged SDN Transport (CST) design introduces an SDN-ready architecture evolving network design towards an SDN enabled, programmable network capable of delivering all services."
+    },
+    {
+        "title": "converged-sdn-transport-5_0-hld",
+        "date": "2022-07-20T14:37:46",
+        "url": "https://xrdocs.io/design/blogs/2022-07-01-converged-sdn-transport-5_0-hld/",
+        "blog-description": "Cisco Converged SDN Transport (CST) design introduces an SDN-ready architecture evolving network design towards an SDN enabled, programmable network capable of delivering all services."
+    },
+    {
+        "title": "peering-fabric-hld_5_0",
+        "date": "2022-07-20T14:37:46",
+        "url": "https://xrdocs.io/design/blogs/2022-07-01-peering-fabric-hld_5_0/",
+        "blog-description": "Peering Fabric Design - 5.0"
+    },
+    {
+        "title": "ios-xr-ztp-learning-through-packet-captures",
+        "date": "2022-07-13T12:27:28",
+        "url": "https://xrdocs.io/ztp/blogs/2017-09-21-ios-xr-ztp-learning-through-packet-captures/",
+        "blog-description": "Packet Captures are a great way to understand how the router running IOS-XR behaves with the outside world. In this blog,  we look at Zero Touch provisioning workflows and the corresponding packets exchanged with the DHCP server"
+    },
+    {
+        "title": "ios-xr-ztp-learning-through-packet-captures",
+        "date": "2022-07-12T15:21:34",
+        "url": "https://xrdocs.io/device-lifecycle/blogs/2017-09-21-ios-xr-ztp-learning-through-packet-captures/",
+        "blog-description": "Packet Captures are a great way to understand how the router running IOS-XR behaves with the outside world. In this blog,  we look at Zero Touch provisioning workflows and the corresponding packets exchanged with the DHCP server"
+    },
+    {
+        "title": "cnbng-cp-multiserver-vmware-deployment-guide",
+        "date": "2022-06-28T10:30:17",
+        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-multiserver-vmware-deployment-guide/",
+        "blog-description": "Learn how to deploy cnBNG CP HA setup. You will learn how to bring-up cnBNG CP using multi server or VM nodes in VMWare ESXi environment, basic concepts related to networking etc."
+    },
+    {
+        "title": "8000-router-power-consumption-part-1",
+        "date": "2022-06-21T19:30:57",
+        "url": "https://xrdocs.io/8000/blogs/8000-router-power-consumption-part-1/",
+        "blog-description": "Power claims for networking equipment are often difficult to understand. It\u2019s not always clear whether chip, card, or system power is being stated and what conditions were used for the evaluation. Let\u2019s take a step back and consider a better way of keeping score. "
+    },
+    {
+        "title": "introduction-to-multicast",
+        "date": "2022-06-13T15:22:38",
+        "url": "https://xrdocs.io/multicast/tutorials/2021-03-23-introduction-to-multicast/",
+        "blog-description": "Introduction to NCS5500 Multicast"
+    },
+    {
+        "title": "pim-ssm",
+        "date": "2022-06-13T15:22:14",
+        "url": "https://xrdocs.io/multicast/tutorials/2021-08-05-pim-ssm/",
+        "blog-description": "Introduction to Multicast PIM-SSM"
+    },
+    {
+        "title": "cisco-8800-power-provisioning",
+        "date": "2022-06-01T14:37:33",
+        "url": "https://xrdocs.io/8000/blogs/cisco-8800-power-provisioning/",
+        "blog-description": "Cisco\u2019s 8000 Series\u2019 introduced a new model for power allocation that reduces the amount of power that must be connected. This saves money and frees up facility resources for other uses."
+    },
+    {
+        "title": "cisco-8000-npu-traps-telemetry-gnmi",
+        "date": "2022-04-21T09:21:17",
+        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-npu-traps-telemetry-gnmi/",
+        "blog-description": "On Cisco 8000, Network Processing Unit (NPU) traps are raised in response to the type of packets received by the router. This post will describe how to retrieve Cisco 8000 NPU traps counters through telemetry using gNMI interface."
+    },
+    {
+        "title": "cnbng-cp-multiserver-baremetal-deployment-guide",
+        "date": "2022-02-14T09:10:02",
+        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-multiserver-baremetal-deployment-guide/",
+        "blog-description": "Learn how to deploy cnBNG CP HA setup on baremetal UCS servers. Baremetal deployment is also called as CNDP deployment, it allows cnBNG CP to be deployed without need of running hypervisor. CNDP deployment offers 20% performance improvement over traditional hypervisor/VM based deployment."
+    },
+    {
+        "title": "troubleshoot-slow-bgp-convergence-due-to-rpl",
+        "date": "2022-01-31T15:22:29",
+        "url": "https://xrdocs.io/asr9k/tutorials/troubleshoot-slow-bgp-convergence-due-to-rpl/",
+        "blog-description": "This document describes how to diagnose slow BGP convergence issue on Cisco IOS\u00ae XR routers which happens because of non optimal route policies."
+    },
+    {
+        "title": "converged-sdn-transport-convert",
+        "date": "2022-01-14T15:42:54",
+        "url": "https://xrdocs.io/design/blogs/2020-03-09-converged-sdn-transport-convert/",
+        "blog-description": "Cisco Converged SDN Transport (CST) design introduces an SDN-ready architecture evolving network design towards an SDN enabled, programmable network capable of delivering all services. 3.0 Update"
+    },
+    {
+        "title": "cloud-native-bng-demo-tech-field-day",
+        "date": "2021-12-16T12:28:55",
+        "url": "https://xrdocs.io/cnbng/blogs/cloud-native-bng-demo-tech-field-day/",
+        "blog-description": "Learn cnBNG solution and watch cnBNG in action through a demo in these Tech Field Day sessions."
+    },
+    {
+        "title": "8201-architecture-performance",
+        "date": "2021-12-15T17:17:49",
+        "url": "https://xrdocs.io/8000/tutorials/8201-architecture-performance/",
+        "blog-description": "This short article will first cover Cisco 8201 high level internal architecture. Then, a quick and simple lab test will demonstrate how it can achieve 10.8Tbps at target Non-Drop Rate (NDR). This test will address recent concerns raised about its forwarding performance."
+    },
+    {
+        "title": "do-you-speak-yang",
+        "date": "2021-11-08T12:20:45",
+        "url": "https://xrdocs.io/programmability/tutorials/do-you-speak-yang/",
+        "blog-description": "Presentation of YANG Suite tool, to retrieve and observe YANG models from your network devices."
+    },
+    {
+        "title": "telemetry-sensor-group-yang-anx",
+        "date": "2021-03-18T09:51:14",
+        "url": "https://xrdocs.io/telemetry/tutorials/telemetry-sensor-group-yang-anx/",
+        "blog-description": "This post will describe how to retrieve the YANG path for a given command and configure the corresponding sensor-group on an IOS-XR router."
+    },
+    {
+        "title": "ios-xr-telemetry-power-consumption-docker-compose",
+        "date": "2021-03-08T15:33:32",
+        "url": "https://xrdocs.io/telemetry/tutorials/ios-xr-telemetry-power-consumption-docker-compose/",
+        "blog-description": "This post will describe how a docker-based ephemeral telemetry stack has been built to monitor Cisco IOS-XR device power consumption."
+    },
+    {
+        "title": "peering-fabric-hld_3_5",
+        "date": "2021-03-01T21:41:51",
+        "url": "https://xrdocs.io/design/blogs/2020-10-01-peering-fabric-hld_3_5/",
+        "blog-description": "Peering Fabric Design - 3.5"
+    },
+    {
+        "title": "nornir-overview",
+        "date": "2021-01-08T18:30:01",
+        "url": "https://xrdocs.io/programmability/tutorials/2020-12-02-nornir-overview/",
+        "blog-description": "Nornir is the new automation framework which grabbed the attention of network engineers. Learn more about it and take a look how you could manage Cisco devices with it."
+    },
+    {
+        "title": "peering-fabric-hld",
+        "date": "2020-11-01T19:42:00",
+        "url": "https://xrdocs.io/design/blogs/2020-01-10-peering-fabric-hld/",
+        "blog-description": "Peering Fabric Design - 3.0"
+    },
+    {
+        "title": "enabling-ios-xr-on-third-party-network-hardware",
+        "date": "2020-10-09T15:26:28",
+        "url": "https://xrdocs.io/cloud-scale-networking/blogs/2018-03-08-enabling-ios-xr-on-third-party-network-hardware/",
+        "blog-description": "As the ecosystem of the Service provider access market evolves to include disaggregated network devices as part of the scale-out strategy, Cisco is now enabling IOS-XR on select OCP-compliant network hardware. Here, we dive deeper into what it takes to work with the OCP and whitebox ecosystem and what IOS-XR is doing in this realm."
+    },
+    {
+        "title": "packet-drop-identification-mdt",
+        "date": "2020-10-05T12:10:42",
+        "url": "https://xrdocs.io/telemetry/tutorials/packet-drop-identification-mdt/",
+        "blog-description": "How Model Driven Telemetry was used to identify and root cause packet drop in a large service provider production environment."
+    },
+    {
+        "title": "xr-toolbox-ios-xr-vagrant",
+        "date": "2020-09-18T14:51:37",
+        "url": "https://xrdocs.io/application-hosting/tutorials/2016-05-22-xr-toolbox-ios-xr-vagrant/",
+        "blog-description": "Getting started with Cisco's IOS-XR Vagrant box"
+    },
+    {
+        "title": "cin-design-guide",
+        "date": "2020-09-14T15:10:01",
+        "url": "https://xrdocs.io/design/blogs/2020-02-15-cin-design-guide/",
+        "blog-description": "Cisco Converged SDN Transport (CST) design introduces an SDN-ready architecture evolving network design towards an SDN enabled, programmable network capable of delivering all services. This guide is an excerpt from the larger CST high-level design and implementation guides specific to CIN."
+    },
+    {
+        "title": "rpki-on-xr",
+        "date": "2020-06-16T19:33:32",
+        "url": "https://xrdocs.io/design/blogs/2020-05-10-rpki-on-xr/",
+        "blog-description": "RPKI or Resource Public Key Infrastructure is rapidly being deployed today to provide BGP prefix security across the Internet. In this blog we will show how to host a popular RPKI validator and RTR cache"
+    },
+    {
+        "title": "cisco-sp-eantc2020-coronavirus",
+        "date": "2020-04-04T02:21:17",
+        "url": "https://xrdocs.io/cloud-scale-networking/blogs/2020-04-03-cisco-sp-eantc2020-coronavirus/",
+        "blog-description": "Cisco IOS XR Service Provider drops from EANTC 2020 public interop event due to Coronavirus pandemic"
+    },
+    {
+        "title": "application-hosting-and-packet-io-on-ios-xr-a-deep-dive",
+        "date": "2019-08-22T05:32:24",
+        "url": "https://xrdocs.io/application-hosting/blogs/2019-08-19-application-hosting-and-packet-io-on-ios-xr-a-deep-dive/",
+        "blog-description": "Looking to understand how Linux applications are able to run on IOS-XR and how they interact with IOS-XR and the external world? How do these applications run the same way on  modular and fixed platforms running IOS-XR with no variations?  Get the answers to these questions and more in this deep dive."
+    },
+    {
+        "title": "converged-sdn-transport-implementation-guide",
+        "date": "2019-06-26T02:21:54",
+        "url": "https://xrdocs.io/design/blogs/2019-04-01-converged-sdn-transport-implementation-guide/",
+        "blog-description": "  "
+    },
+    {
+        "title": "ios-xr-at-CLUS19",
+        "date": "2019-06-09T18:32:05",
+        "url": "https://xrdocs.io/cloud-scale-networking/blogs/ios-xr-at-CLUS19/",
+        "blog-description": "IOS XR related content at Cisco Live US 2019"
+    },
+    {
+        "title": "xr-toolbox-part-5-running-a-native-wrl7-app",
+        "date": "2019-06-07T23:21:14",
+        "url": "https://xrdocs.io/application-hosting/tutorials/2016-06-17-xr-toolbox-part-5-running-a-native-wrl7-app/",
+        "blog-description": "Build, Install and launch a native app in IOS-XR (WRL7 RPM or binary)"
+    },
+    {
+        "title": "xr-app-hosting-architecture-quick-look",
+        "date": "2019-06-07T23:19:52",
+        "url": "https://xrdocs.io/application-hosting/blogs/2016-06-28-xr-app-hosting-architecture-quick-look/",
+        "blog-description": "Quick Walkthrough of the XR app-hosting architecture"
+    },
+    {
+        "title": "validate-the-intent-of-network-config-changes",
+        "date": "2019-06-07T21:29:33",
+        "url": "https://xrdocs.io/programmability/tutorials/2017-08-14-validate-the-intent-of-network-config-changes/",
+        "blog-description": "The goal of this tutorial is not only to demonstrate how to config an IOS XR device using the gRPC framework and OpenConfig YANG models, but also validate the changes by subscribing to a telemetry stream from the device."
+    },
+    {
+        "title": "persistent-load-balancing",
+        "date": "2019-06-06T18:20:33",
+        "url": "https://xrdocs.io/cloud-scale-networking/blogs/2018-06-15-persistent-load-balancing/",
+        "blog-description": "Traditional ECMP or equal cost multipath loadbalances traffic over a number of available paths towards a destination. When one path fails, the traffic gets re-shuffled over the available number of paths."
+    },
+    {
+        "title": "metro-fabric-hld",
+        "date": "2019-04-25T21:21:21",
+        "url": "https://xrdocs.io/design/blogs/2018-10-01-metro-fabric-hld/",
+        "blog-description": "Cisco Metro Fabric (CMF) design introduces an SDN-ready architecture which evolves traditional Metro network  design towards an SDN enabled, programmable network capable of delivering all services. 1.5 Update"
+    },
+    {
+        "title": "peering-fabric-hld",
+        "date": "2019-04-25T21:17:12",
+        "url": "https://xrdocs.io/design/blogs/2018-10-01-peering-fabric-hld/",
+        "blog-description": "Explore the high-level design of Cisco's Peering Fabric v1.5"
+    },
+    {
+        "title": "ios-xr-evolution-part2",
+        "date": "2019-04-22T21:07:24",
+        "url": "https://xrdocs.io/cloud-scale-networking/blogs/ios-xr-evolution-part2/",
+        "blog-description": "In this blog we will discuss IOS XR\u2019s software architecture, that is typically invisible, and describe IOS XR's architecture from its foundations up."
+    },
+    {
+        "title": "ios-xr-evolution-part1",
+        "date": "2019-04-22T21:06:48",
+        "url": "https://xrdocs.io/cloud-scale-networking/blogs/ios-xr-evolution-part1/",
+        "blog-description": "In this blog we will discuss IOS XR\u2019s software architecture, that is typically invisible, and describe IOS XR's architecture from its foundations up."
+    },
+    {
+        "title": "ios-xr-at-ciscolive-melbourne-2019",
+        "date": "2019-02-27T19:28:51",
+        "url": "https://xrdocs.io/cloud-scale-networking/blogs/ios-xr-at-ciscolive-melbourne-2019/",
+        "blog-description": "IOS XR related content at Cisco Live Melbourne 2019"
+    },
+    {
+        "title": "ios-xr-at-CLEUR19",
+        "date": "2019-01-29T07:09:46",
+        "url": "https://xrdocs.io/cloud-scale-networking/blogs/ios-xr-at-CLEUR19/",
+        "blog-description": "IOS XR related content at Cisco Live Europe 2019"
+    },
+    {
+        "title": "dynamic-packet-buffering",
+        "date": "2018-11-20T18:30:31",
+        "url": "https://xrdocs.io/asr9k/blogs/2018-09-06-dynamic-packet-buffering/",
+        "blog-description": "The ASR9000 4th Generation Ethernet linecards use an intelligent packet buffering technique to provide high performance deep buffering."
+    },
+    {
+        "title": "traffic-trends-convert",
+        "date": "2018-11-14T15:59:23",
+        "url": "https://xrdocs.io/design/blogs/traffic-trends-convert/",
+        "blog-description": "In Part 1 of this blog series on transforming regional and metro networks for efficient OTT video delivery, we'll explore the background on how Internet video has evolved and its impact on the Internet."
+    },
+    {
+        "title": "packet-size-distribution",
+        "date": "2018-10-22T21:46:31",
+        "url": "https://xrdocs.io/telemetry/tutorials/2018-10-22-packet-size-distribution/",
+        "blog-description": "How Telemetry can help you in finding packet size distribution across ports"
+    },
+    {
+        "title": "core-fabric-design",
+        "date": "2018-10-11T17:03:16",
+        "url": "https://xrdocs.io/design/blogs/2018-09-12-core-fabric-design/",
+        "blog-description": "Core Fabric Design"
+    },
+    {
+        "title": "power",
+        "date": "2018-09-11T00:03:57",
+        "url": "https://xrdocs.io/asr9k/blogs/2018-09-06-power/",
+        "blog-description": "Power consumption has always been a heated topic and there are several good reasons to that..."
+    },
+    {
+        "title": "comprehensive-guide-to-ansible-on-ios-xr",
+        "date": "2018-08-22T20:42:37",
+        "url": "https://xrdocs.io/application-hosting/tutorials/2018-08-06-comprehensive-guide-to-ansible-on-ios-xr/",
+        "blog-description": "Learn how to utilize Ansible and unleash its power on IOS-XR box. "
+    },
+    {
+        "title": "peering-fabric-hld",
+        "date": "2018-08-17T17:40:07",
+        "url": "https://xrdocs.io/design/blogs/2018-05-08-peering-fabric-hld/",
+        "blog-description": "Explore the high-level design of Cisco's Peering Fabric v1.0"
+    },
+    {
+        "title": "express-peering-fabric",
+        "date": "2018-08-17T16:24:42",
+        "url": "https://xrdocs.io/design/blogs/2018-05-01-express-peering-fabric/",
+        "blog-description": "In Part 2 of this blog series on transforming regional and metro networks for efficient OTT video delivery, we'll explore how an Express Peering Fabric can optimize networks for unicast video delivery."
+    },
+    {
+        "title": "network-predictive-analysis",
+        "date": "2018-08-07T01:53:20",
+        "url": "https://xrdocs.io/telemetry/blogs/2018-07-19-network-predictive-analysis/",
+        "blog-description": "Deep Learning predictive analysis for network operations brings traffic forecasting to the WAN Automation Engine solution. The proposal enables service providers and large enterprises to identify optimal operational windows for the maintenance of links and nodes for software or capacity upgrade."
+    },
+    {
+        "title": "update-on-buffer",
+        "date": "2018-06-15T04:01:10",
+        "url": "https://xrdocs.io/cloud-scale-networking/blogs/2018-05-22-update-on-buffer/",
+        "blog-description": "Buffering requirements for routers have been a much debated and ultimately unresolved topic since the beginning of the Internet. This paper presents a technical foundation for network designers to assess buffering requirements based on applications as well as network and traffic characteristics. It also provides specific recommendations for common scenarios for use in product selection and as a starting point for deployment."
+    },
+    {
+        "title": "logging-on-ios-xr-guest-os-with-rsyslog-and-elastic-stack",
+        "date": "2018-06-06T18:58:43",
+        "url": "https://xrdocs.io/application-hosting/tutorials/2018-05-25-logging-on-ios-xr-guest-os-with-rsyslog-and-elastic-stack/",
+        "blog-description": "In this tutorial we are going to cover how to configure logging solution on IOS-XR guest OS and apply it on Elastic stack. "
+    },
+    {
+        "title": "cisco-ios-xr-at-mplswc2018-interop",
+        "date": "2018-06-05T17:23:53",
+        "url": "https://xrdocs.io/cloud-scale-networking/blogs/2018-05-03-cisco-ios-xr-at-mplswc2018-interop/",
+        "blog-description": "Learn the technical details regarding Cisco\u2019s participation at MPLS WC 2018 interop showcase with platforms powered by the IOS XR operating system. This blog will focus on Segment Routing and Ethernet VPN test areas."
+    },
+    {
+        "title": "ios-xr-telemetry-collection-stack-intro",
+        "date": "2018-06-05T01:26:12",
+        "url": "https://xrdocs.io/telemetry/tutorials/2018-06-04-ios-xr-telemetry-collection-stack-intro/",
+        "blog-description": "Overview of the IOS XR Model Driven Telemetry Stack, that includes a set of components for you to start testing Telemetry right away!"
+    },
+    {
+        "title": "telemetry-collection-stack-detailed-overview",
+        "date": "2018-06-04T23:29:12",
+        "url": "https://xrdocs.io/telemetry/tutorials/2018-06-04-telemetry-collection-stack-detailed-overview/",
+        "blog-description": "Detailed explanation of the script that installs and configures the IOS XR Model Driven Telemetry Stack"
+    },
+    {
+        "title": "on-box-telemetry-running-pipeline-and-kafka-on-ios-xr",
+        "date": "2018-05-24T23:14:45",
+        "url": "https://xrdocs.io/application-hosting/tutorials/2017-04-12-on-box-telemetry-running-pipeline-and-kafka-on-ios-xr/",
+        "blog-description": "Running On-box Agents for Model Driven Telemetry on IOS-XR. In this case we use pipeline and a standalone Kafka client running inside a docker container on XR to carry out local actions based on Telemetry data."
+    },
+    {
+        "title": "metro-design-implementation-guide",
+        "date": "2018-05-15T03:59:07",
+        "url": "https://xrdocs.io/design/blogs/2018-05-09-metro-design-implementation-guide/",
+        "blog-description": ""
+    },
+    {
+        "title": "metro-fabric-hld",
+        "date": "2018-05-15T03:46:23",
+        "url": "https://xrdocs.io/design/blogs/2018-04-30-metro-fabric-hld/",
+        "blog-description": "Cisco Metro Fabric (CMF) design introduces an SDN-ready architecture which evolves traditional Metro network  design towards an SDN enabled, programmable network capable of delivering all services."
+    },
+    {
+        "title": "internet-traffic-trends",
+        "date": "2018-05-12T20:24:40",
+        "url": "https://xrdocs.io/design/blogs/2018-02-25-internet-traffic-trends/",
+        "blog-description": "In Part 1 of this blog series on transforming regional and metro networks for efficient OTT video delivery, we'll explore the background on how Internet video has evolved and its impact on the Internet."
+    },
+    {
+        "title": "anatomy-of-a-network-app-xr-auditor",
+        "date": "2018-05-07T22:28:13",
+        "url": "https://xrdocs.io/application-hosting/blogs/2018-05-01-anatomy-of-a-network-app-xr-auditor/",
+        "blog-description": "A python-based, model-driven auditing solution for IOS-XR:  We walk through the drivers behind the creation of an auditing app that can periodically collect information from XR LXC, Admin LXC and Host Shells of IOS-XR 6.1.2+  and stream out a schema-based XML dump of the linux environment state to a remote server over SSH."
+    },
+    {
+        "title": "xr-s-journey-to-the-we-b-st-open-r-integration-with-ios-xr",
+        "date": "2018-04-05T09:49:55",
+        "url": "https://xrdocs.io/cisco-service-layer/blogs/2018-02-16-xr-s-journey-to-the-we-b-st-open-r-integration-with-ios-xr/",
+        "blog-description": "Open/R, open sourced by Facebook in 2017 is a great example of open source innovation driving the evolution of vendor network stacks to be more open and pluggable. In this blog, we understand the various integration points and expectations with Open/R and see how IOS-XR lives up to the task at hand, quite admirably."
+    },
+    {
+        "title": "introduction-to-p4-and-p4runtime",
+        "date": "2018-03-27T08:29:53",
+        "url": "https://xrdocs.io/cloud-scale-networking/blogs/2018-03-08-introduction-to-p4-and-p4runtime/",
+        "blog-description": "P4 is a domain specific programming language for writing packet forwarding functions. It has several native language constructs such as IPv4 addresses, Interfaces, VLANs that allows for writing highly optimal code which is portable (subject to some constraints as discussed below) across different NPU architectures."
+    },
+    {
+        "title": "configuring-model-driven-telemetry-with-ydk",
+        "date": "2017-09-25T18:40:04",
+        "url": "https://xrdocs.io/telemetry/tutorials/2016-08-08-configuring-model-driven-telemetry-with-ydk/",
+        "blog-description": ""
+    },
+    {
+        "title": "configuring-model-driven-telemetry-mdt",
+        "date": "2017-09-25T15:12:26",
+        "url": "https://xrdocs.io/telemetry/tutorials/2016-07-21-configuring-model-driven-telemetry-mdt/",
+        "blog-description": "Quick Start for MDT Configuration"
+    },
+    {
+        "title": "peering-telemetry",
+        "date": "2017-09-22T20:17:44",
+        "url": "https://xrdocs.io/design/blogs/2017-09-21-peering-telemetry/",
+        "blog-description": "Peering Telemetry - Best Practices and Use Cases"
+    },
+    {
+        "title": "building-an-ios-xrv-vagrant-virtualbox",
+        "date": "2017-09-07T05:44:26",
+        "url": "https://xrdocs.io/application-hosting/blogs/2016-07-12-building-an-ios-xrv-vagrant-virtualbox/",
+        "blog-description": "Tools to build your own XR vagrant box  "
+    },
+    {
+        "title": "programming-ios-xr-with-grpc-and-go",
+        "date": "2017-08-24T18:50:48",
+        "url": "https://xrdocs.io/programmability/tutorials/2017-08-04-programming-ios-xr-with-grpc-and-go/",
+        "blog-description": "The goal of this tutorial is to demonstrate how to program an IOS XR device using the gRPC framework. and the Go programming language. The objective is to have a single interface/connection to retrieve info from the device, apply configs to it, generate telemetry streams, program the RIB/FIB and so on."
+    },
+    {
+        "title": "the-future-of-highly-available-networks",
+        "date": "2017-08-15T17:45:28",
+        "url": "https://xrdocs.io/design/blogs/2017-07-31-the-future-of-highly-available-networks/",
+        "blog-description": "Describes current challenges and future directions for network availability."
+    },
+    {
+        "title": "multithreading-in-mdt",
+        "date": "2017-08-08T13:28:48",
+        "url": "https://xrdocs.io/telemetry/blogs/2017-08-07-multithreading-in-mdt/",
+        "blog-description": "Multithreading in MDT"
+    },
+    {
+        "title": "model-driven-telemetry-dial-in-or-dial-out",
+        "date": "2017-07-31T01:35:53",
+        "url": "https://xrdocs.io/telemetry/blogs/2017-01-20-model-driven-telemetry-dial-in-or-dial-out/",
+        "blog-description": "Discusses the transport options for model-driven telemetry"
+    },
+    {
+        "title": "building-a-ciscolive-demo-with-telemetry-and-kafka",
+        "date": "2017-07-31T01:35:53",
+        "url": "https://xrdocs.io/telemetry/blogs/2017-06-21-building-a-ciscolive-demo-with-telemetry-and-kafka/",
+        "blog-description": "Gives the background of a CiscoLive Telemetry and Kafka Demo"
+    },
+    {
+        "title": "configuring-model-driven-telemetry-mdt-with-yang",
+        "date": "2017-07-31T01:35:53",
+        "url": "https://xrdocs.io/telemetry/tutorials/2016-07-25-configuring-model-driven-telemetry-mdt-with-yang/",
+        "blog-description": "Describes how to configure MDT with YANG models"
+    },
+    {
+        "title": "pipeline-to-text-tutorial",
+        "date": "2017-07-31T01:35:53",
+        "url": "https://xrdocs.io/telemetry/tutorials/2016-10-03-pipeline-to-text-tutorial/",
+        "blog-description": "Describes how to use the open source pipeline utility to collect and transform telemetry data for consumption by various applications"
+    },
+    {
+        "title": "streaming-bgp-route-and-neighbor-counts-with-mdt",
+        "date": "2017-07-31T01:35:53",
+        "url": "https://xrdocs.io/telemetry/tutorials/2016-12-23-streaming-bgp-route-and-neighbor-counts-with-mdt/",
+        "blog-description": "Describes how to configure sensor-paths to stream BGP route counts and neighbor counts"
+    },
+    {
+        "title": "mdt-with-grpc-transport-tricks",
+        "date": "2017-07-31T01:35:53",
+        "url": "https://xrdocs.io/telemetry/tutorials/2017-05-05-mdt-with-grpc-transport-tricks/",
+        "blog-description": "Describes issues you may encounter when using MDT with gRPC over non-management interfaces."
+    },
+    {
+        "title": "running-docker-containers-on-ios-xr-6-1-2",
+        "date": "2017-04-09T04:20:34",
+        "url": "https://xrdocs.io/application-hosting/tutorials/2017-02-26-running-docker-containers-on-ios-xr-6-1-2/",
+        "blog-description": "Running Docker containers on IOS-XR running as a Vagrant box and on a physical NCS5500"
+    },
+    {
+        "title": "xr-toolbox-part-4-bring-your-own-container-lxc-app",
+        "date": "2017-02-26T23:03:19",
+        "url": "https://xrdocs.io/application-hosting/tutorials/2016-06-16-xr-toolbox-part-4-bring-your-own-container-lxc-app/",
+        "blog-description": "Launch a Container app (LXC) on IOS-XR"
+    },
+    {
+        "title": "pathchecker-iperf-netconf-for-ospf-path-failover",
+        "date": "2016-07-19T21:00:57",
+        "url": "https://xrdocs.io/application-hosting/tutorials/2016-07-09-pathchecker-iperf-netconf-for-ospf-path-failover/",
+        "blog-description": "OSPF path remediation using container based iperf and netconf"
+    },
+    {
+        "title": "ios-xr-ansible-container-deployment",
+        "date": "2016-06-25T23:41:14",
+        "url": "https://xrdocs.io/application-hosting/tutorials/2016-06-08-ios-xr-ansible-container-deployment/",
+        "blog-description": "Deploy container at IOS-XR with Ansible"
+    },
+    {
+        "title": "xr-toolbox-ios-xr-vagrant-bootstrap-config",
+        "date": "2016-06-22T03:48:13",
+        "url": "https://xrdocs.io/application-hosting/tutorials/2016-05-31-xr-toolbox-ios-xr-vagrant-bootstrap-config/",
+        "blog-description": "Configure an IOS-XR Vagrant box on boot using a Shell provisioner"
+    }
+]

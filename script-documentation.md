@@ -14,7 +14,7 @@ You can add the new repository here following the same format.
 
 * One thing to note is that the script excludes a specific file from the xrdocs/design/_blogs repo, with the blog title of 2019-02-02-modernizing-ixp-design.md, as it contains a YAML error inside the article itself. If this case is ever removed from the script, it will fail as it cannot succesfully parse through the directories if any markdown files contain issues. 
 
-# Adding new user for github action
+# Adding new user for github actions
 If you need to add a new user, a new PAT token has to be created under the new user and has to be added under the secret key:
 * Navigate to github and your account settings, and under developer settings and personal access token, create a new Token(classic). Once you generate this, do not close this tab until you are the done with the following steps, as the token is only shown once
 * Copy the token, and navigate to [xrdocs organization settings](https://github.com/organizations/xrdocs/settings/secrets/actions). Once there, you will see an Action secret called FETCH_BLOGS, you must edit this value and enter your token as the new value, once done this ensures that the new token will be used when running the github actions and fetching from the github API. You will now recieve updates when the github action runs daily and when it is successful or fails

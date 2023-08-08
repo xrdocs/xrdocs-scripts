@@ -11,3 +11,5 @@ When a new repository or webpage is created for xrdocs, you will have to manuall
 <img width="625" alt="Screenshot 2023-08-08 at 8 02 56 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/1429d126-bdfe-4c03-a57c-7c9ea5abf7ff">
 
 You can add the new repository here following the same format 
+
+One thing to note is that the script excludes a specific file from the xrdocs/design/_blogs repo, with the blog title of 2019-02-02-modernizing-ixp-design.md, as it contains a YAML error inside the article itself. If this case is ever removed from the script, it will fail as it cannot succesfully parse through the directories if any markdown files contain issues. 

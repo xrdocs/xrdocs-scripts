@@ -6,4 +6,8 @@ There are 3 different steps for retrieving the latest blogs and displaying them 
 
 
 # Maintaining Python script for fetching latest blogs/articles
+When a new repository or webpage is created for xrdocs, you will have to manually add the directory and repository in the python script so it can fetch the articles, only add the _blogs and _tutorials folders. 
 
+<img width="625" alt="Screenshot 2023-08-08 at 8 02 56 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/1429d126-bdfe-4c03-a57c-7c9ea5abf7ff">
+
+You can add the new repository here following the same format 

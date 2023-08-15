@@ -4,12 +4,12 @@ How to setup a local environment to edit XRdocs and view changes before pushing
 There are two ways to set this up, using a docker run command (recommended), or adding a docker-compose file into each clone repo locally.
 
 The best way to set everything up for local edits would be to ensure that you have all of the repositories that you want to edit in a designated folder such as "xrdocs" located on your device. (Here, I have a folder created on my Desktop called XRdocs GitHub, with repos that have been cloned via git)
+
 <img width="946" alt="Screenshot 2023-08-15 at 10 46 19 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/02636ac0-9b44-456e-b451-92b38be34af5">
 
 The steps are as follows:
 
   1. Ensure that you have git downloaded on your system [Git install guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-    
   2. Create a folder and clone the repositories into your folder system
   3. Download any IDE of your choice
   4. Download Docker for your operating system [Docker Mac Install](https://docs.docker.com/desktop/install/mac-install/), [Docker Windows Install](https://docs.docker.com/desktop/install/windows-install/)

@@ -14,19 +14,20 @@ The steps are as follows:
   5. Run the test command for Docker (docker run hello-world) to ensure it is running properly
   6. Change your directory into whatever part of the website you want to work on (Ex: programmability)
   7. Once inside, you should be able to run the command listed (docker run --volume="$PWD:/srv/jekyll" -p 4000:4000 jekyll/jekyll:4.0 jekyll serve), for windows (docker run --volume="${PWD}:/srv/jekyll" -p 4000:4000 jekyll/jekyll:4.0 jekyll serve). After running, dependencies will be fetched, and after a minute or so, you will see a link to your locally hosted website
-<img width="515" alt="Screenshot 2023-07-06 at 8 26 08 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/2cd16777-df6a-412d-8c65-c509fe7b4756">
+<img width="1091" alt="Screenshot 2023-08-15 at 11 10 43 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/0446710f-9ea4-4386-97b3-8189839ff592">
 
 
   8. If you want to see the Docker run in the Docker Desktop App, you can open it and will see it temporarily running
-<img width="1022" alt="Screenshot 2023-07-06 at 8 26 44 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/f6113802-c6c4-4e72-99d3-22bd93d7ff57">
+<img width="1254" alt="Screenshot 2023-08-15 at 11 11 52 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/b9d37ac5-6d9f-48f1-9105-5063c1855f6e">
 
 One thing to note is that running with this command will show you the container it has created on the Docker Desktop application, and it will create a new container each time the command is rerun. However, since the container is just used to edit and then push to Github, you can delete the containers once you are done with your changes. 
 
 # Compose File Method
 The second method of setting up is a way to create a designated container for each repo you choose to edit rather than just a run command. Follow all of the above steps except for the Docker run command. Once completed, follow the steps below
   1. Create a file called docker-compose.yml in your local repo. To get it running with your choice of repository, copy the contents of the file above.
-  2. Once added, save the file, and in your terminal, run the command (docker-compose up). After dependencies, you should see this <img width="916" alt="Screenshot 2023-06-28 at 7 55 39 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/c3885781-e999-4936-997e-bacd29c9a06f">
-  3. If you want to check the container as well, you can check now in the Docker Desktop and will see a designated container for your repo (ex: programmability) <img width="1020" alt="Screenshot 2023-06-28 at 7 56 03 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/122f967c-4d9e-4c8b-a324-6be7abffbabd">
+  2. Once added, save the file, and in your terminal, run the command (docker-compose up). After dependencies, you should see this <img width="1091" alt="Screenshot 2023-08-15 at 11 10 43 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/0446710f-9ea4-4386-97b3-8189839ff592">
+  3. If you want to check the container as well, you can check now in the Docker Desktop and will see a designated container for your repo (ex: programmability) 
+<img width="725" alt="Screenshot 2023-08-15 at 11 12 26 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/35e07bd5-9af2-4d20-a462-491e3bffd000">
 
 One thing to note with this method is that whenever you finish editing changes and want to push to the origin, you will constantly have to remove and add this compose file into each repo locally. It is recommended to follow the docker run method instead.
 

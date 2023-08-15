@@ -42,7 +42,8 @@ You should see the following in your terminal once successful
 <img width="498" alt="Screenshot 2023-08-15 at 11 02 52 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/75a38fd5-06be-47ed-a206-69ddab570b81">
 
 Once you open the link, you will be greeted with the webpage that you have chosen to edit (in this example, I have opened the programmability webpage)
-<img width="1440" alt="Screenshot 2023-06-28 at 7 58 22 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/390b9347-847f-4097-8fb7-f51d6e6ab8a8">
+<img width="1440" alt="Screenshot 2023-08-15 at 11 04 51 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/ef96d720-fda1-4240-bfd0-d17e4cd1033b">
+
 
 # Editing live
 After opening the local host site, you are now able to edit anything via an IDE (using VScode in this example). Here we are editing the blog article of "Getting started with gNMI".

@@ -7,7 +7,7 @@ The best way to set everything up for local edits would be to ensure that you ha
 <img width="946" alt="Screenshot 2023-08-15 at 10 46 19 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/02636ac0-9b44-456e-b451-92b38be34af5">
 
 The steps are as follows:
-
+-
   1. Ensure that you have git downloaded on your system [Git install guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
   2. Create a folder and clone the repositories into your folder system
   3. Download any IDE of your choice

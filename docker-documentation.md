@@ -38,6 +38,7 @@ If you get this error, run "sudo gem install bundler:2.3.25" or for windows run 
 <img width="1206" alt="Screenshot 2023-06-28 at 7 50 16 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/6ff0ecfd-011e-4c4c-98dc-1b27ddbce5e3">
 
 You should see the following in your terminal once successful
+
 <img width="498" alt="Screenshot 2023-08-15 at 11 02 52 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/75a38fd5-06be-47ed-a206-69ddab570b81">
 
 Once you open the link, you will be greeted with the webpage that you have chosen to edit (in this example, I have opened the programmability webpage)

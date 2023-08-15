@@ -7,6 +7,7 @@ The best way to set everything up for local edits would be to ensure that you ha
 <img width="946" alt="Screenshot 2023-08-15 at 10 46 19 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/02636ac0-9b44-456e-b451-92b38be34af5">
 
 The steps are as follows:
+
   1. Ensure that you have git downloaded on your system [Git install guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
   2. Create a folder and clone the repositories into your folder system
   3. Download any IDE of your choice
@@ -14,6 +15,7 @@ The steps are as follows:
   5. Run the test command for Docker (docker run hello-world) to ensure it is running properly
   6. Change your directory into whatever part of the website you want to work on (Ex: programmability)
   7. Once inside, you should be able to run the command listed (docker run --volume="$PWD:/srv/jekyll" -p 4000:4000 jekyll/jekyll:4.0 jekyll serve), for windows (docker run --volume="${PWD}:/srv/jekyll" -p 4000:4000 jekyll/jekyll:4.0 jekyll serve). After running, dependencies will be fetched, and after a minute or so, you will see a link to your locally hosted website
+
 <img width="1091" alt="Screenshot 2023-08-15 at 11 10 43 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/0446710f-9ea4-4386-97b3-8189839ff592">
 
 
@@ -24,9 +26,14 @@ One thing to note is that running with this command will show you the container 
 
 # Compose File Method
 The second method of setting up is a way to create a designated container for each repo you choose to edit rather than just a run command. Follow all of the above steps except for the Docker run command. Once completed, follow the steps below
+
   1. Create a file called docker-compose.yml in your local repo. To get it running with your choice of repository, copy the contents of the file above.
-  2. Once added, save the file, and in your terminal, run the command (docker-compose up). After dependencies, you should see this <img width="1091" alt="Screenshot 2023-08-15 at 11 10 43 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/0446710f-9ea4-4386-97b3-8189839ff592">
-  3. If you want to check the container as well, you can check now in the Docker Desktop and will see a designated container for your repo (ex: programmability) 
+  2. Once added, save the file, and in your terminal, run the command (docker-compose up). After dependencies, you should see this
+
+<img width="1091" alt="Screenshot 2023-08-15 at 11 10 43 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/0446710f-9ea4-4386-97b3-8189839ff592">
+
+  4. If you want to check the container as well, you can check now in the Docker Desktop and will see a designated container for your repo (ex: programmability)
+     
 <img width="725" alt="Screenshot 2023-08-15 at 11 12 26 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/35e07bd5-9af2-4d20-a462-491e3bffd000">
 
 One thing to note with this method is that whenever you finish editing changes and want to push to the origin, you will constantly have to remove and add this compose file into each repo locally. It is recommended to follow the docker run method instead.

@@ -7,8 +7,9 @@ The best way to set everything up for local edits would be to ensure that you ha
 <img width="946" alt="Screenshot 2023-08-15 at 10 46 19 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/02636ac0-9b44-456e-b451-92b38be34af5">
 
 The steps are as follows:
--
+
   1. Ensure that you have git downloaded on your system [Git install guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+    
   2. Create a folder and clone the repositories into your folder system
   3. Download any IDE of your choice
   4. Download Docker for your operating system [Docker Mac Install](https://docs.docker.com/desktop/install/mac-install/), [Docker Windows Install](https://docs.docker.com/desktop/install/windows-install/)
@@ -29,11 +30,9 @@ The second method of setting up is a way to create a designated container for ea
 
   1. Create a file called docker-compose.yml in your local repo. To get it running with your choice of repository, copy the contents of the file above.
   2. Once added, save the file, and in your terminal, run the command (docker-compose up). After dependencies, you should see this
-
 <img width="1091" alt="Screenshot 2023-08-15 at 11 10 43 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/0446710f-9ea4-4386-97b3-8189839ff592">
 
   4. If you want to check the container as well, you can check now in the Docker Desktop and will see a designated container for your repo (ex: programmability)
-     
 <img width="725" alt="Screenshot 2023-08-15 at 11 12 26 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/35e07bd5-9af2-4d20-a462-491e3bffd000">
 
 One thing to note with this method is that whenever you finish editing changes and want to push to the origin, you will constantly have to remove and add this compose file into each repo locally. It is recommended to follow the docker run method instead.

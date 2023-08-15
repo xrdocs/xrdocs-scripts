@@ -35,7 +35,7 @@ If you receive this error instead of a host, make sure you have ruby downloaded 
 <img width="1141" alt="Screenshot 2023-06-28 at 7 48 05 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/95593c70-3fdc-4622-ab90-6b151b567bae">
 
 If you get this error, run "sudo gem install bundler:2.3.25" or for windows run "gem install bundler" or whichever version of bundler it shows, then run "bundle add webrick" and retry 
-<img width="1221" alt="Screenshot 2023-06-28 at 7 51 41 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/8b534f38-2f0a-4fec-b737-7ab631548cfd">
+<img width="1206" alt="Screenshot 2023-06-28 at 7 50 16 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/6ff0ecfd-011e-4c4c-98dc-1b27ddbce5e3">
 
 You should see the following in your terminal once successful
 <img width="916" alt="Screenshot 2023-06-28 at 7 55 39 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/c3885781-e999-4936-997e-bacd29c9a06f">
@@ -46,7 +46,7 @@ Once you open the link, you will be greeted with the webpage that you have chose
 # Editing live
 After opening the local host site, you are now able to edit anything via an IDE (using VScode in this example). Here we are editing the blog article of "Getting started with gNMI".
 
-<img width="1440" alt="Screenshot 2023-07-05 at 7 35 28 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/fae3524d-8245-4650-b220-4da943c7b843">
+<img width="1440" alt="Screenshot 2023-07-05 at 7 35 06 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/df7cbce4-188b-417f-95e3-8316dc39c4b8">
 
 As you edit the file, once you are done with your changes and want to see them live, save the file you are working on locally. Once you save, you will see Jekyll refresh the website in your terminal
 

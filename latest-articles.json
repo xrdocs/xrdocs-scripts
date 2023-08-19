@@ -1,5 +1,11 @@
 [
     {
+        "title": "router-performance-testing-revisiting-rfc-2544-part-1",
+        "date": "2023-08-18T14:11:22",
+        "url": "https://xrdocs.io/8000/blogs/router-performance-testing-revisiting-rfc-2544-part-1/",
+        "blog-description": "This video introduces RFC 2544 methodology and discusses if it's still valid to assess modern high end routers performance."
+    },
+    {
         "title": "convergence-of-ip-optical-and-control-routed-optical-networks",
         "date": "2023-08-03T08:03:14",
         "url": "https://xrdocs.io/design/blogs/2023-07-31-convergence-of-ip-optical-and-control-routed-optical-networks/",

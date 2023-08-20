@@ -1,5 +1,11 @@
 [
     {
+        "title": "cisco-8000-port-assignment",
+        "date": "2023-08-20T02:42:27",
+        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-port-assignment/",
+        "blog-description": "This article will highlight how ports are allocated to IFG/Slice/NPU for each Cisco 8000 line card and systems."
+    },
+    {
         "title": "router-performance-testing-revisiting-rfc-2544-part-1",
         "date": "2023-08-18T14:11:22",
         "url": "https://xrdocs.io/8000/blogs/router-performance-testing-revisiting-rfc-2544-part-1/",
@@ -16,12 +22,6 @@
         "date": "2023-08-02T20:44:49",
         "url": "https://xrdocs.io/design/blogs/2019-09-06-modernizing-ixp-design/",
         "blog-description": "IX fabrics began as very simple L2 switching designs but have evolved to worldwide interconnection networks supporting Terabits of traffic. SR and EVPN transform simple IX networks into flexible and resilient fabrics support any service type at any location in the fabric."
-    },
-    {
-        "title": "cisco-8000-port-assignment",
-        "date": "2023-07-25T20:53:28",
-        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-port-assignment/",
-        "blog-description": "This article will highlight how ports are allocated to IFG/Slice/NPU for each Cisco 8000 line card and systems."
     },
     {
         "title": "cisco-8800-fan-tray-fabric-card-line-card-replacement",

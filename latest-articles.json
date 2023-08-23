@@ -1,5 +1,11 @@
 [
     {
+        "title": "router-performance-testing-rfc-2544-part-2",
+        "date": "2023-08-22T17:20:06",
+        "url": "https://xrdocs.io/8000/blogs/router-performance-testing-rfc-2544-part-2/",
+        "blog-description": "This second article about RFC 2544 explores performance in high performance ASICs."
+    },
+    {
         "title": "cisco-8000-port-assignment",
         "date": "2023-08-20T02:42:27",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-port-assignment/",

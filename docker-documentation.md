@@ -30,11 +30,16 @@ One thing to note is that running with this command will show you the container 
 # Compose File Method
 The second method of setting up is a way to create a designated container for each repo you choose to edit rather than just a run command. Follow all of the above steps except for the Docker run command. Once completed, follow the steps below
 
-  1. Create a file called docker-compose.yml in your local repo. To get it running with your choice of repository, copy the contents of the file above.
-  2. Once added, save the file, and in your terminal, run the command (docker-compose up). After dependencies, you should see this
+  1. Create a file called docker-compose.yml and copy the contents from this repository into your local repo (ex: programmability). To get it running with your choice of repository, copy the contents of the file above.
+  2. Once added, save the file, and in your terminal, run the command
+### Command:
+'''
+docker-compose up
+'''
+After dependencies, you should see this
 <img width="1091" alt="Screenshot 2023-08-15 at 11 10 43 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/0446710f-9ea4-4386-97b3-8189839ff592">
 
-  4. If you want to check the container as well, you can check now in the Docker Desktop and will see a designated container for your repo (ex: programmability)
+  3. If you want to check the container as well, you can check now in the Docker Desktop and will see a designated container for your repo (ex: programmability)
 <img width="725" alt="Screenshot 2023-08-15 at 11 12 26 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/35e07bd5-9af2-4d20-a462-491e3bffd000">
 
 One thing to note with this method is that whenever you finish editing changes and want to push to the origin, you will constantly have to remove and add this compose file into each repo locally. It is recommended to follow the docker run method instead.

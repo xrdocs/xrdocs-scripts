@@ -8,6 +8,7 @@ There are 3 different steps for retrieving the latest blogs and displaying them 
   3. A javascript script that fetches the contents of our JSON file, and formats them to our div elements so that all posts have the same clean format on the xrdocs homepage. The javascript is stored under [javascript script](https://github.com/xrdocs/xrdocs.github.io/blob/new/_layouts/splash.html) 
   
 **It is important to note that if you want the blog to be shown under this section, both the position : top, and published : true, have to be there**
+
 <img width="183" alt="Screenshot 2023-08-24 at 1 38 02 PM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/7ad9e262-3d85-4599-9f25-5cc65f800b3a">
 
 

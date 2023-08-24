@@ -14,7 +14,7 @@ The steps are as follows:
   1. Ensure that you have git downloaded on your system [Git install guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
   2. Create a folder and clone the repositories into your folder system
   3. Download any IDE of your choice
-  4. Download Docker for your operating system [Docker Mac Install](https://docs.docker.com/desktop/install/mac-install/), [Docker Windows Install](https://docs.docker.com/desktop/install/windows-install/)
+  4. Download Docker for your operating system and run it [Docker Mac Install](https://docs.docker.com/desktop/install/mac-install/), [Docker Windows Install](https://docs.docker.com/desktop/install/windows-install/) 
   5. Run the test command for Docker (docker run hello-world) to ensure it is running properly
   6. Change your directory into whatever part of the website you want to work on (Ex: programmability)
   7. Once inside, you should be able to run the command listed (docker run --volume="$PWD:/srv/jekyll" -p 4000:4000 jekyll/jekyll:4.0 jekyll serve), for windows (docker run --volume="${PWD}:/srv/jekyll" -p 4000:4000 jekyll/jekyll:4.0 jekyll serve). After running, dependencies will be fetched, and after a minute or so, you will see a link to your locally hosted website

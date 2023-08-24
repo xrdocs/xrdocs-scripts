@@ -26,6 +26,7 @@ for windows
 ``` sh
 docker run --volume="${PWD}:/srv/jekyll" -p 4000:4000 jekyll/jekyll:4.0 jekyll serve
 ```
+
 After running, dependencies will be fetched, and after a minute or so, you will see a link to your locally hosted website
 
 <img width="1091" alt="Screenshot 2023-08-15 at 11 10 43 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/0446710f-9ea4-4386-97b3-8189839ff592">
@@ -77,6 +78,9 @@ bundle add webrick
 ```
 and retry 
 <img width="1206" alt="Screenshot 2023-06-28 at 7 50 16 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/6ff0ecfd-011e-4c4c-98dc-1b27ddbce5e3">
+
+  2. If you are a mac user and run into this issue, follow this guide to resolve [Write Permissions Error](https://www.rubyonmac.dev/you-dont-have-write-permissions-for-the-library-ruby-gems-2-6-0-directory)
+<img width="692" alt="error_documentation" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/80242d7e-5b6e-4b87-8455-5ac14a9d08e2">
 
 You should see the following in your terminal once successful
 

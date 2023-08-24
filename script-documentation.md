@@ -3,7 +3,7 @@ There are 3 different steps for retrieving the latest blogs and displaying them 
 
   1. A python script ([fetch_blogs.py](https://github.com/xrdocs/xrdocs-scripts/blob/main/fetch_blogs.py)) that fetches all the contents from every repo located under the xrdocs github using the github API. We are using a PAT key that is stored under secret variables under the organization. This script outputs a JSON file containing all of the article names, links, and descriptions. The script is stored along with the JSON file in xrdocs/xrdocs-scripts
 
-  2. A github action that runs daily, to check if there are newer articles that have been added, if there are, a new JSON file is pushed and committed, if not the action exits automatically. The github action runs in the [xrdocs-scripts repo](https://github.com/xrdocs/xrdocs-scripts/tree/main), where the python script and JSON file are stored
+  2. A github action that runs once a day, and checks if there are newer articles that have been added. If there are, a new JSON file is pushed and committed, and if not, the action exits automatically. The github action runs in the [xrdocs-scripts repo](https://github.com/xrdocs/xrdocs-scripts/tree/main), where the python script and JSON file are stored
   
   3. A javascript script that fetches the contents of our JSON file, and formats them to our div elements so that all posts have the same clean format on the xrdocs homepage. The javascript is stored under [javascript script](https://github.com/xrdocs/xrdocs.github.io/blob/new/_layouts/splash.html) 
   

@@ -12,12 +12,21 @@ The best way to set everything up for local edits would be to ensure that you ha
 The steps are as follows:
 
   1. Ensure that you have git downloaded on your system [Git install guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-  2. Create a folder and clone the repositories into your folder system
-  3. Download any IDE of your choice
-  4. Download Docker for your operating system and run it [Docker Mac Install](https://docs.docker.com/desktop/install/mac-install/), [Docker Windows Install](https://docs.docker.com/desktop/install/windows-install/) 
-  5. Run the test command for Docker (docker run hello-world) to ensure it is running properly
-  6. Change your directory into whatever part of the website you want to work on (Ex: programmability)
-  7. Once inside, you should be able to run the command listed (docker run --volume="$PWD:/srv/jekyll" -p 4000:4000 jekyll/jekyll:4.0 jekyll serve), for windows (docker run --volume="${PWD}:/srv/jekyll" -p 4000:4000 jekyll/jekyll:4.0 jekyll serve). After running, dependencies will be fetched, and after a minute or so, you will see a link to your locally hosted website
+  2. Ensure that you have Ruby version 2.6.10 or above installed [Ruby Install guide](https://www.ruby-lang.org/en/downloads/)
+  3. Create a folder and clone the repositories into your folder system
+  4. Download any IDE of your choice
+  5. Download Docker for your operating system and run it [Docker Mac Install](https://docs.docker.com/desktop/install/mac-install/), [Docker Windows Install](https://docs.docker.com/desktop/install/windows-install/) 
+  6. Run the test command for Docker (docker run hello-world) to ensure it is running properly
+  7. Change your directory into whatever part of the website you want to work on (Ex: programmability)
+  8. Once inside, you should be able to run the command listed
+``` sh
+docker run --volume="$PWD:/srv/jekyll" -p 4000:4000 jekyll/jekyll:4.0 jekyll serve
+```
+for windows 
+``` sh
+docker run --volume="${PWD}:/srv/jekyll" -p 4000:4000 jekyll/jekyll:4.0 jekyll serve
+```
+After running, dependencies will be fetched, and after a minute or so, you will see a link to your locally hosted website
 
 <img width="1091" alt="Screenshot 2023-08-15 at 11 10 43 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/0446710f-9ea4-4386-97b3-8189839ff592">
 

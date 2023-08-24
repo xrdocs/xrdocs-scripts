@@ -54,7 +54,28 @@ After dependencies, you should see this
 One thing to note with this method is that whenever you finish editing changes and want to push to the origin, you will constantly have to remove and add this compose file into each repo locally. It is recommended to follow the docker run method instead.
 
 # Troubleshooting 
-If you get this error, make sure that you have ruby downloaded (ruby -v). Then if a version appears, run "bundle add webrick" and retry. If you keep getting an error, run "sudo gem install bundler:2.3.25" or for windows run "gem install bundler" or whichever version of bundler it shows, then run "bundle add webrick" and retry 
+If you get one of the following errors:
+  1. Make sure that you have Ruby downloaded. You can check by running command 
+``` sh
+ruby -v
+```
+Then if a version appears, run 
+``` sh
+bundle add webrick
+```
+and retry. If you keep getting an error, run 
+``` sh
+sudo gem install bundler:2.3.25
+```
+or for windows run 
+``` sh
+gem install bundler
+```
+or whichever version of bundler it shows, then run 
+``` sh
+bundle add webrick
+```
+and retry 
 <img width="1206" alt="Screenshot 2023-06-28 at 7 50 16 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/6ff0ecfd-011e-4c4c-98dc-1b27ddbce5e3">
 
 You should see the following in your terminal once successful

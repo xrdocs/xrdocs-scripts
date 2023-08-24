@@ -32,10 +32,10 @@ The second method of setting up is a way to create a designated container for ea
 
   1. Create a file called docker-compose.yml and copy the contents from this repository into your local repo (ex: programmability). To get it running with your choice of repository, copy the contents of the file above.
   2. Once added, save the file, and in your terminal, run the command
-### Command:
-'''
+
+``` sh
 docker-compose up
-'''
+```
 After dependencies, you should see this
 <img width="1091" alt="Screenshot 2023-08-15 at 11 10 43 AM" src="https://github.com/xrdocs/xrdocs-scripts/assets/52422516/0446710f-9ea4-4386-97b3-8189839ff592">
 

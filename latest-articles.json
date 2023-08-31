@@ -1,15 +1,21 @@
 [
     {
+        "title": "mpls-qos-on-cisco-8200-8800-routing-platforms",
+        "date": "2023-08-31T07:58:01",
+        "url": "https://xrdocs.io/8000/tutorials/mpls-qos-on-cisco-8200-8800-routing-platforms/",
+        "blog-description": "This writeup explains the MPLS-QOS applications on Cisco 8200/8800 routing platforms"
+    },
+    {
+        "title": "8000-benefits-of-big-routing-chips",
+        "date": "2023-08-30T15:23:01",
+        "url": "https://xrdocs.io/8000/blogs/8000-benefits-of-big-routing-chips/",
+        "blog-description": "Discover why high bandwidth routing ASICs deliver leading efficiency by reducing the number of devices needed to build network capacity."
+    },
+    {
         "title": "multicast-distribution-trees-mdts",
         "date": "2023-08-30T07:33:31",
         "url": "https://xrdocs.io/multicast/blogs/multicast-distribution-trees-mdts/",
         "blog-description": "Description of MDTs (Default, Partitioned, Data)"
-    },
-    {
-        "title": "mpls-qos-on-cisco-8200-8800-routing-platforms",
-        "date": "2023-08-24T15:38:14",
-        "url": "https://xrdocs.io/8000/tutorials/mpls-qos-on-cisco-8200-8800-routing-platforms/",
-        "blog-description": "This writeup explains the MPLS-QOS applications on Cisco 8200/8800 routing platforms"
     },
     {
         "title": "router-performance-testing-rfc-2544-part-2",

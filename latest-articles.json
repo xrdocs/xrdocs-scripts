@@ -1,5 +1,17 @@
 [
     {
+        "title": "telemetry-stack-update-qos-interface-statistics-example",
+        "date": "2023-09-06T08:18:26",
+        "url": "https://xrdocs.io/telemetry/tutorials/telemetry-stack-update-qos-interface-statistics-example/",
+        "blog-description": "An up to date telemetry stack, providing configuration example for both dial-in and dial-out streaming methods and sharing a few tips and tricks to work with telemetry models and collectors."
+    },
+    {
+        "title": "cisco-8000-cooling-innovation",
+        "date": "2023-09-05T13:06:27",
+        "url": "https://xrdocs.io/8000/blogs/cisco-8000-cooling-innovation/",
+        "blog-description": "This blog explains how Cisco 8000 series was designed for sustainability with unique cooling innovation."
+    },
+    {
         "title": "mpls-qos-on-cisco-8200-8800-routing-platforms",
         "date": "2023-08-31T09:29:40",
         "url": "https://xrdocs.io/8000/tutorials/mpls-qos-on-cisco-8200-8800-routing-platforms/",

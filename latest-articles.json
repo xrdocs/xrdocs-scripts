@@ -1,7 +1,19 @@
 [
     {
+        "title": "cst-routed-optical-2_1",
+        "date": "2023-09-06T15:08:11",
+        "url": "https://xrdocs.io/design/blogs/2023-08-24-cst-routed-optical-2_1/",
+        "blog-description": "Routed Optical Networking 2.1"
+    },
+    {
+        "title": "cst-routed-optical-2_0",
+        "date": "2023-09-06T15:08:00",
+        "url": "https://xrdocs.io/design/blogs/2022-12-01-cst-routed-optical-2_0/",
+        "blog-description": "Routed Optical Networking 2.0"
+    },
+    {
         "title": "telemetry-stack-update-qos-interface-statistics-example",
-        "date": "2023-09-06T08:18:26",
+        "date": "2023-09-06T11:03:00",
         "url": "https://xrdocs.io/telemetry/tutorials/telemetry-stack-update-qos-interface-statistics-example/",
         "blog-description": "An up to date telemetry stack, providing configuration example for both dial-in and dial-out streaming methods and sharing a few tips and tricks to work with telemetry models and collectors."
     },
@@ -232,12 +244,6 @@
         "date": "2022-12-22T21:09:23",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-pbts-implementation-basic/",
         "blog-description": "This post aims to describe PBTS implementation on Cisco 8000 routers.   It will go over feature operation, configuration, verification, and other notes like constraints and supported scale."
-    },
-    {
-        "title": "cst-routed-optical-2_0",
-        "date": "2022-12-12T14:47:41",
-        "url": "https://xrdocs.io/design/blogs/2022-12-01-cst-routed-optical-2_0/",
-        "blog-description": "Routed Optical Networking 2.0"
     },
     {
         "title": "cst-routed-optical-1_0",

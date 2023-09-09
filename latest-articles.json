@@ -1,5 +1,11 @@
 [
     {
+        "title": "mpls-te-bin-packing-cisco8000-auto-capacity",
+        "date": "2023-09-08T15:23:41",
+        "url": "https://xrdocs.io/8000/tutorials/mpls-te-bin-packing-cisco8000-auto-capacity/",
+        "blog-description": "This blog details Cisco\u2019s TE++ Auto-bandwidth Capacity feature using a Cisco 8000 environment."
+    },
+    {
         "title": "cst-routed-optical-2_1",
         "date": "2023-09-06T15:08:11",
         "url": "https://xrdocs.io/design/blogs/2023-08-24-cst-routed-optical-2_1/",
@@ -46,12 +52,6 @@
         "date": "2023-08-24T09:52:07",
         "url": "https://xrdocs.io/8000/blogs/router-performance-testing-rfc-2544-part-2/",
         "blog-description": "This second article about RFC 2544 explores performance in high performance ASICs."
-    },
-    {
-        "title": "mpls-te-bin-packing-cisco8000-auto-capacity",
-        "date": "2023-08-23T12:17:59",
-        "url": "https://xrdocs.io/8000/tutorials/mpls-te-bin-packing-cisco8000-auto-capacity/",
-        "blog-description": "This blog details Cisco\u2019s TE++ Auto-bandwidth Capacity feature using a Cisco 8000 environment."
     },
     {
         "title": "cisco-8000-port-assignment",

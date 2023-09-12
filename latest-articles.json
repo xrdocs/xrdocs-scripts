@@ -1,5 +1,11 @@
 [
     {
+        "title": "cisco-8608-architecture",
+        "date": "2023-09-11T23:55:22",
+        "url": "https://xrdocs.io/8000/blogs/cisco-8608-architecture/",
+        "blog-description": "This post will describe Cisco 8000 centralized system architecture: Cisco 8608, based on Silicon One Q200 ASIC."
+    },
+    {
         "title": "mpls-te-bin-packing-cisco8000-auto-capacity",
         "date": "2023-09-08T15:23:41",
         "url": "https://xrdocs.io/8000/tutorials/mpls-te-bin-packing-cisco8000-auto-capacity/",

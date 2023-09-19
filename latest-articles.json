@@ -1,5 +1,11 @@
 [
     {
+        "title": "pytas-series-netconf-module",
+        "date": "2023-09-18T13:59:52",
+        "url": "https://xrdocs.io/programmability/tutorials/pytas-series-netconf-module/",
+        "blog-description": "How to use the pyATS NETCONF module?"
+    },
+    {
         "title": "optimizing-power-supply-efficiency-in-routers",
         "date": "2023-09-14T13:25:27",
         "url": "https://xrdocs.io/8000/blogs/optimizing-power-supply-efficiency-in-routers/",

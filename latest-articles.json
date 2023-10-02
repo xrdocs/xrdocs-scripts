@@ -1,5 +1,11 @@
 [
     {
+        "title": "cst-srv6-addition",
+        "date": "2023-10-01T21:43:22",
+        "url": "https://xrdocs.io/design/blogs/2023-03-01-cst-srv6-addition/",
+        "blog-description": "CST SRv6 HLD"
+    },
+    {
         "title": "pytas-series-netconf-module",
         "date": "2023-09-18T13:59:52",
         "url": "https://xrdocs.io/programmability/tutorials/pytas-series-netconf-module/",
@@ -178,12 +184,6 @@
         "date": "2023-05-02T21:41:26",
         "url": "https://xrdocs.io/asr9k/tutorials/asr9k-inline-map-t-border-relay-configuration-and-troubleshooting/",
         "blog-description": "ASR 9000 supports inline MAP-T Border Relay functions explained in RFC 7599. This tutorial covers basic configuration and advanced torubleshooting required for implementing this feature in Classic (32-bit) and Evolved (64-bit) IOS-XR SW versions."
-    },
-    {
-        "title": "cst-srv6-addition",
-        "date": "2023-04-26T12:23:41",
-        "url": "https://xrdocs.io/design/blogs/2023-03-01-cst-srv6-addition/",
-        "blog-description": "CST SRv6 HLD"
     },
     {
         "title": "cisco-8000-fib-scale",

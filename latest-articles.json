@@ -1,5 +1,11 @@
 [
     {
+        "title": "multicast-scaling",
+        "date": "2023-10-02T14:17:13",
+        "url": "https://xrdocs.io/multicast/blogs/multicast-scaling/",
+        "blog-description": "The following blog focus on the scaling of Multicast and the nuts and bolts around it."
+    },
+    {
         "title": "cst-srv6-addition",
         "date": "2023-10-01T21:43:22",
         "url": "https://xrdocs.io/design/blogs/2023-03-01-cst-srv6-addition/",

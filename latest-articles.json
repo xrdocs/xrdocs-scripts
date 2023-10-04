@@ -1,5 +1,11 @@
 [
     {
+        "title": "pytas-series-netconf-module",
+        "date": "2023-10-03T09:37:59",
+        "url": "https://xrdocs.io/programmability/tutorials/pytas-series-netconf-module/",
+        "blog-description": "How to use the pyATS NETCONF module?"
+    },
+    {
         "title": "multicast-scaling",
         "date": "2023-10-02T14:17:13",
         "url": "https://xrdocs.io/multicast/blogs/multicast-scaling/",
@@ -10,12 +16,6 @@
         "date": "2023-10-01T21:43:22",
         "url": "https://xrdocs.io/design/blogs/2023-03-01-cst-srv6-addition/",
         "blog-description": "CST SRv6 HLD"
-    },
-    {
-        "title": "pytas-series-netconf-module",
-        "date": "2023-09-18T13:59:52",
-        "url": "https://xrdocs.io/programmability/tutorials/pytas-series-netconf-module/",
-        "blog-description": "How to use the pyATS NETCONF module?"
     },
     {
         "title": "optimizing-power-supply-efficiency-in-routers",

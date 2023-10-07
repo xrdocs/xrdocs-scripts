@@ -1,5 +1,11 @@
 [
     {
+        "title": "telemetry-stack-update-grpc-tls",
+        "date": "2023-10-06T09:54:10",
+        "url": "https://xrdocs.io/telemetry/tutorials/telemetry-stack-update-grpc-tls/",
+        "blog-description": "gRPC dial-out or dial-in methods with TLS"
+    },
+    {
         "title": "pytas-series-netconf-module",
         "date": "2023-10-03T09:37:59",
         "url": "https://xrdocs.io/programmability/tutorials/pytas-series-netconf-module/",

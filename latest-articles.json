@@ -1,5 +1,11 @@
 [
     {
+        "title": "pyats-series-tips-and-tricks",
+        "date": "2023-10-17T14:38:29",
+        "url": "https://xrdocs.io/programmability/tutorials/pyats-series-tips-and-tricks/",
+        "blog-description": ""
+    },
+    {
         "title": "telemetry-stack-update-grpc-tls",
         "date": "2023-10-06T09:54:10",
         "url": "https://xrdocs.io/telemetry/tutorials/telemetry-stack-update-grpc-tls/",
@@ -154,12 +160,6 @@
         "date": "2023-06-21T19:33:14",
         "url": "https://xrdocs.io/programmability/tutorials/pyats-series-collecting-many-show-commands/",
         "blog-description": "Collecting a list of show commands on a list of devices"
-    },
-    {
-        "title": "pyats-series-tips-and-tricks",
-        "date": "2023-06-21T19:32:54",
-        "url": "https://xrdocs.io/programmability/tutorials/pyats-series-tips-and-tricks/",
-        "blog-description": ""
     },
     {
         "title": "scrapli-overview",

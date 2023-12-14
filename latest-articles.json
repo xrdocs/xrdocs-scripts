@@ -1,5 +1,11 @@
 [
     {
+        "title": "8000-bgp-paths-rib-scale",
+        "date": "2023-12-13T16:23:27",
+        "url": "https://xrdocs.io/8000/tutorials/8000-bgp-paths-rib-scale/",
+        "blog-description": "This article will demonstrate how Cisco 8000 Series routers can scale up to 25M BGP paths."
+    },
+    {
         "title": "xrd-with-terraform-topologies-on-aws",
         "date": "2023-11-16T21:32:07",
         "url": "https://xrdocs.io/virtual-routing/tutorials/2023-08-01-xrd-with-terraform-topologies-on-aws/",

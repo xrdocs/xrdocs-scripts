@@ -1,5 +1,17 @@
 [
     {
+        "title": "ios-xr-telemetry-power-consumption-docker-compose",
+        "date": "2023-12-21T11:00:53",
+        "url": "https://xrdocs.io/telemetry/tutorials/ios-xr-telemetry-power-consumption-docker-compose/",
+        "blog-description": "This post will describe how a docker-based ephemeral telemetry stack has been built to monitor Cisco IOS-XR device power consumption."
+    },
+    {
+        "title": "cisco-8608-architecture",
+        "date": "2023-12-21T10:49:31",
+        "url": "https://xrdocs.io/8000/blogs/cisco-8608-architecture/",
+        "blog-description": "This post will describe Cisco 8000 centralized system architecture: Cisco 8608, based on Silicon One Q200 ASIC."
+    },
+    {
         "title": "8000-bgp-paths-rib-scale",
         "date": "2023-12-13T16:23:27",
         "url": "https://xrdocs.io/8000/tutorials/8000-bgp-paths-rib-scale/",
@@ -58,12 +70,6 @@
         "date": "2023-09-13T21:06:43",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-port-assignment/",
         "blog-description": "This article will highlight how ports are allocated to IFG/Slice/NPU for each Cisco 8000 line card and systems."
-    },
-    {
-        "title": "cisco-8608-architecture",
-        "date": "2023-09-12T18:09:33",
-        "url": "https://xrdocs.io/8000/blogs/cisco-8608-architecture/",
-        "blog-description": "This post will describe Cisco 8000 centralized system architecture: Cisco 8608, based on Silicon One Q200 ASIC."
     },
     {
         "title": "Cisco-8000-Hardware-resources-deep-dive-Part-1",
@@ -484,12 +490,6 @@
         "date": "2021-03-18T09:51:14",
         "url": "https://xrdocs.io/telemetry/tutorials/telemetry-sensor-group-yang-anx/",
         "blog-description": "This post will describe how to retrieve the YANG path for a given command and configure the corresponding sensor-group on an IOS-XR router."
-    },
-    {
-        "title": "ios-xr-telemetry-power-consumption-docker-compose",
-        "date": "2021-03-08T15:33:32",
-        "url": "https://xrdocs.io/telemetry/tutorials/ios-xr-telemetry-power-consumption-docker-compose/",
-        "blog-description": "This post will describe how a docker-based ephemeral telemetry stack has been built to monitor Cisco IOS-XR device power consumption."
     },
     {
         "title": "peering-fabric-hld_3_5",

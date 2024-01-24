@@ -1,5 +1,11 @@
 [
     {
+        "title": "routed-access-for-rural-broadband",
+        "date": "2024-01-23T16:45:48",
+        "url": "https://xrdocs.io/design/blogs/2023-11-15-routed-access-for-rural-broadband/",
+        "blog-description": "A Cisco routed access design for rural broadband"
+    },
+    {
         "title": "xrd-with-terraform-topologies-on-aws",
         "date": "2024-01-15T13:33:48",
         "url": "https://xrdocs.io/virtual-routing/tutorials/2023-08-01-xrd-with-terraform-topologies-on-aws/",

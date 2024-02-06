@@ -1,5 +1,11 @@
 [
     {
+        "title": "deploying-multi-vendor-l2vpn-services-crosswork-network-controller",
+        "date": "2024-02-05T14:24:38",
+        "url": "https://xrdocs.io/automation/tutorials/deploying-multi-vendor-l2vpn-services-crosswork-network-controller/",
+        "blog-description": "This article will cover how Cisco Crosswork Network Controller can be used to deploy L2VPN services across a multi vendor network."
+    },
+    {
         "title": "routed-access-for-rural-broadband",
         "date": "2024-01-30T20:26:58",
         "url": "https://xrdocs.io/design/blogs/2023-11-15-routed-access-for-rural-broadband/",

@@ -1,5 +1,11 @@
 [
     {
+        "title": "pim-ssm",
+        "date": "2024-02-16T16:14:38",
+        "url": "https://xrdocs.io/multicast/tutorials/2021-08-05-pim-ssm/",
+        "blog-description": "Introduction to Multicast PIM-SSM"
+    },
+    {
         "title": "deploying-multi-vendor-l2vpn-services-crosswork-network-controller",
         "date": "2024-02-05T14:24:38",
         "url": "https://xrdocs.io/automation/tutorials/deploying-multi-vendor-l2vpn-services-crosswork-network-controller/",
@@ -442,12 +448,6 @@
         "date": "2022-06-13T15:22:38",
         "url": "https://xrdocs.io/multicast/tutorials/2021-03-23-introduction-to-multicast/",
         "blog-description": "Introduction to NCS5500 Multicast"
-    },
-    {
-        "title": "pim-ssm",
-        "date": "2022-06-13T15:22:14",
-        "url": "https://xrdocs.io/multicast/tutorials/2021-08-05-pim-ssm/",
-        "blog-description": "Introduction to Multicast PIM-SSM"
     },
     {
         "title": "cisco-8800-power-provisioning",

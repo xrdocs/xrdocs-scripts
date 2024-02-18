@@ -1,5 +1,11 @@
 [
     {
+        "title": "2022-1001-ron-openconfig",
+        "date": "2024-02-17T14:50:48",
+        "url": "https://xrdocs.io/design/blogs/2022-1001-ron-openconfig/",
+        "blog-description": "Openconfig ZR/ZR+ Provisioning"
+    },
+    {
         "title": "pim-ssm",
         "date": "2024-02-16T16:14:38",
         "url": "https://xrdocs.io/multicast/tutorials/2021-08-05-pim-ssm/",
@@ -328,12 +334,6 @@
         "date": "2022-12-12T14:33:12",
         "url": "https://xrdocs.io/design/blogs/2022-01-07-cst-routed-optical-1_0/",
         "blog-description": "Routed Optical Networking 1.0"
-    },
-    {
-        "title": "2022-1001-ron-openconfig",
-        "date": "2022-11-16T03:08:50",
-        "url": "https://xrdocs.io/design/blogs/2022-1001-ron-openconfig/",
-        "blog-description": "Openconfig ZR/ZR+ Provisioning"
     },
     {
         "title": "xrd-with-docker-control-plane-and-vrouter",

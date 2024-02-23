@@ -1,5 +1,11 @@
 [
     {
+        "title": "getting-started-with-xrd-on-aws",
+        "date": "2024-02-22T21:14:01",
+        "url": "https://xrdocs.io/virtual-routing/tutorials/2022-12-08-getting-started-with-xrd-on-aws/",
+        "blog-description": "Learn how to deploy and interact with XRd running in an EKS cluster using CloudFormation"
+    },
+    {
         "title": "routed-access-for-rural-broadband",
         "date": "2024-02-20T23:05:09",
         "url": "https://xrdocs.io/design/blogs/2023-11-15-routed-access-for-rural-broadband/",
@@ -298,12 +304,6 @@
         "date": "2023-02-20T18:38:46",
         "url": "https://xrdocs.io/multicast/blogs/multicast-101-introduction/",
         "blog-description": "Multicast 101 Introduction"
-    },
-    {
-        "title": "getting-started-with-xrd-on-aws",
-        "date": "2023-02-15T11:13:05",
-        "url": "https://xrdocs.io/virtual-routing/tutorials/2022-12-08-getting-started-with-xrd-on-aws/",
-        "blog-description": "Learn how to deploy and interact with XRd running in an EKS cluster"
     },
     {
         "title": "setting-up-host-environment-to-run-xrd",

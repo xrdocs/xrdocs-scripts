@@ -1,5 +1,11 @@
 [
     {
+        "title": "cisco-8000-cisco-live-sessions",
+        "date": "2024-03-05T14:38:49",
+        "url": "https://xrdocs.io/8000/blogs/cisco-8000-cisco-live-sessions/",
+        "blog-description": "Archive of Cisco Live breakout presentations about Cisco 8000"
+    },
+    {
         "title": "getting-started-with-xrd-on-aws",
         "date": "2024-02-22T21:14:01",
         "url": "https://xrdocs.io/virtual-routing/tutorials/2022-12-08-getting-started-with-xrd-on-aws/",

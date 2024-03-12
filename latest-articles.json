@@ -1,5 +1,11 @@
 [
     {
+        "title": "cisco-8000-peering-telemetry-demo",
+        "date": "2024-03-11T13:05:17",
+        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-peering-telemetry-demo/",
+        "blog-description": "This video aims to list the requirements of an Internet peering router. It demonstrates how Cisco 8000 series routers, powered by Silicon One and IOS XR can meet them. The video shows live examples of telemetry collection: RPKI, FIB, Netflow, BGP, QoS, uRPF/RTBH/SRTBH and BGP Flowspec."
+    },
+    {
         "title": "cisco-8000-platform-security",
         "date": "2024-03-08T16:11:07",
         "url": "https://xrdocs.io/8000/blogs/cisco-8000-platform-security/",

@@ -1,5 +1,11 @@
 [
     {
+        "title": "user-interface-and-knobs-for-xrd",
+        "date": "2024-03-22T01:13:45",
+        "url": "https://xrdocs.io/virtual-routing/tutorials/2022-08-25-user-interface-and-knobs-for-xrd/",
+        "blog-description": "Learn the different environment variables and knobs that are supported for XRd when used with container orchestrators like docker, docker-compose or k8s"
+    },
+    {
         "title": "cisco-8000-platform-security",
         "date": "2024-03-14T22:38:19",
         "url": "https://xrdocs.io/8000/blogs/cisco-8000-platform-security/",
@@ -388,12 +394,6 @@
         "date": "2022-08-29T12:57:11",
         "url": "https://xrdocs.io/8000/tutorials/8000-software-xr7-usb-boot/",
         "blog-description": "This tutorial will describe and illustrate how to USB boot Cisco 8000 routers. This step-by-step procedure can be used to stage, re-image or recover a router from a boot failure."
-    },
-    {
-        "title": "user-interface-and-knobs-for-xrd",
-        "date": "2022-08-25T11:31:22",
-        "url": "https://xrdocs.io/virtual-routing/tutorials/2022-08-25-user-interface-and-knobs-for-xrd/",
-        "blog-description": "Learn the different environment variables and knobs that are supported for XRd when used with container orchestrators like docker, docker-compose or k8s"
     },
     {
         "title": "helper-tools-to-get-started-with-xrd",

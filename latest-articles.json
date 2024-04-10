@@ -1,5 +1,11 @@
 [
     {
+        "title": "do-you-speak-yang",
+        "date": "2024-04-09T15:17:51",
+        "url": "https://xrdocs.io/programmability/tutorials/do-you-speak-yang/",
+        "blog-description": "Presentation of YANG Suite tool, to retrieve and observe YANG models from your network devices."
+    },
+    {
         "title": "user-interface-and-knobs-for-xrd",
         "date": "2024-03-22T01:13:45",
         "url": "https://xrdocs.io/virtual-routing/tutorials/2022-08-25-user-interface-and-knobs-for-xrd/",
@@ -514,12 +520,6 @@
         "date": "2021-12-15T17:17:49",
         "url": "https://xrdocs.io/8000/tutorials/8201-architecture-performance/",
         "blog-description": "This short article will first cover Cisco 8201 high level internal architecture. Then, a quick and simple lab test will demonstrate how it can achieve 10.8Tbps at target Non-Drop Rate (NDR). This test will address recent concerns raised about its forwarding performance."
-    },
-    {
-        "title": "do-you-speak-yang",
-        "date": "2021-11-08T12:20:45",
-        "url": "https://xrdocs.io/programmability/tutorials/do-you-speak-yang/",
-        "blog-description": "Presentation of YANG Suite tool, to retrieve and observe YANG models from your network devices."
     },
     {
         "title": "telemetry-sensor-group-yang-anx",

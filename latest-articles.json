@@ -1,5 +1,11 @@
 [
     {
+        "title": "2023-04-18-application-hosting-with-appmgr",
+        "date": "2024-05-14T22:23:56",
+        "url": "https://xrdocs.io/application-hosting/tutorials/2023-04-18-2023-04-18-application-hosting-with-appmgr/",
+        "blog-description": "Learn how to use XR appmgr to build docker applications"
+    },
+    {
         "title": "2024-0210-dco-monitoring",
         "date": "2024-04-16T12:50:14",
         "url": "https://xrdocs.io/design/blogs/2024-0210-dco-monitoring/",
@@ -262,12 +268,6 @@
         "date": "2023-06-21T18:46:29",
         "url": "https://xrdocs.io/programmability/tutorials/2022-02-22-scrapli-overview/",
         "blog-description": "Scrapli is a Python library that grabbed the attention of network engineers. You can learn more about it and take a look at how you could manage Cisco devices with it."
-    },
-    {
-        "title": "2023-04-18-application-hosting-with-appmgr",
-        "date": "2023-06-12T23:16:32",
-        "url": "https://xrdocs.io/application-hosting/tutorials/2023-04-18-2023-04-18-application-hosting-with-appmgr/",
-        "blog-description": "Learn how to use XR appmgr to build docker applications"
     },
     {
         "title": "service-assurance-a-guide-for-the-perplexed",

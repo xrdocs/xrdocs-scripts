@@ -1,5 +1,17 @@
 [
     {
+        "title": "cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment",
+        "date": "2024-05-17T08:41:21",
+        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment/",
+        "blog-description": "Learn how to deploy cnBNG Control Plane in a pre-deployed VM in any environment"
+    },
+    {
+        "title": "inception-server-deployment-guide",
+        "date": "2024-05-17T08:40:38",
+        "url": "https://xrdocs.io/cnbng/tutorials/inception-server-deployment-guide/",
+        "blog-description": "Inception server provides automation to deploy cnBNG CP. In this deployment guide learn how to deploy Inception Server in VMWare ESXi Environment."
+    },
+    {
         "title": "2023-04-18-application-hosting-with-appmgr",
         "date": "2024-05-14T22:23:56",
         "url": "https://xrdocs.io/application-hosting/tutorials/2023-04-18-2023-04-18-application-hosting-with-appmgr/",
@@ -328,18 +340,6 @@
         "date": "2023-03-20T17:13:29",
         "url": "https://xrdocs.io/cnbng/tutorials/pppoe-lac-subscriber-bringup-in-cnbng/",
         "blog-description": "Learn how to bring PPPoE LAC sessions in this tutorial. This tutorial also brings up PPPoE PTA sessions on same access interface."
-    },
-    {
-        "title": "cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment",
-        "date": "2023-03-20T17:07:47",
-        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment/",
-        "blog-description": "Learn how to deploy cnBNG Control Plane in a pre-deployed VM in any environment"
-    },
-    {
-        "title": "inception-server-deployment-guide",
-        "date": "2023-03-20T17:04:12",
-        "url": "https://xrdocs.io/cnbng/tutorials/inception-server-deployment-guide/",
-        "blog-description": "Inception server provides automation to deploy cnBNG CP. In this deployment guide learn how to deploy Inception Server in VMWare ESXi Environment."
     },
     {
         "title": "multicast-101-introduction",

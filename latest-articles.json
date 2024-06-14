@@ -1,5 +1,11 @@
 [
     {
+        "title": "multicast-scaling",
+        "date": "2024-06-13T13:08:25",
+        "url": "https://xrdocs.io/multicast/blogs/multicast-scaling/",
+        "blog-description": "The following blog focus on the scaling of Multicast and the nuts and bolts around it."
+    },
+    {
         "title": "cisco-8000-port-assignment",
         "date": "2024-06-05T06:14:38",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-port-assignment/",
@@ -148,12 +154,6 @@
         "date": "2023-10-03T09:37:59",
         "url": "https://xrdocs.io/programmability/tutorials/pytas-series-netconf-module/",
         "blog-description": "How to use the pyATS NETCONF module?"
-    },
-    {
-        "title": "multicast-scaling",
-        "date": "2023-10-02T14:17:13",
-        "url": "https://xrdocs.io/multicast/blogs/multicast-scaling/",
-        "blog-description": "The following blog focus on the scaling of Multicast and the nuts and bolts around it."
     },
     {
         "title": "cst-srv6-addition",

@@ -1,5 +1,11 @@
 [
     {
+        "title": "cst-routed-optical-2_1",
+        "date": "2024-06-17T17:50:12",
+        "url": "https://xrdocs.io/design/blogs/2023-08-24-cst-routed-optical-2_1/",
+        "blog-description": "Routed Optical Networking 2.1"
+    },
+    {
         "title": "multicast-scaling",
         "date": "2024-06-13T13:08:25",
         "url": "https://xrdocs.io/multicast/blogs/multicast-scaling/",
@@ -178,12 +184,6 @@
         "date": "2023-09-08T15:23:41",
         "url": "https://xrdocs.io/8000/tutorials/mpls-te-bin-packing-cisco8000-auto-capacity/",
         "blog-description": "This blog details Cisco\u2019s TE++ Auto-bandwidth Capacity feature using a Cisco 8000 environment."
-    },
-    {
-        "title": "cst-routed-optical-2_1",
-        "date": "2023-09-06T15:08:11",
-        "url": "https://xrdocs.io/design/blogs/2023-08-24-cst-routed-optical-2_1/",
-        "blog-description": "Routed Optical Networking 2.1"
     },
     {
         "title": "cst-routed-optical-2_0",

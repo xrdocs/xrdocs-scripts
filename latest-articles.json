@@ -1,5 +1,11 @@
 [
     {
+        "title": "cnbng-cp-multiserver-baremetal-deployment-guide",
+        "date": "2024-07-01T09:00:52",
+        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-multiserver-baremetal-deployment-guide/",
+        "blog-description": "Learn how to deploy cnBNG CP HA setup on baremetal UCS servers. Baremetal deployment is also called as CNDP deployment, it allows cnBNG CP to be deployed without need of running hypervisor. CNDP deployment offers 20% performance improvement over traditional hypervisor/VM based deployment."
+    },
+    {
         "title": "cisco-8000-factory-reset",
         "date": "2024-06-27T08:48:21",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-factory-reset/",
@@ -502,12 +508,6 @@
         "date": "2022-04-21T09:21:17",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-npu-traps-telemetry-gnmi/",
         "blog-description": "On Cisco 8000, Network Processing Unit (NPU) traps are raised in response to the type of packets received by the router. This post will describe how to retrieve Cisco 8000 NPU traps counters through telemetry using gNMI interface."
-    },
-    {
-        "title": "cnbng-cp-multiserver-baremetal-deployment-guide",
-        "date": "2022-02-14T09:10:02",
-        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-multiserver-baremetal-deployment-guide/",
-        "blog-description": "Learn how to deploy cnBNG CP HA setup on baremetal UCS servers. Baremetal deployment is also called as CNDP deployment, it allows cnBNG CP to be deployed without need of running hypervisor. CNDP deployment offers 20% performance improvement over traditional hypervisor/VM based deployment."
     },
     {
         "title": "troubleshoot-slow-bgp-convergence-due-to-rpl",

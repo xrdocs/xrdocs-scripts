@@ -1,5 +1,11 @@
 [
     {
+        "title": "cisco-8000-dco-firmware-upgrade",
+        "date": "2024-07-02T12:51:47",
+        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-dco-firmware-upgrade/",
+        "blog-description": "This article aims at documenting QSFP-DD optical modules firmware upgrade on Cisco 8000 routers."
+    },
+    {
         "title": "cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment",
         "date": "2024-07-01T14:08:05",
         "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment/",

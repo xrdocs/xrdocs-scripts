@@ -1,5 +1,11 @@
 [
     {
+        "title": "2022-1001-ron-openconfig",
+        "date": "2024-07-24T15:13:53",
+        "url": "https://xrdocs.io/design/blogs/2022-1001-ron-openconfig/",
+        "blog-description": "Openconfig ZR/ZR+ Provisioning"
+    },
+    {
         "title": "cisco-8000-software-upgrade-install-replace-golden-iso",
         "date": "2024-07-23T08:35:20",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-software-upgrade-install-replace-golden-iso/",
@@ -118,12 +124,6 @@
         "date": "2024-02-20T23:05:09",
         "url": "https://xrdocs.io/design/blogs/2023-11-15-routed-access-for-rural-broadband/",
         "blog-description": "A Cisco routed access design for rural broadband"
-    },
-    {
-        "title": "2022-1001-ron-openconfig",
-        "date": "2024-02-17T14:50:48",
-        "url": "https://xrdocs.io/design/blogs/2022-1001-ron-openconfig/",
-        "blog-description": "Openconfig ZR/ZR+ Provisioning"
     },
     {
         "title": "pim-ssm",

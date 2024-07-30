@@ -1,5 +1,11 @@
 [
     {
+        "title": "cisco-8000-dco-firmware-upgrade",
+        "date": "2024-07-29T14:37:23",
+        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-dco-firmware-upgrade/",
+        "blog-description": "This article aims at documenting QSFP-DD optical modules firmware upgrade on Cisco 8000 routers."
+    },
+    {
         "title": "2022-1001-ron-openconfig",
         "date": "2024-07-24T15:13:53",
         "url": "https://xrdocs.io/design/blogs/2022-1001-ron-openconfig/",
@@ -10,12 +16,6 @@
         "date": "2024-07-23T08:35:20",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-software-upgrade-install-replace-golden-iso/",
         "blog-description": "This article describes how install replace procedure & Golden ISO file can be used to stage, patch, or upgrade the Cisco IOS XR Network Operation System (NOS) on a Cisco 8000."
-    },
-    {
-        "title": "cisco-8000-dco-firmware-upgrade",
-        "date": "2024-07-03T12:42:09",
-        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-dco-firmware-upgrade/",
-        "blog-description": "This article aims at documenting QSFP-DD optical modules firmware upgrade on Cisco 8000 routers."
     },
     {
         "title": "cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment",

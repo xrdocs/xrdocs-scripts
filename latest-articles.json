@@ -1,5 +1,11 @@
 [
     {
+        "title": "cisco-8000-factory-reset",
+        "date": "2024-07-31T21:41:24",
+        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-factory-reset/",
+        "blog-description": "This article introduces factory reset functionnality which safely erases any sensitive data stored on the system."
+    },
+    {
         "title": "cisco-8000-dco-firmware-upgrade",
         "date": "2024-07-29T14:37:23",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-dco-firmware-upgrade/",
@@ -28,12 +34,6 @@
         "date": "2024-07-01T09:00:52",
         "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-multiserver-baremetal-deployment-guide/",
         "blog-description": "Learn how to deploy cnBNG CP HA setup on baremetal UCS servers. Baremetal deployment is also called as CNDP deployment, it allows cnBNG CP to be deployed without need of running hypervisor. CNDP deployment offers 20% performance improvement over traditional hypervisor/VM based deployment."
-    },
-    {
-        "title": "cisco-8000-factory-reset",
-        "date": "2024-06-27T08:48:21",
-        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-factory-reset/",
-        "blog-description": "This article introduces factory reset functionnality which safely erases any sensitive data stored on the system."
     },
     {
         "title": "cst-routed-optical-2_1",

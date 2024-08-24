@@ -1,5 +1,53 @@
 [
     {
+        "title": "cisco-8000-port-assignment",
+        "date": "2024-08-24T04:26:17",
+        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-port-assignment/",
+        "blog-description": "This article will highlight how ports are allocated to IFG/Slice/NPU for each Cisco 8000 line card and systems."
+    },
+    {
+        "title": "pppoe-ds-dhcpv6-subscriber-bringup-in-cnbng",
+        "date": "2024-08-23T10:30:12",
+        "url": "https://xrdocs.io/cnbng/tutorials/pppoe-ds-dhcpv6-subscriber-bringup-in-cnbng/",
+        "blog-description": "Learn how to bring a PPPoE Dualstack session in this tutorial. This tutorial covers pap/chap auth for PPPoE subscriber and accounting."
+    },
+    {
+        "title": "ipoe-ds-subscriber-bringup-in-cnbng",
+        "date": "2024-08-23T10:29:17",
+        "url": "https://xrdocs.io/cnbng/tutorials/ipoe-ds-subscriber-bringup-in-cnbng/",
+        "blog-description": "Learn how to bring an IPoE Dualstack session in this tutorial. This tutorial covers Radius auth based on MAC as well."
+    },
+    {
+        "title": "cnbng-cp-multiserver-vmware-deployment-guide",
+        "date": "2024-08-23T10:28:09",
+        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-multiserver-vmware-deployment-guide/",
+        "blog-description": "Learn how to deploy cnBNG CP HA setup. You will learn how to bring-up cnBNG CP using multi server or VM nodes in VMWare ESXi environment, basic concepts related to networking etc."
+    },
+    {
+        "title": "cnbng-cp-4-server-baremetal-deployment-guide",
+        "date": "2024-08-23T10:27:30",
+        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-4-server-baremetal-deployment-guide/",
+        "blog-description": "Learn how to deploy cnBNG CP HA setup on baremetal UCS servers. Baremetal deployment is also called as CNDP deployment, it allows cnBNG CP to be deployed without need of running hypervisor. CNDP deployment offers 20% performance improvement over traditional hypervisor/VM based deployment."
+    },
+    {
+        "title": "cnbng-cp-single-vm-aio-deployment-guide",
+        "date": "2024-08-23T10:24:54",
+        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-single-vm-aio-deployment-guide/",
+        "blog-description": "cnBNG Control Plane can be deployed in Single VM. This single VM deployment of cnBNG is called as All-in-one (AIO) deployment. AIO deployment includes ops-center, telemetry, grafana with full cloud native stack from SMI and cnBNG control plane application software. In this tutorial lean how to deploy cnBNG CP in Single VM."
+    },
+    {
+        "title": "inception-server-deployment-guide",
+        "date": "2024-08-23T10:24:20",
+        "url": "https://xrdocs.io/cnbng/tutorials/inception-server-deployment-guide/",
+        "blog-description": "Inception server provides automation to deploy cnBNG CP. In this deployment guide learn how to deploy Inception Server in VMWare ESXi Environment."
+    },
+    {
+        "title": "cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment",
+        "date": "2024-08-23T10:20:48",
+        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment/",
+        "blog-description": "Learn how to deploy cnBNG Control Plane in a pre-deployed VM in any environment"
+    },
+    {
         "title": "understanding-3-ucs-server-geo-red-control-plane-deployment",
         "date": "2024-08-12T15:54:21",
         "url": "https://xrdocs.io/cnbng/tutorials/understanding-3-ucs-server-geo-red-control-plane-deployment/",
@@ -36,18 +84,6 @@
         "blog-description": "This article describes how install replace procedure & Golden ISO file can be used to stage, patch, or upgrade the Cisco IOS XR Network Operation System (NOS) on a Cisco 8000."
     },
     {
-        "title": "cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment",
-        "date": "2024-07-01T14:08:05",
-        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment/",
-        "blog-description": "Learn how to deploy cnBNG Control Plane in a pre-deployed VM in any environment"
-    },
-    {
-        "title": "cnbng-cp-multiserver-baremetal-deployment-guide",
-        "date": "2024-07-01T09:00:52",
-        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-multiserver-baremetal-deployment-guide/",
-        "blog-description": "Learn how to deploy cnBNG CP HA setup on baremetal UCS servers. Baremetal deployment is also called as CNDP deployment, it allows cnBNG CP to be deployed without need of running hypervisor. CNDP deployment offers 20% performance improvement over traditional hypervisor/VM based deployment."
-    },
-    {
         "title": "cst-routed-optical-2_1",
         "date": "2024-06-17T17:50:12",
         "url": "https://xrdocs.io/design/blogs/2023-08-24-cst-routed-optical-2_1/",
@@ -60,22 +96,10 @@
         "blog-description": "The following blog focus on the scaling of Multicast and the nuts and bolts around it."
     },
     {
-        "title": "cisco-8000-port-assignment",
-        "date": "2024-06-05T06:14:38",
-        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-port-assignment/",
-        "blog-description": "This article will highlight how ports are allocated to IFG/Slice/NPU for each Cisco 8000 line card and systems."
-    },
-    {
         "title": "cisco-8000-fib-scale",
         "date": "2024-05-21T08:06:54",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-fib-scale/",
         "blog-description": "This article will document how Silicon One Q100 and Q200 based systems can support current and future BGP scale for peering and core roles. Based on projected growth, tests will demonstrate they are also future proof. Last, a new feature introduced to increase FIB scale on Q200 will be demonstrated. Telemetry data will also be used to illustrate system capabilities."
-    },
-    {
-        "title": "inception-server-deployment-guide",
-        "date": "2024-05-17T08:40:38",
-        "url": "https://xrdocs.io/cnbng/tutorials/inception-server-deployment-guide/",
-        "blog-description": "Inception server provides automation to deploy cnBNG CP. In this deployment guide learn how to deploy Inception Server in VMWare ESXi Environment."
     },
     {
         "title": "2023-04-18-application-hosting-with-appmgr",
@@ -354,24 +378,6 @@
         "blog-description": "While the 8100 and 8200 Series have similar hardware architectures and form factors, there are key differences that impact the network roles they address. This post will cover their positioning and differences. "
     },
     {
-        "title": "pppoe-ds-dhcpv6-subscriber-bringup-in-cnbng",
-        "date": "2023-03-20T19:00:21",
-        "url": "https://xrdocs.io/cnbng/tutorials/pppoe-ds-dhcpv6-subscriber-bringup-in-cnbng/",
-        "blog-description": "Learn how to bring a PPPoE Dualstack session in this tutorial. This tutorial covers pap/chap auth for PPPoE subscriber and accounting."
-    },
-    {
-        "title": "ipoe-ds-subscriber-bringup-in-cnbng",
-        "date": "2023-03-20T18:45:32",
-        "url": "https://xrdocs.io/cnbng/tutorials/ipoe-ds-subscriber-bringup-in-cnbng/",
-        "blog-description": "Learn how to bring an IPoE Dualstack session in this tutorial. This tutorial covers Radius auth based on MAC as well."
-    },
-    {
-        "title": "cnbng-cp-single-vm-aio-deployment-guide",
-        "date": "2023-03-20T18:44:26",
-        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-single-vm-aio-deployment-guide/",
-        "blog-description": "cnBNG Control Plane can be deployed in Single VM. This single VM deployment of cnBNG is called as All-in-one (AIO) deployment. AIO deployment includes ops-center, telemetry, grafana with full cloud native stack from SMI and cnBNG control plane application software. In this tutorial lean how to deploy cnBNG CP in Single VM."
-    },
-    {
         "title": "pppoe-lac-subscriber-bringup-in-cnbng",
         "date": "2023-03-20T17:13:29",
         "url": "https://xrdocs.io/cnbng/tutorials/pppoe-lac-subscriber-bringup-in-cnbng/",
@@ -502,12 +508,6 @@
         "date": "2022-07-12T15:21:34",
         "url": "https://xrdocs.io/device-lifecycle/blogs/2017-09-21-ios-xr-ztp-learning-through-packet-captures/",
         "blog-description": "Packet Captures are a great way to understand how the router running IOS-XR behaves with the outside world. In this blog,  we look at Zero Touch provisioning workflows and the corresponding packets exchanged with the DHCP server"
-    },
-    {
-        "title": "cnbng-cp-multiserver-vmware-deployment-guide",
-        "date": "2022-06-28T10:30:17",
-        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-multiserver-vmware-deployment-guide/",
-        "blog-description": "Learn how to deploy cnBNG CP HA setup. You will learn how to bring-up cnBNG CP using multi server or VM nodes in VMWare ESXi environment, basic concepts related to networking etc."
     },
     {
         "title": "8000-router-power-consumption-part-1",

@@ -1,9 +1,15 @@
 [
     {
         "title": "cisco-8000-port-assignment",
-        "date": "2024-08-25T16:43:08",
+        "date": "2024-08-26T19:52:24",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-port-assignment/",
         "blog-description": "This article will highlight how ports are allocated to IFG/Slice/NPU for each Cisco 8000 line card and systems."
+    },
+    {
+        "title": "asr-9000-bng-scale-best-practices",
+        "date": "2024-08-26T13:57:22",
+        "url": "https://xrdocs.io/asr9k/tutorials/asr-9000-bng-scale-best-practices/",
+        "blog-description": "This article covers ASR 9000 best practices to maximize BNG scale"
     },
     {
         "title": "pppoe-ds-dhcpv6-subscriber-bringup-in-cnbng",
@@ -52,12 +58,6 @@
         "date": "2024-08-12T15:54:21",
         "url": "https://xrdocs.io/cnbng/tutorials/understanding-3-ucs-server-geo-red-control-plane-deployment/",
         "blog-description": "This tutorial explains the concepts related to three server Geo Redundant Control Plane Baremetal/CNDP cluster Deployment. "
-    },
-    {
-        "title": "asr-9000-bng-scale-best-practices",
-        "date": "2024-08-05T14:00:51",
-        "url": "https://xrdocs.io/asr9k/tutorials/asr-9000-bng-scale-best-practices/",
-        "blog-description": "This article covers ASR 9000 best practices to maximize BNG scale"
     },
     {
         "title": "cisco-8000-factory-reset",

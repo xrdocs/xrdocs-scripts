@@ -1,5 +1,11 @@
 [
     {
+        "title": "cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment",
+        "date": "2024-09-09T09:07:56",
+        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment/",
+        "blog-description": "Learn how to deploy cnBNG Control Plane in a pre-deployed VM in any environment"
+    },
+    {
         "title": "cisco-8000-disk-encryption",
         "date": "2024-09-04T09:43:32",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-disk-encryption/",
@@ -52,12 +58,6 @@
         "date": "2024-08-23T10:24:20",
         "url": "https://xrdocs.io/cnbng/tutorials/inception-server-deployment-guide/",
         "blog-description": "Inception server provides automation to deploy cnBNG CP. In this deployment guide learn how to deploy Inception Server in VMWare ESXi Environment."
-    },
-    {
-        "title": "cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment",
-        "date": "2024-08-23T10:20:48",
-        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment/",
-        "blog-description": "Learn how to deploy cnBNG Control Plane in a pre-deployed VM in any environment"
     },
     {
         "title": "understanding-3-ucs-server-geo-red-control-plane-deployment",

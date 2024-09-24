@@ -1,5 +1,11 @@
 [
     {
+        "title": "8000-software-xr7-usb-boot",
+        "date": "2024-09-24T08:26:45",
+        "url": "https://xrdocs.io/8000/tutorials/8000-software-xr7-usb-boot/",
+        "blog-description": "This tutorial will describe and illustrate how to USB boot Cisco 8000 routers. This step-by-step procedure can be used to stage, re-image or recover a router from a boot failure."
+    },
+    {
         "title": "cisco-8000-port-assignment",
         "date": "2024-09-20T19:03:41",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-port-assignment/",
@@ -448,12 +454,6 @@
         "date": "2022-09-01T19:10:35",
         "url": "https://xrdocs.io/8000/tutorials/8000-software-xr7-giso/",
         "blog-description": "This tutorial will describe and illustrate how to generate a Golden ISO (GISO) image for Cisco 8000 routers. GISO can be used to stage, re-image, patch or upgrade Cisco 8000 routers. "
-    },
-    {
-        "title": "8000-software-xr7-usb-boot",
-        "date": "2022-08-29T12:57:11",
-        "url": "https://xrdocs.io/8000/tutorials/8000-software-xr7-usb-boot/",
-        "blog-description": "This tutorial will describe and illustrate how to USB boot Cisco 8000 routers. This step-by-step procedure can be used to stage, re-image or recover a router from a boot failure."
     },
     {
         "title": "helper-tools-to-get-started-with-xrd",

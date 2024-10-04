@@ -1,9 +1,15 @@
 [
     {
         "title": "cisco-8000-port-assignment",
-        "date": "2024-09-29T03:31:36",
+        "date": "2024-10-03T16:23:03",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-port-assignment/",
-        "blog-description": "This article will highlight how ports are allocated to IFG/Slice/NPU for each Cisco 8000 line card and systems."
+        "blog-description": "This article will highlight how ports are allocated to IFG/Slice/NPU for each Cisco 8000 line card and systems (Part 1)."
+    },
+    {
+        "title": "cisco-8000-port-assignment-part-2",
+        "date": "2024-10-03T16:22:47",
+        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-port-assignment-part-2/",
+        "blog-description": "This article will highlight how ports are allocated to IFG/Slice/NPU for each Cisco 8000 line card and systems (Part 2)."
     },
     {
         "title": "8000-software-xr7-usb-boot",

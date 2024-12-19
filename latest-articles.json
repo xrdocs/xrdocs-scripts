@@ -1,5 +1,11 @@
 [
     {
+        "title": "cisco-8608-architecture",
+        "date": "2024-12-19T00:14:47",
+        "url": "https://xrdocs.io/8000/blogs/cisco-8608-architecture/",
+        "blog-description": "This post will describe Cisco 8000 centralized system architecture: Cisco 8608, based on Silicon One Q200 ASIC."
+    },
+    {
         "title": "2024-0210-dco-monitoring",
         "date": "2024-10-30T20:48:50",
         "url": "https://xrdocs.io/design/blogs/2024-0210-dco-monitoring/",
@@ -208,12 +214,6 @@
         "date": "2023-12-21T11:00:53",
         "url": "https://xrdocs.io/telemetry/tutorials/ios-xr-telemetry-power-consumption-docker-compose/",
         "blog-description": "This post will describe how a docker-based ephemeral telemetry stack has been built to monitor Cisco IOS-XR device power consumption."
-    },
-    {
-        "title": "cisco-8608-architecture",
-        "date": "2023-12-21T10:49:31",
-        "url": "https://xrdocs.io/8000/blogs/cisco-8608-architecture/",
-        "blog-description": "This post will describe Cisco 8000 centralized system architecture: Cisco 8608, based on Silicon One Q200 ASIC."
     },
     {
         "title": "8000-bgp-paths-rib-scale",

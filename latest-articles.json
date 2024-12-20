@@ -1,5 +1,11 @@
 [
     {
+        "title": "setting-up-host-environment-to-run-xrd",
+        "date": "2024-12-19T19:57:45",
+        "url": "https://xrdocs.io/virtual-routing/tutorials/2022-08-22-setting-up-host-environment-to-run-xrd/",
+        "blog-description": "Learn how to set up the host environment to successfully launch Control-Plane and vRouter XRd images in your setup."
+    },
+    {
         "title": "cisco-8608-architecture",
         "date": "2024-12-19T00:14:47",
         "url": "https://xrdocs.io/8000/blogs/cisco-8608-architecture/",
@@ -412,12 +418,6 @@
         "date": "2023-02-20T18:38:46",
         "url": "https://xrdocs.io/multicast/blogs/multicast-101-introduction/",
         "blog-description": "Multicast 101 Introduction"
-    },
-    {
-        "title": "setting-up-host-environment-to-run-xrd",
-        "date": "2023-02-03T16:59:45",
-        "url": "https://xrdocs.io/virtual-routing/tutorials/2022-08-22-setting-up-host-environment-to-run-xrd/",
-        "blog-description": "Learn how to set up the host environment to successfully launch Control-Plane and vRouter XRd images in your setup."
     },
     {
         "title": "xrd-with-docker-compose-control-plane",

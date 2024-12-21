@@ -1,15 +1,21 @@
 [
     {
+        "title": "cisco-8608-architecture",
+        "date": "2024-12-21T04:58:24",
+        "url": "https://xrdocs.io/8000/blogs/cisco-8608-architecture/",
+        "blog-description": "This post will describe Cisco 8000 centralized system architecture: Cisco 8608, based on Silicon One Q200 ASIC."
+    },
+    {
+        "title": "cisco-8000-port-assignment-part-2",
+        "date": "2024-12-21T00:00:38",
+        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-port-assignment-part-2/",
+        "blog-description": "This article will highlight how ports are allocated to IFG/Slice/NPU for each Cisco 8000 line card and systems (Part 2)."
+    },
+    {
         "title": "setting-up-host-environment-to-run-xrd",
         "date": "2024-12-19T19:57:45",
         "url": "https://xrdocs.io/virtual-routing/tutorials/2022-08-22-setting-up-host-environment-to-run-xrd/",
         "blog-description": "Learn how to set up the host environment to successfully launch Control-Plane and vRouter XRd images in your setup."
-    },
-    {
-        "title": "cisco-8608-architecture",
-        "date": "2024-12-19T00:14:47",
-        "url": "https://xrdocs.io/8000/blogs/cisco-8608-architecture/",
-        "blog-description": "This post will describe Cisco 8000 centralized system architecture: Cisco 8608, based on Silicon One Q200 ASIC."
     },
     {
         "title": "2024-0210-dco-monitoring",
@@ -28,12 +34,6 @@
         "date": "2024-10-03T16:23:03",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-port-assignment/",
         "blog-description": "This article will highlight how ports are allocated to IFG/Slice/NPU for each Cisco 8000 line card and systems (Part 1)."
-    },
-    {
-        "title": "cisco-8000-port-assignment-part-2",
-        "date": "2024-10-03T16:22:47",
-        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-port-assignment-part-2/",
-        "blog-description": "This article will highlight how ports are allocated to IFG/Slice/NPU for each Cisco 8000 line card and systems (Part 2)."
     },
     {
         "title": "8000-software-xr7-usb-boot",

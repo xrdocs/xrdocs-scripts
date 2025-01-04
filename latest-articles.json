@@ -1,5 +1,11 @@
 [
     {
+        "title": "ipoe-ds-subscriber-bringup-in-cnbng",
+        "date": "2025-01-03T14:21:33",
+        "url": "https://xrdocs.io/cnbng/tutorials/ipoe-ds-subscriber-bringup-in-cnbng/",
+        "blog-description": "Learn how to bring an IPoE Dualstack session in this tutorial. This tutorial covers Radius auth based on MAC as well."
+    },
+    {
         "title": "cisco-8608-architecture",
         "date": "2024-12-21T04:58:24",
         "url": "https://xrdocs.io/8000/blogs/cisco-8608-architecture/",
@@ -64,12 +70,6 @@
         "date": "2024-08-23T10:30:12",
         "url": "https://xrdocs.io/cnbng/tutorials/pppoe-ds-dhcpv6-subscriber-bringup-in-cnbng/",
         "blog-description": "Learn how to bring a PPPoE Dualstack session in this tutorial. This tutorial covers pap/chap auth for PPPoE subscriber and accounting."
-    },
-    {
-        "title": "ipoe-ds-subscriber-bringup-in-cnbng",
-        "date": "2024-08-23T10:29:17",
-        "url": "https://xrdocs.io/cnbng/tutorials/ipoe-ds-subscriber-bringup-in-cnbng/",
-        "blog-description": "Learn how to bring an IPoE Dualstack session in this tutorial. This tutorial covers Radius auth based on MAC as well."
     },
     {
         "title": "cnbng-cp-multiserver-vmware-deployment-guide",

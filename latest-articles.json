@@ -1,5 +1,11 @@
 [
     {
+        "title": "xrv-9000-ucs-m7-appliance-reimage",
+        "date": "2025-01-14T23:05:03",
+        "url": "https://xrdocs.io/virtual-routing/tutorials/xrv-9000-ucs-m7-appliance-reimage/",
+        "blog-description": "This procedure aims to document the steps required to fully reimage a Cisco IOS XRv 9000 Appliance running IOS XR 24.4.1 and based on Cisco UCS M7 series."
+    },
+    {
         "title": "ipoe-ds-subscriber-bringup-in-cnbng",
         "date": "2025-01-03T14:21:33",
         "url": "https://xrdocs.io/cnbng/tutorials/ipoe-ds-subscriber-bringup-in-cnbng/",

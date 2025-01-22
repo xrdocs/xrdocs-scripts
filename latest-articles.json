@@ -1,5 +1,11 @@
 [
     {
+        "title": "cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment",
+        "date": "2025-01-22T07:23:47",
+        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment/",
+        "blog-description": "Learn how to deploy cnBNG Control Plane in a pre-deployed VM in any environment"
+    },
+    {
         "title": "xrv-9000-ucs-m7-appliance-reimage",
         "date": "2025-01-17T20:09:23",
         "url": "https://xrdocs.io/virtual-routing/tutorials/xrv-9000-ucs-m7-appliance-reimage/",
@@ -52,12 +58,6 @@
         "date": "2024-09-24T08:26:45",
         "url": "https://xrdocs.io/8000/tutorials/8000-software-xr7-usb-boot/",
         "blog-description": "This tutorial will describe and illustrate how to USB boot Cisco 8000 routers. This step-by-step procedure can be used to stage, re-image or recover a router from a boot failure."
-    },
-    {
-        "title": "cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment",
-        "date": "2024-09-09T09:07:56",
-        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment/",
-        "blog-description": "Learn how to deploy cnBNG Control Plane in a pre-deployed VM in any environment"
     },
     {
         "title": "cisco-8000-disk-encryption",

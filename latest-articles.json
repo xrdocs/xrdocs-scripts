@@ -1,15 +1,15 @@
 [
     {
+        "title": "cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment",
+        "date": "2025-01-24T08:38:47",
+        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment/",
+        "blog-description": "Learn how to deploy cnBNG Control Plane in a pre-deployed VM in any environment"
+    },
+    {
         "title": "cisco-8711-architecture",
         "date": "2025-01-22T21:10:08",
         "url": "https://xrdocs.io/8000/blogs/cisco-8711-architecture/",
         "blog-description": "This post will describe Cisco 8711-32FH-M architecture, based on Silicon One P100 ASIC."
-    },
-    {
-        "title": "cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment",
-        "date": "2025-01-22T07:23:47",
-        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment/",
-        "blog-description": "Learn how to deploy cnBNG Control Plane in a pre-deployed VM in any environment"
     },
     {
         "title": "xrv-9000-ucs-m7-appliance-reimage",

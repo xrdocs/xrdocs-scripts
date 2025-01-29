@@ -1,5 +1,11 @@
 [
     {
+        "title": "cisco-8608-architecture",
+        "date": "2025-01-28T21:25:30",
+        "url": "https://xrdocs.io/8000/blogs/cisco-8608-architecture/",
+        "blog-description": "This post will describe Cisco 8000 centralized system architecture: Cisco 8608, based on Silicon One Q200 ASIC."
+    },
+    {
         "title": "cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment",
         "date": "2025-01-24T12:33:42",
         "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment/",
@@ -22,12 +28,6 @@
         "date": "2025-01-03T14:21:33",
         "url": "https://xrdocs.io/cnbng/tutorials/ipoe-ds-subscriber-bringup-in-cnbng/",
         "blog-description": "Learn how to bring an IPoE Dualstack session in this tutorial. This tutorial covers Radius auth based on MAC as well."
-    },
-    {
-        "title": "cisco-8608-architecture",
-        "date": "2024-12-21T04:58:24",
-        "url": "https://xrdocs.io/8000/blogs/cisco-8608-architecture/",
-        "blog-description": "This post will describe Cisco 8000 centralized system architecture: Cisco 8608, based on Silicon One Q200 ASIC."
     },
     {
         "title": "cisco-8000-port-assignment-part-2",

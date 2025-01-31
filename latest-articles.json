@@ -1,5 +1,11 @@
 [
     {
+        "title": "xrv-9000-ucs-m7-appliance-reimage",
+        "date": "2025-01-30T15:47:46",
+        "url": "https://xrdocs.io/virtual-routing/tutorials/xrv-9000-ucs-m7-appliance-reimage/",
+        "blog-description": "This procedure aims to document the steps required to fully reimage a Cisco IOS XRv 9000 Appliance running IOS XR 24.4.1 and based on Cisco UCS M7 series."
+    },
+    {
         "title": "cisco-8608-architecture",
         "date": "2025-01-28T21:25:30",
         "url": "https://xrdocs.io/8000/blogs/cisco-8608-architecture/",
@@ -16,12 +22,6 @@
         "date": "2025-01-22T21:10:08",
         "url": "https://xrdocs.io/8000/blogs/cisco-8711-architecture/",
         "blog-description": "This post will describe Cisco 8711-32FH-M architecture, based on Silicon One P100 ASIC."
-    },
-    {
-        "title": "xrv-9000-ucs-m7-appliance-reimage",
-        "date": "2025-01-17T20:09:23",
-        "url": "https://xrdocs.io/virtual-routing/tutorials/xrv-9000-ucs-m7-appliance-reimage/",
-        "blog-description": "This procedure aims to document the steps required to fully reimage a Cisco IOS XRv 9000 Appliance running IOS XR 24.4.1 and based on Cisco UCS M7 series."
     },
     {
         "title": "ipoe-ds-subscriber-bringup-in-cnbng",

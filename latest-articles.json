@@ -1,5 +1,11 @@
 [
     {
+        "title": "cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment",
+        "date": "2025-02-03T06:04:52",
+        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment/",
+        "blog-description": "Learn how to deploy cnBNG Control Plane in a pre-deployed VM in any environment"
+    },
+    {
         "title": "xrv-9000-ucs-m7-appliance-reimage",
         "date": "2025-01-30T15:47:46",
         "url": "https://xrdocs.io/virtual-routing/tutorials/xrv-9000-ucs-m7-appliance-reimage/",
@@ -10,12 +16,6 @@
         "date": "2025-01-28T21:25:30",
         "url": "https://xrdocs.io/8000/blogs/cisco-8608-architecture/",
         "blog-description": "This post will describe Cisco 8000 centralized system architecture: Cisco 8608, based on Silicon One Q200 ASIC."
-    },
-    {
-        "title": "cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment",
-        "date": "2025-01-24T12:33:42",
-        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment/",
-        "blog-description": "Learn how to deploy cnBNG Control Plane in a pre-deployed VM in any environment"
     },
     {
         "title": "cisco-8711-architecture",

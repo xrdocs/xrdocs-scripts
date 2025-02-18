@@ -1,5 +1,11 @@
 [
     {
+        "title": "cnbng-control-plane-openshift-deployment-guide",
+        "date": "2025-02-17T10:06:15",
+        "url": "https://xrdocs.io/cnbng/tutorials/cnbng-control-plane-openshift-deployment-guide/",
+        "blog-description": ""
+    },
+    {
         "title": "cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment",
         "date": "2025-02-03T06:04:52",
         "url": "https://xrdocs.io/cnbng/tutorials/cnbng-cp-aio-single-vm-deployment-guide-any-vm-environment/",

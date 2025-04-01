@@ -1,5 +1,17 @@
 [
     {
+        "title": "8000-line-cards-88-lc1-12th24fh-e-and-88-lc1-52y8h-em-architecture-white-paper",
+        "date": "2025-03-31T20:34:18",
+        "url": "https://xrdocs.io/8000/blogs/8000-line-cards-88-lc1-12th24fh-e-and-88-lc1-52y8h-em-architecture-white-paper/",
+        "blog-description": "This post will describe Cisco 8000 Line Cards 88-LC1-12TH24FH-E and 88-LC1-52Y8H-EM architecture."
+    },
+    {
+        "title": "xrd-on-openshift",
+        "date": "2025-03-31T14:51:32",
+        "url": "https://xrdocs.io/virtual-routing/tutorials/2023-05-02-xrd-on-openshift/",
+        "blog-description": "Learn how to deploy and interact with XRd running in an Openshift cluster"
+    },
+    {
         "title": "Cisco-8000-QOS-architecture",
         "date": "2025-03-18T05:56:27",
         "url": "https://xrdocs.io/8000/blogs/Cisco-8000-QOS-architecture/",
@@ -250,12 +262,6 @@
         "date": "2023-12-13T16:23:27",
         "url": "https://xrdocs.io/8000/tutorials/8000-bgp-paths-rib-scale/",
         "blog-description": "This article will demonstrate how Cisco 8000 Series routers can scale up to 25M BGP paths."
-    },
-    {
-        "title": "xrd-on-openshift",
-        "date": "2023-11-16T21:27:42",
-        "url": "https://xrdocs.io/virtual-routing/tutorials/2023-05-02-xrd-on-openshift/",
-        "blog-description": "Learn how to deploy and interact with XRd running in an Openshift cluster"
     },
     {
         "title": "pyats-series-tips-and-tricks",

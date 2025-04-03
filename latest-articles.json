@@ -1,5 +1,11 @@
 [
     {
+        "title": "cisco-8608-architecture",
+        "date": "2025-04-03T01:37:45",
+        "url": "https://xrdocs.io/8000/blogs/cisco-8608-architecture/",
+        "blog-description": "This post will describe Cisco 8000 centralized system architecture: Cisco 8608, based on Silicon One Q200 ASIC."
+    },
+    {
         "title": "8000-line-cards-88-lc1-12th24fh-e-and-88-lc1-52y8h-em-architecture-white-paper",
         "date": "2025-03-31T20:34:18",
         "url": "https://xrdocs.io/8000/blogs/8000-line-cards-88-lc1-12th24fh-e-and-88-lc1-52y8h-em-architecture-white-paper/",
@@ -40,12 +46,6 @@
         "date": "2025-01-30T15:47:46",
         "url": "https://xrdocs.io/virtual-routing/tutorials/xrv-9000-ucs-m7-appliance-reimage/",
         "blog-description": "This procedure aims to document the steps required to fully reimage a Cisco IOS XRv 9000 Appliance running IOS XR 24.4.1 and based on Cisco UCS M7 series."
-    },
-    {
-        "title": "cisco-8608-architecture",
-        "date": "2025-01-28T21:25:30",
-        "url": "https://xrdocs.io/8000/blogs/cisco-8608-architecture/",
-        "blog-description": "This post will describe Cisco 8000 centralized system architecture: Cisco 8608, based on Silicon One Q200 ASIC."
     },
     {
         "title": "ipoe-ds-subscriber-bringup-in-cnbng",

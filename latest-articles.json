@@ -1,5 +1,11 @@
 [
     {
+        "title": "cisco-8000-disk-encryption",
+        "date": "2025-05-16T08:24:44",
+        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-disk-encryption/",
+        "blog-description": "This article aims to describe the disk encryption feature on Cisco 8000 routers.  This functionality creates an encrypted partition where sensitive data such configuration, certificates and keys are stored. "
+    },
+    {
         "title": "l2tp-lns-subscriber-session-bringup-in-cnbng",
         "date": "2025-05-15T05:06:52",
         "url": "https://xrdocs.io/cnbng/tutorials/l2tp-lns-subscriber-session-bringup-in-cnbng/",
@@ -100,12 +106,6 @@
         "date": "2024-09-24T08:26:45",
         "url": "https://xrdocs.io/8000/tutorials/8000-software-xr7-usb-boot/",
         "blog-description": "This tutorial will describe and illustrate how to USB boot Cisco 8000 routers. This step-by-step procedure can be used to stage, re-image or recover a router from a boot failure."
-    },
-    {
-        "title": "cisco-8000-disk-encryption",
-        "date": "2024-09-04T09:43:32",
-        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-disk-encryption/",
-        "blog-description": "This article aims to describe the disk encryption feature on Cisco 8000 routers.  This functionality creates an encrypted partition where sensitive data such configuration, certificates and keys are stored. "
     },
     {
         "title": "asr-9000-bng-scale-best-practices",

@@ -1,7 +1,13 @@
 [
     {
+        "title": "cisco-8000-fib-scale",
+        "date": "2025-05-19T21:28:36",
+        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-fib-scale/",
+        "blog-description": "This article will document how Silicon One Q100 and Q200 based systems can support current and future BGP scale for peering and core roles. Based on projected growth, tests will demonstrate they are also future proof. Last, a new feature introduced to increase FIB scale on Q200 will be demonstrated. Telemetry data will also be used to illustrate system capabilities."
+    },
+    {
         "title": "cisco-8000-fib-scale-for-silicon-one-p100",
-        "date": "2025-05-16T12:32:30",
+        "date": "2025-05-19T21:26:27",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-fib-scale-for-silicon-one-p100/",
         "blog-description": "This article aims to document and demonstrate FIB scale and capabilities for Cisco 8000 routers running Silicon One P100 ASIC."
     },
@@ -190,12 +196,6 @@
         "date": "2024-06-13T13:08:25",
         "url": "https://xrdocs.io/multicast/blogs/multicast-scaling/",
         "blog-description": "The following blog focus on the scaling of Multicast and the nuts and bolts around it."
-    },
-    {
-        "title": "cisco-8000-fib-scale",
-        "date": "2024-05-21T08:06:54",
-        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-fib-scale/",
-        "blog-description": "This article will document how Silicon One Q100 and Q200 based systems can support current and future BGP scale for peering and core roles. Based on projected growth, tests will demonstrate they are also future proof. Last, a new feature introduced to increase FIB scale on Q200 will be demonstrated. Telemetry data will also be used to illustrate system capabilities."
     },
     {
         "title": "2023-04-18-application-hosting-with-appmgr",

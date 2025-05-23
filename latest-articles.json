@@ -1,5 +1,11 @@
 [
     {
+        "title": "cisco-8000-port-assignment-part-2",
+        "date": "2025-05-22T23:28:22",
+        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-port-assignment-part-2/",
+        "blog-description": "This article will highlight how ports are allocated to IFG/Slice/NPU for each Cisco 8000 line card and systems (Part 2)."
+    },
+    {
         "title": "cisco-8000-fib-scale",
         "date": "2025-05-19T21:28:36",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-fib-scale/",
@@ -82,12 +88,6 @@
         "date": "2025-01-03T14:21:33",
         "url": "https://xrdocs.io/cnbng/tutorials/ipoe-ds-subscriber-bringup-in-cnbng/",
         "blog-description": "Learn how to bring an IPoE Dualstack session in this tutorial. This tutorial covers Radius auth based on MAC as well."
-    },
-    {
-        "title": "cisco-8000-port-assignment-part-2",
-        "date": "2024-12-21T00:00:38",
-        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-port-assignment-part-2/",
-        "blog-description": "This article will highlight how ports are allocated to IFG/Slice/NPU for each Cisco 8000 line card and systems (Part 2)."
     },
     {
         "title": "setting-up-host-environment-to-run-xrd",

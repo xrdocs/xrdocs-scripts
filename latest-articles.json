@@ -1,5 +1,11 @@
 [
     {
+        "title": "cisco-8000-disk-encryption",
+        "date": "2025-06-16T15:22:48",
+        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-disk-encryption/",
+        "blog-description": "This article aims to describe the disk encryption feature on Cisco 8000 routers.  This functionality creates an encrypted partition where sensitive data such configuration, certificates and keys are stored. "
+    },
+    {
         "title": "cisco-8000-port-assignment-part-2",
         "date": "2025-05-23T19:22:01",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-port-assignment-part-2/",
@@ -16,12 +22,6 @@
         "date": "2025-05-19T21:26:27",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-fib-scale-for-silicon-one-p100/",
         "blog-description": "This article aims to document and demonstrate FIB scale and capabilities for Cisco 8000 routers running Silicon One P100 ASIC."
-    },
-    {
-        "title": "cisco-8000-disk-encryption",
-        "date": "2025-05-16T08:24:44",
-        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-disk-encryption/",
-        "blog-description": "This article aims to describe the disk encryption feature on Cisco 8000 routers.  This functionality creates an encrypted partition where sensitive data such configuration, certificates and keys are stored. "
     },
     {
         "title": "l2tp-lns-subscriber-session-bringup-in-cnbng",

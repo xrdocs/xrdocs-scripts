@@ -1,7 +1,7 @@
 [
     {
         "title": "cisco-8000-disk-encryption",
-        "date": "2025-06-23T09:23:44",
+        "date": "2025-06-23T10:20:48",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-disk-encryption/",
         "blog-description": "This article aims to describe the disk encryption feature on Cisco 8000 routers.  This functionality creates an encrypted partition where sensitive data such configuration, certificates and keys are stored. "
     },

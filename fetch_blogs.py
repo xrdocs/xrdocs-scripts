@@ -52,6 +52,8 @@ repos = [
     ('xrdocs', 'segment-routing', '_tutorials'),
     ('xrdocs', 'routed-pon', '_blogs'),
     ('xrdocs', 'routed-pon', '_tutorials')
+    ('xrdocs', 'ncs5500', '_blogs'),
+    ('xrdocs', 'ncs5500', '_tutorials')
 ]
 
 def remove_date_from_title(title) :

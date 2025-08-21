@@ -1,11 +1,5 @@
 [
     {
-        "title": "cst-srv6-addition",
-        "date": "2025-07-22T17:45:19",
-        "url": "https://xrdocs.io/design/blogs/2023-03-01-cst-srv6-addition/",
-        "blog-description": "CST SRv6 HLD"
-    },
-    {
         "title": "cisco-8000-disk-encryption",
         "date": "2025-06-23T10:20:48",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-disk-encryption/",

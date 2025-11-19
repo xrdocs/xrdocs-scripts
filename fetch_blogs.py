@@ -51,7 +51,7 @@ repos = [
     ('xrdocs', 'segment-routing', '_blogs'),
     ('xrdocs', 'segment-routing', '_tutorials'),
     ('xrdocs', 'routed-pon', '_blogs'),
-    ('xrdocs', 'routed-pon', '_tutorials')
+    ('xrdocs', 'routed-pon', '_tutorials'),
     ('xrdocs', 'ncs5500', '_blogs'),
     ('xrdocs', 'ncs5500', '_tutorials')
 ]

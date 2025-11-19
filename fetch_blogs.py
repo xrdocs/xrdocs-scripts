@@ -79,7 +79,6 @@ def get_published_info(content, path, user, repo, directory) :
                 first_lines = yaml.safe_load(first_lines_info)
                 if isinstance(first_lines, dict) :
                     first_lines['path'] = path
-                    first_lines['url'] = f"https://xrdocs.io/{user}/{repo}/{directory[1:]}/{path[:-3]}/"
                     description = first_lines.get('excerpt', '')
                     #blank description edge case
                     if description is not None and isinstance(description, str):
@@ -113,7 +112,11 @@ def main() :
             
                     if first_lines and first_lines.get('published', False) and first_lines.get('position', '') == 'top' and first_lines.get('title') :
                         title = remove_date_from_title(content_file.name[:-3])
-                        repo_url = f'https://xrdocs.io/{repo_name}/{directory[1:]}/{content_file.name[:-3]}/'
+                        # Check if permalink exists in front matter, otherwise construct from filename
+                        if 'permalink' in first_lines and first_lines['permalink']:
+                            repo_url = f"https://xrdocs.io{first_lines['permalink']}"
+                        else:
+                            repo_url = f'https://xrdocs.io/{repo_name}/{directory[1:]}/{content_file.name[:-3]}/'
                         description = first_lines.get('excerpt', '')
                         recent_posts.append({
                             'title' : title,

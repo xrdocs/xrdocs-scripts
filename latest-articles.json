@@ -2,7 +2,7 @@
     {
         "title": "agile-services-networking-metro-1_0-hld-convert",
         "date": "2025-11-13T20:16:04",
-        "url": "https://xrdocs.io/design/blogs/2025-01-01-agile-services-networking-metro-1_0-hld-convert/",
+        "url": "https://xrdocs.io/blogs/latest-asn-metro-hld",
         "blog-description": "Cisco Agile Services Networking enables network operators to build flexible converged networks to handle any type of service at any place in the network. Networks built using ASN provide the scale, efficiency, and resiliency required while maintaining a simplier and easier to operate network."
     },
     {
@@ -14,7 +14,7 @@
     {
         "title": "cst-routed-optical-4_0",
         "date": "2025-10-29T11:25:27",
-        "url": "https://xrdocs.io/design/blogs/2025-10-01-cst-routed-optical-4_0/",
+        "url": "https://xrdocs.io/blogs/latest-routed-optical-networking-hld",
         "blog-description": "Routed Optical Networking 4.0"
     },
     {
@@ -50,7 +50,7 @@
     {
         "title": "cst-srv6-addition",
         "date": "2025-07-22T17:45:19",
-        "url": "https://xrdocs.io/design/blogs/2023-03-01-cst-srv6-addition/",
+        "url": "https://xrdocs.io/blogs/latest-converged-sdn-transport-srv6",
         "blog-description": "CST SRv6 HLD"
     },
     {
@@ -158,7 +158,7 @@
     {
         "title": "2024-0210-dco-monitoring",
         "date": "2024-10-30T20:48:50",
-        "url": "https://xrdocs.io/design/blogs/2024-0210-dco-monitoring/",
+        "url": "https://xrdocs.io/blogs/xr-dco-monitoring",
         "blog-description": "Cisco DCO Monitoring and Troubleshooting"
     },
     {
@@ -236,7 +236,7 @@
     {
         "title": "2022-1001-ron-openconfig",
         "date": "2024-07-24T15:13:53",
-        "url": "https://xrdocs.io/design/blogs/2022-1001-ron-openconfig/",
+        "url": "https://xrdocs.io/blogs/zr-openconfig-mgmt",
         "blog-description": "Openconfig ZR/ZR+ Provisioning"
     },
     {
@@ -272,7 +272,7 @@
     {
         "title": "2023-04-18-application-hosting-with-appmgr",
         "date": "2024-05-14T22:23:56",
-        "url": "https://xrdocs.io/application-hosting/tutorials/2023-04-18-2023-04-18-application-hosting-with-appmgr/",
+        "url": "https://xrdocs.io/tutorials/application-hosting-with-appmgr",
         "blog-description": "Learn how to use XR appmgr to build docker applications"
     },
     {
@@ -686,13 +686,13 @@
     {
         "title": "converged-sdn-transport-5_0-hld",
         "date": "2022-07-20T14:37:46",
-        "url": "https://xrdocs.io/design/blogs/2022-07-01-converged-sdn-transport-5_0-hld/",
+        "url": "https://xrdocs.io/blogs/latest-converged-sdn-transport-hld",
         "blog-description": "Cisco Converged SDN Transport (CST) design introduces an SDN-ready architecture evolving network design towards an SDN enabled, programmable network capable of delivering all services."
     },
     {
         "title": "peering-fabric-hld_5_0",
         "date": "2022-07-20T14:37:46",
-        "url": "https://xrdocs.io/design/blogs/2022-07-01-peering-fabric-hld_5_0/",
+        "url": "https://xrdocs.io/blogs/latest-peering-fabric-hld",
         "blog-description": "Peering Fabric Design - 5.0"
     },
     {
@@ -1004,13 +1004,13 @@
     {
         "title": "xr-toolbox-ios-xr-vagrant",
         "date": "2020-09-18T14:51:37",
-        "url": "https://xrdocs.io/application-hosting/tutorials/2016-05-22-xr-toolbox-ios-xr-vagrant/",
+        "url": "https://xrdocs.io/tutorials/iosxr-vagrant-quickstart",
         "blog-description": "Getting started with Cisco's IOS-XR Vagrant box"
     },
     {
         "title": "cin-design-guide",
         "date": "2020-09-14T15:10:01",
-        "url": "https://xrdocs.io/design/blogs/2020-02-15-cin-design-guide/",
+        "url": "https://xrdocs.io/blogs/cin-design-guide",
         "blog-description": "Cisco Converged SDN Transport (CST) design introduces an SDN-ready architecture evolving network design towards an SDN enabled, programmable network capable of delivering all services. This guide is an excerpt from the larger CST high-level design and implementation guides specific to CIN."
     },
     {
@@ -1058,7 +1058,7 @@
     {
         "title": "rpki-on-xr",
         "date": "2020-06-16T19:33:32",
-        "url": "https://xrdocs.io/design/blogs/2020-05-10-rpki-on-xr/",
+        "url": "https://xrdocs.io/blogs/routinator-hosted-on-xr",
         "blog-description": "RPKI or Resource Public Key Infrastructure is rapidly being deployed today to provide BGP prefix security across the Internet. In this blog we will show how to host a popular RPKI validator and RTR cache"
     },
     {
@@ -1250,7 +1250,7 @@
     {
         "title": "core-fabric-design",
         "date": "2018-10-11T17:03:16",
-        "url": "https://xrdocs.io/design/blogs/2018-09-12-core-fabric-design/",
+        "url": "https://xrdocs.io/blogs/latest-core-fabric-hld",
         "blog-description": "Core Fabric Design"
     },
     {
@@ -1460,7 +1460,7 @@
     {
         "title": "xr-toolbox-ios-xr-vagrant-bootstrap-config",
         "date": "2016-06-22T03:48:13",
-        "url": "https://xrdocs.io/application-hosting/tutorials/2016-05-31-xr-toolbox-ios-xr-vagrant-bootstrap-config/",
+        "url": "https://xrdocs.io/tutorials/iosxr-vagrant-bootstrap-config",
         "blog-description": "Configure an IOS-XR Vagrant box on boot using a Shell provisioner"
     }
 ]

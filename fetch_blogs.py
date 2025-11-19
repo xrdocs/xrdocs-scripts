@@ -114,7 +114,8 @@ def main() :
                         title = remove_date_from_title(content_file.name[:-3])
                         # Check if permalink exists in front matter, otherwise construct from filename
                         if 'permalink' in first_lines and first_lines['permalink']:
-                            repo_url = f"https://xrdocs.io{first_lines['permalink']}"
+                            # Permalink is relative, prepend repo name
+                            repo_url = f"https://xrdocs.io/{repo_name}{first_lines['permalink']}"
                         else:
                             repo_url = f'https://xrdocs.io/{repo_name}/{directory[1:]}/{content_file.name[:-3]}/'
                         description = first_lines.get('excerpt', '')

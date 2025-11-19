@@ -29,6 +29,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Github Action"
+          git pull --rebase origin main
           git add .
           if git diff-index --quiet HEAD --; then
               echo "No new articles to push. Exiting without committing"

@@ -1,5 +1,59 @@
 [
     {
+        "title": "agile-services-networking-metro-1_0-hld-convert",
+        "date": "2025-11-13T20:16:04",
+        "url": "https://xrdocs.io/design/blogs/2025-01-01-agile-services-networking-metro-1_0-hld-convert/",
+        "blog-description": "Cisco Agile Services Networking enables network operators to build flexible converged networks to handle any type of service at any place in the network. Networks built using ASN provide the scale, efficiency, and resiliency required while maintaining a simplier and easier to operate network."
+    },
+    {
+        "title": "xrv-9000-ucs-m7-appliance-software-upgrade",
+        "date": "2025-11-04T23:51:25",
+        "url": "https://xrdocs.io/virtual-routing/tutorials/xrv-9000-ucs-m7-appliance-software-upgrade/",
+        "blog-description": "This document aims to describe and document how to upgrade Cisco IOS XR software running on a Cisco IOS XRv 9000 UCS M7 appliance."
+    },
+    {
+        "title": "cst-routed-optical-4_0",
+        "date": "2025-10-29T11:25:27",
+        "url": "https://xrdocs.io/design/blogs/2025-10-01-cst-routed-optical-4_0/",
+        "blog-description": "Routed Optical Networking 4.0"
+    },
+    {
+        "title": "pppoe-lac-subscriber-bringup-in-cnbng",
+        "date": "2025-10-23T12:51:11",
+        "url": "https://xrdocs.io/cnbng/tutorials/pppoe-lac-subscriber-bringup-in-cnbng/",
+        "blog-description": "Learn how to bring PPPoE LAC sessions in this tutorial. This tutorial also brings up PPPoE PTA sessions on same access interface."
+    },
+    {
+        "title": "ncs5500-hw-module-profiles",
+        "date": "2025-10-07T08:58:01",
+        "url": "https://xrdocs.io/ncs5500/tutorials/ncs5500-hw-module-profiles/",
+        "blog-description": "WIP document describing the various options behind the NCS5500 hw-module CLI"
+    },
+    {
+        "title": "Cisco-at-ECOC2025",
+        "date": "2025-09-26T19:46:57",
+        "url": "https://xrdocs.io/8000/blogs/2025-09-26-Cisco-at-ECOC2025/",
+        "blog-description": "This post covers the various activities Cisco is engaged in at ECOC 2025."
+    },
+    {
+        "title": "8000-software-xr7-usb-boot",
+        "date": "2025-09-15T11:38:46",
+        "url": "https://xrdocs.io/8000/tutorials/8000-software-xr7-usb-boot/",
+        "blog-description": "This tutorial will describe and illustrate how to USB boot Cisco 8000 routers. This step-by-step procedure can be used to stage, re-image or recover a router from a boot failure."
+    },
+    {
+        "title": "cisco-routed-pon-whitepaper",
+        "date": "2025-09-02T18:22:40",
+        "url": "https://xrdocs.io/routed-pon/tutorials/cisco-routed-pon-whitepaper/",
+        "blog-description": "This document introduces the Cisco Routed PON solution"
+    },
+    {
+        "title": "cst-srv6-addition",
+        "date": "2025-07-22T17:45:19",
+        "url": "https://xrdocs.io/design/blogs/2023-03-01-cst-srv6-addition/",
+        "blog-description": "CST SRv6 HLD"
+    },
+    {
         "title": "cisco-8000-disk-encryption",
         "date": "2025-06-23T10:20:48",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-disk-encryption/",
@@ -28,6 +82,12 @@
         "date": "2025-05-15T05:06:52",
         "url": "https://xrdocs.io/cnbng/tutorials/l2tp-lns-subscriber-session-bringup-in-cnbng/",
         "blog-description": ""
+    },
+    {
+        "title": "introducing-ncs-57d2-18dd-sys",
+        "date": "2025-05-09T00:45:44",
+        "url": "https://xrdocs.io/ncs5500/tutorials/introducing-ncs-57d2-18dd-sys/",
+        "blog-description": "Introduction to NCS-57D2"
     },
     {
         "title": "cisco-8711-architecture",
@@ -108,16 +168,16 @@
         "blog-description": "This video first introduces the reason why industry needs 800G. It then covers the key ingredients needed to build dense 800G systems: SerDes, ASICs, optics and standards. It also explains the differences between 800G and 800GbE and 800GbE development and deployment timeline. Last, this video shows a live demo of a 36x800G line card delivering 28.8Tbps full duplex traffic, on all ports, linerate, inside a 8808 distributed system."
     },
     {
+        "title": "use-tcpdump-on-exr-for-control-plane-troubleshooting-part1",
+        "date": "2024-10-10T08:26:11",
+        "url": "https://xrdocs.io/ncs5500/tutorials/use-tcpdump-on-exr-for-control-plane-troubleshooting-part1/",
+        "blog-description": "This article introduces how to use tcpdump on Cisco XR platforms running eXR, such as the ASR 9000 and NCS 5500."
+    },
+    {
         "title": "cisco-8000-port-assignment",
         "date": "2024-10-03T16:23:03",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-port-assignment/",
         "blog-description": "This article will highlight how ports are allocated to IFG/Slice/NPU for each Cisco 8000 line card and systems (Part 1)."
-    },
-    {
-        "title": "8000-software-xr7-usb-boot",
-        "date": "2024-09-24T08:26:45",
-        "url": "https://xrdocs.io/8000/tutorials/8000-software-xr7-usb-boot/",
-        "blog-description": "This tutorial will describe and illustrate how to USB boot Cisco 8000 routers. This step-by-step procedure can be used to stage, re-image or recover a router from a boot failure."
     },
     {
         "title": "asr-9000-bng-scale-best-practices",
@@ -186,6 +246,18 @@
         "blog-description": "This article describes how install replace procedure & Golden ISO file can be used to stage, patch, or upgrade the Cisco IOS XR Network Operation System (NOS) on a Cisco 8000."
     },
     {
+        "title": "ncs5500-chassis-new-generation-commons",
+        "date": "2024-07-16T23:49:40",
+        "url": "https://xrdocs.io/ncs5500/tutorials/ncs5500-chassis-new-generation-commons/",
+        "blog-description": "New route processor, new power supply and new fan trays / fabric cards for the NCS 5500 chassis"
+    },
+    {
+        "title": "srv6-transport-on-ncs-part-7",
+        "date": "2024-07-15T05:40:14",
+        "url": "https://xrdocs.io/ncs5500/tutorials/srv6-transport-on-ncs-part-7/",
+        "blog-description": "QoS Modes for SRv6 Transport on the NCS 5500/500 & 5700 Platforms. Detailed review and configuration examples various configuration options across releases."
+    },
+    {
         "title": "cst-routed-optical-2_1",
         "date": "2024-06-17T17:50:12",
         "url": "https://xrdocs.io/design/blogs/2023-08-24-cst-routed-optical-2_1/",
@@ -204,6 +276,12 @@
         "blog-description": "Learn how to use XR appmgr to build docker applications"
     },
     {
+        "title": "next-gen-utility-wan-arch",
+        "date": "2024-05-06T13:21:34",
+        "url": "https://xrdocs.io/ncs5500/tutorials/2024-04-24-next-gen-utility-wan-arch/",
+        "blog-description": "Brief on the next gen utility WAN transport & specific services including Layer 2 Teleprotection using Cisco's NCS portfolio"
+    },
+    {
         "title": "do-you-speak-yang",
         "date": "2024-04-09T15:17:51",
         "url": "https://xrdocs.io/programmability/tutorials/do-you-speak-yang/",
@@ -220,12 +298,6 @@
         "date": "2024-03-14T22:38:19",
         "url": "https://xrdocs.io/8000/blogs/cisco-8000-platform-security/",
         "blog-description": "This white paper outlines the platform security features that are built into Cisco 8000 platform."
-    },
-    {
-        "title": "cisco-routed-pon-whitepaper",
-        "date": "2024-03-14T16:31:23",
-        "url": "https://xrdocs.io/routed-pon/tutorials/cisco-routed-pon-whitepaper/",
-        "blog-description": "This document introduces the Cisco Routed PON solution"
     },
     {
         "title": "cisco-8000-peering-telemetry-demo",
@@ -264,6 +336,12 @@
         "blog-description": "This article will cover how Cisco Crosswork Network Controller can be used to deploy L2VPN services across a multi vendor network."
     },
     {
+        "title": "srv6-transport-on-ncs-part-6",
+        "date": "2024-01-31T17:11:48",
+        "url": "https://xrdocs.io/ncs5500/tutorials/srv6-transport-on-ncs-part-6/",
+        "blog-description": "Ethernet VPN based layer 2 multipoint (ELAN) service over SRv6 uSID Transport on NCS 500 and NCS 5500 series platforms. Includes detailed explanation of configuration and verification steps"
+    },
+    {
         "title": "xrd-with-terraform-topologies-on-aws",
         "date": "2024-01-15T13:33:48",
         "url": "https://xrdocs.io/virtual-routing/tutorials/2023-08-01-xrd-with-terraform-topologies-on-aws/",
@@ -298,6 +376,12 @@
         "date": "2023-10-03T09:37:59",
         "url": "https://xrdocs.io/programmability/tutorials/pytas-series-netconf-module/",
         "blog-description": "How to use the pyATS NETCONF module?"
+    },
+    {
+        "title": "introducing-nc57-48q2d-lc",
+        "date": "2023-09-26T04:08:42",
+        "url": "https://xrdocs.io/ncs5500/tutorials/introducing-nc57-48q2d-lc/",
+        "blog-description": "Introduction and deep dive to the NC57-48Q2D-(SE)-S, dense low speed line card in the cns 5700 modular portfolio. Discusses LC architecture and use cases in details. "
     },
     {
         "title": "optimizing-power-supply-efficiency-in-routers",
@@ -384,6 +468,12 @@
         "blog-description": "This blog post details the steps required to replace a FT, FC and LC on a Cisco 8800 router. "
     },
     {
+        "title": "egress-ipv6-acls-on-ncs5500",
+        "date": "2023-07-03T16:38:58",
+        "url": "https://xrdocs.io/ncs5500/tutorials/egress-ipv6-acls-on-ncs5500/",
+        "blog-description": "This document will describe IPv6 ACL Egress ACLs on NCS5500 J/J+ and highlight the enhancements when it comes to J2"
+    },
+    {
         "title": "pyats-series-adding-and-removing-configuration",
         "date": "2023-06-27T20:29:51",
         "url": "https://xrdocs.io/programmability/tutorials/pyats-series-adding-and-removing-configuration/",
@@ -432,6 +522,18 @@
         "blog-description": "An overview of protocols, methods and tools for service assurance"
     },
     {
+        "title": "introducing-nc57-mod-s-lc",
+        "date": "2023-05-26T13:38:51",
+        "url": "https://xrdocs.io/ncs5500/tutorials/introducing-nc57-mod-s-lc/",
+        "blog-description": "Introduction to Cisco NC57-MOD-S Line card. A modular Line card for NCS 5500 Modular Chassis. Detailed LC architecture, Capabilities and Use Cases."
+    },
+    {
+        "title": "NCS-5500-interface-and-qos-1d-scale",
+        "date": "2023-05-17T01:26:32",
+        "url": "https://xrdocs.io/ncs5500/tutorials/NCS-5500-interface-and-qos-1d-scale/",
+        "blog-description": "NCS-5500 Interface and QoS 1D Scale"
+    },
+    {
         "title": "internet-edge-peering-current-practice",
         "date": "2023-05-16T16:26:45",
         "url": "https://xrdocs.io/design/blogs/2017-08-01-internet-edge-peering-current-practice/",
@@ -444,22 +546,34 @@
         "blog-description": "ASR 9000 supports inline MAP-T Border Relay functions explained in RFC 7599. This tutorial covers basic configuration and advanced torubleshooting required for implementing this feature in Classic (32-bit) and Evolved (64-bit) IOS-XR SW versions."
     },
     {
+        "title": "srv6-transport-on-ncs-part-5",
+        "date": "2023-04-04T14:44:01",
+        "url": "https://xrdocs.io/ncs5500/tutorials/srv6-transport-on-ncs-part-5/",
+        "blog-description": "SRv6 Platform capabilities and resource monitoring"
+    },
+    {
+        "title": "srv6-transport-on-ncs-part-4",
+        "date": "2023-03-24T04:03:39",
+        "url": "https://xrdocs.io/ncs5500/tutorials/srv6-transport-on-ncs-part-4/",
+        "blog-description": "SRv6 Transport on NCS 5700. Basic configuration approach comparison with NCS 5500"
+    },
+    {
         "title": "8100-8200-deployment-note",
         "date": "2023-03-22T23:08:53",
         "url": "https://xrdocs.io/8000/blogs/8100-8200-deployment-note/",
         "blog-description": "While the 8100 and 8200 Series have similar hardware architectures and form factors, there are key differences that impact the network roles they address. This post will cover their positioning and differences. "
     },
     {
-        "title": "pppoe-lac-subscriber-bringup-in-cnbng",
-        "date": "2023-03-20T17:13:29",
-        "url": "https://xrdocs.io/cnbng/tutorials/pppoe-lac-subscriber-bringup-in-cnbng/",
-        "blog-description": "Learn how to bring PPPoE LAC sessions in this tutorial. This tutorial also brings up PPPoE PTA sessions on same access interface."
-    },
-    {
         "title": "multicast-101-introduction",
         "date": "2023-02-20T18:38:46",
         "url": "https://xrdocs.io/multicast/blogs/multicast-101-introduction/",
         "blog-description": "Multicast 101 Introduction"
+    },
+    {
+        "title": "introducing-ncs-57c1-48q6d-s-router",
+        "date": "2023-02-15T22:55:56",
+        "url": "https://xrdocs.io/ncs5500/tutorials/introducing-ncs-57c1-48q6d-s-router/",
+        "blog-description": "Introduction to NCS-57C1"
     },
     {
         "title": "xrd-with-docker-compose-control-plane",
@@ -474,6 +588,12 @@
         "blog-description": "Learn how to download the latest XRd images and set them up for further use."
     },
     {
+        "title": "simple-scalable-programmable-sustainable-metro-with-cisco-ncs5500-nc5700",
+        "date": "2023-01-09T20:55:38",
+        "url": "https://xrdocs.io/ncs5500/tutorials/simple-scalable-programmable-sustainable-metro-with-cisco-ncs5500-nc5700/",
+        "blog-description": "This document covers the latest trends in metro network architecture"
+    },
+    {
         "title": "cisco-8000-pbts-implementation-basic",
         "date": "2022-12-22T21:09:23",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-pbts-implementation-basic/",
@@ -486,10 +606,40 @@
         "blog-description": "Routed Optical Networking 1.0"
     },
     {
+        "title": "srv6-transport-on-ncs-part-3",
+        "date": "2022-11-17T00:25:41",
+        "url": "https://xrdocs.io/ncs5500/tutorials/srv6-transport-on-ncs-part-3/",
+        "blog-description": "L2VPN config and verification over SRV6 Transport on NCS 5500/500 series platforms"
+    },
+    {
         "title": "xrd-with-docker-control-plane-and-vrouter",
         "date": "2022-11-10T05:51:11",
         "url": "https://xrdocs.io/virtual-routing/tutorials/2022-08-23-xrd-with-docker-control-plane-and-vrouter/",
         "blog-description": "Learn the basics of bringing up XRd with Docker."
+    },
+    {
+        "title": "security-acl-on-ncs5500-part2-hybrid-acl",
+        "date": "2022-11-01T17:00:52",
+        "url": "https://xrdocs.io/ncs5500/tutorials/security-acl-on-ncs5500-part2-hybrid-acl/",
+        "blog-description": "Second part on the NCS5500 Access-lists. This time, we focus on the Hybrid ACL."
+    },
+    {
+        "title": "srv6-transport-on-ncs-part-2",
+        "date": "2022-11-01T04:58:08",
+        "url": "https://xrdocs.io/ncs5500/tutorials/srv6-transport-on-ncs-part-2/",
+        "blog-description": "L3VPN configuration and verification over SRv6 Transport on NCS 500 and NCS 5500 platforms"
+    },
+    {
+        "title": "srv6-transport-on-ncs-part-1",
+        "date": "2022-09-22T05:41:18",
+        "url": "https://xrdocs.io/ncs5500/tutorials/srv6-transport-on-ncs-part-1/",
+        "blog-description": "This is the first document in the series which will focus on SRv6 basics and underlay transport bringup"
+    },
+    {
+        "title": "mdb-ncs5700",
+        "date": "2022-09-04T16:37:13",
+        "url": "https://xrdocs.io/ncs5500/tutorials/mdb-ncs5700/",
+        "blog-description": "MDB profile on J2 based systems"
     },
     {
         "title": "8000-software-xr7-giso",
@@ -576,10 +726,58 @@
         "blog-description": "Cisco\u2019s 8000 Series\u2019 introduced a new model for power allocation that reduces the amount of power that must be connected. This saves money and frees up facility resources for other uses."
     },
     {
+        "title": "latest-acl-enhancements-on-ncs5500-ios-xr-7-6-1",
+        "date": "2022-04-25T15:23:26",
+        "url": "https://xrdocs.io/ncs5500/tutorials/latest-acl-enhancements-on-ncs5500-ios-xr-7-6-1/",
+        "blog-description": "This document will introduce the behaviour new enhancements w.r.t ACL feature on NCS5500"
+    },
+    {
         "title": "cisco-8000-npu-traps-telemetry-gnmi",
         "date": "2022-04-21T09:21:17",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-npu-traps-telemetry-gnmi/",
         "blog-description": "On Cisco 8000, Network Processing Unit (NPU) traps are raised in response to the type of packets received by the router. This post will describe how to retrieve Cisco 8000 NPU traps counters through telemetry using gNMI interface."
+    },
+    {
+        "title": "lpts-enhancements-on-ncs5500-ncs5700",
+        "date": "2022-04-19T06:20:07",
+        "url": "https://xrdocs.io/ncs5500/tutorials/lpts-enhancements-on-ncs5500-ncs5700/",
+        "blog-description": "This document will cover the latest enhancements on the newer generation NCS5500 platforms"
+    },
+    {
+        "title": "introduction-to-ncs55xx-and-ncs5xx-lpts",
+        "date": "2022-04-19T04:24:44",
+        "url": "https://xrdocs.io/ncs5500/tutorials/introduction-to-ncs55xx-and-ncs5xx-lpts/",
+        "blog-description": "Introduction to NCS55xx and NCS5xx LPTS"
+    },
+    {
+        "title": "chained-acl-for-ncs55xx-and-ncs5xx",
+        "date": "2022-04-13T06:06:30",
+        "url": "https://xrdocs.io/ncs5500/tutorials/chained-acl-for-ncs55xx-and-ncs5xx/",
+        "blog-description": "This document will discuss the concept and use cases of Chained ACL  for NCS55xx and NCS5xx"
+    },
+    {
+        "title": "acl-based-forwarding-and-object-tracking-for-ncs5xx-and-ncs55xx",
+        "date": "2022-04-13T06:01:52",
+        "url": "https://xrdocs.io/ncs5500/tutorials/acl-based-forwarding-and-object-tracking-for-ncs5xx-and-ncs55xx/",
+        "blog-description": "This document aims to cover the concept of ABF and the used of object tracking with ABF"
+    },
+    {
+        "title": "bgp-flowspec-on-ncs5500",
+        "date": "2022-04-13T05:31:40",
+        "url": "https://xrdocs.io/ncs5500/tutorials/bgp-flowspec-on-ncs5500/",
+        "blog-description": "BGP Flowspec implementation and resource management on NCS5500 Series"
+    },
+    {
+        "title": "introducing-ncs57b1-routers",
+        "date": "2022-04-10T07:52:38",
+        "url": "https://xrdocs.io/ncs5500/tutorials/introducing-ncs57b1-routers/",
+        "blog-description": "Introduction of the new NCS 57B1 Routeurs"
+    },
+    {
+        "title": "introducing-nc57-mpa-2d4h-s",
+        "date": "2022-03-04T09:27:20",
+        "url": "https://xrdocs.io/ncs5500/tutorials/introducing-nc57-mpa-2d4h-s/",
+        "blog-description": "Introducing the new QSFP-DD modular port adaptor"
     },
     {
         "title": "troubleshoot-slow-bgp-convergence-due-to-rpl",
@@ -594,6 +792,12 @@
         "blog-description": "Cisco Converged SDN Transport (CST) design introduces an SDN-ready architecture evolving network design towards an SDN enabled, programmable network capable of delivering all services. 3.0 Update"
     },
     {
+        "title": "introducing-ncs57c3-mod",
+        "date": "2021-12-20T13:10:13",
+        "url": "https://xrdocs.io/ncs5500/tutorials/introducing-ncs57c3-mod/",
+        "blog-description": "Very happy to announce the new member of the NCS5500 fixed routers: the NCS57C3-MOD"
+    },
+    {
         "title": "cloud-native-bng-demo-tech-field-day",
         "date": "2021-12-16T12:28:55",
         "url": "https://xrdocs.io/cnbng/blogs/cloud-native-bng-demo-tech-field-day/",
@@ -604,6 +808,102 @@
         "date": "2021-12-15T17:17:49",
         "url": "https://xrdocs.io/8000/tutorials/8201-architecture-performance/",
         "blog-description": "This short article will first cover Cisco 8201 high level internal architecture. Then, a quick and simple lab test will demonstrate how it can achieve 10.8Tbps at target Non-Drop Rate (NDR). This test will address recent concerns raised about its forwarding performance."
+    },
+    {
+        "title": "bfd-over-bundle-interfaces-on-ncs5500-and-ncs500",
+        "date": "2021-11-23T06:21:59",
+        "url": "https://xrdocs.io/ncs5500/tutorials/bfd-over-bundle-interfaces-on-ncs5500-and-ncs500/",
+        "blog-description": "This document explains the BFD over Bundle Interfaces on NCS5500 and NCS500"
+    },
+    {
+        "title": "iosxr-741-innovations",
+        "date": "2021-10-22T11:00:43",
+        "url": "https://xrdocs.io/ncs5500/tutorials/iosxr-741-innovations/",
+        "blog-description": "New features and hardware supported in IOS XR 7.4.1"
+    },
+    {
+        "title": "security-acl-on-ncs5500-part1",
+        "date": "2021-10-22T09:29:11",
+        "url": "https://xrdocs.io/ncs5500/tutorials/security-acl-on-ncs5500-part1/",
+        "blog-description": "First part of a series of posts on NCS5500 Access-lists"
+    },
+    {
+        "title": "acl-s-on-ncs5500-bvi-interfaces",
+        "date": "2021-09-30T07:14:29",
+        "url": "https://xrdocs.io/ncs5500/tutorials/acl-s-on-ncs5500-bvi-interfaces/",
+        "blog-description": "This document will introduce the behaviour of ACL on BVI Interfaces"
+    },
+    {
+        "title": "bfd-architecture-on-ncs5500-and-ncs500",
+        "date": "2021-09-20T07:14:31",
+        "url": "https://xrdocs.io/ncs5500/tutorials/bfd-architecture-on-ncs5500-and-ncs500/",
+        "blog-description": "Implementation of BFD on NCS5500 and NCS500"
+    },
+    {
+        "title": "coexistence-between-bfd-over-bundle-and-bfd-over-logical-bundle",
+        "date": "2021-09-03T12:17:15",
+        "url": "https://xrdocs.io/ncs5500/tutorials/coexistence-between-bfd-over-bundle-and-bfd-over-logical-bundle/",
+        "blog-description": "This document will cover the Coexistence Between BFD over Bundle and BFD over Logical Bundle and why it is needed"
+    },
+    {
+        "title": "access-list-enhancements-on-ncs5500-j2-based-platforms",
+        "date": "2021-09-01T11:11:54",
+        "url": "https://xrdocs.io/ncs5500/tutorials/access-list-enhancements-on-ncs5500-j2-based-platforms/",
+        "blog-description": "This document will introduce the behaviour of ACL on J2 based platforms"
+    },
+    {
+        "title": "port-assignments-on-ncs5500-platforms",
+        "date": "2021-08-24T20:10:13",
+        "url": "https://xrdocs.io/ncs5500/tutorials/port-assignments-on-ncs5500-platforms/",
+        "blog-description": "Brief post on port allocation / NPU for NCS5500"
+    },
+    {
+        "title": "full-internet-in-j2",
+        "date": "2021-08-09T09:11:01",
+        "url": "https://xrdocs.io/ncs5500/tutorials/full-internet-in-j2/",
+        "blog-description": "Understand the J2 memory utilization and the programming / convergence speed"
+    },
+    {
+        "title": "multipath-and-multihop-bfd-sessions-on-ncs5500-and-ncs500",
+        "date": "2021-07-15T07:54:48",
+        "url": "https://xrdocs.io/ncs5500/tutorials/multipath-and-multihop-bfd-sessions-on-ncs5500-and-ncs500/",
+        "blog-description": "This document covers the implementation of BLB and BFD over BVI on NCS5500 and NCS500"
+    },
+    {
+        "title": "understanding-the-bfd-hardware-programming-on-ncs55xx-and-ncs5xx",
+        "date": "2021-06-03T06:35:31",
+        "url": "https://xrdocs.io/ncs5500/tutorials/understanding-the-bfd-hardware-programming-on-ncs55xx-and-ncs5xx/",
+        "blog-description": "This document aims to cover the hardware programming of the BFD in the NCS55xx pipeline architecture. It also will cover the resource utilisation and  how to read and interpret the CLI outputs"
+    },
+    {
+        "title": "decommissioning-internet-optimized-mode",
+        "date": "2021-05-25T18:26:07",
+        "url": "https://xrdocs.io/ncs5500/tutorials/decommissioning-internet-optimized-mode/",
+        "blog-description": "Brief note on the removal of the internet-optimized mode"
+    },
+    {
+        "title": "introducing-400ge-on-ncs5500-series",
+        "date": "2021-05-22T22:23:11",
+        "url": "https://xrdocs.io/ncs5500/tutorials/introducing-400ge-on-ncs5500-series/",
+        "blog-description": "Introducing two new 400GE capable line cards in the NCS5500 portfolio: NC55-24DD and NC55-18DD-SE"
+    },
+    {
+        "title": "iosxr-731-innovations",
+        "date": "2021-05-21T10:42:28",
+        "url": "https://xrdocs.io/ncs5500/tutorials/iosxr-731-innovations/",
+        "blog-description": "What's new in IOS XR731 in term of features and newly supported hardware"
+    },
+    {
+        "title": "ncs5500-qos-part-1-understanding-packet-buffering",
+        "date": "2021-05-19T21:30:09",
+        "url": "https://xrdocs.io/ncs5500/tutorials/ncs5500-qos-part-1-understanding-packet-buffering/",
+        "blog-description": "First part of the NCS5500 QoS Series: Packet Buffering"
+    },
+    {
+        "title": "ncs5500-things-to-know",
+        "date": "2021-04-22T17:56:12",
+        "url": "https://xrdocs.io/ncs5500/tutorials/ncs5500-things-to-know/",
+        "blog-description": "Various questions and answers related to the NCS5500 platform and its software"
     },
     {
         "title": "telemetry-sensor-group-yang-anx",
@@ -618,16 +918,76 @@
         "blog-description": "Peering Fabric Design - 3.5"
     },
     {
+        "title": "ncs55x-and-ncs5xx-domain-based-lpts-policers",
+        "date": "2021-02-03T17:45:29",
+        "url": "https://xrdocs.io/ncs5500/tutorials/ncs55x-and-ncs5xx-domain-based-lpts-policers/",
+        "blog-description": "This document will explain the domain based LPTS policers and its use cases"
+    },
+    {
         "title": "nornir-overview",
         "date": "2021-01-08T18:30:01",
         "url": "https://xrdocs.io/programmability/tutorials/2020-12-02-nornir-overview/",
         "blog-description": "Nornir is the new automation framework which grabbed the attention of network engineers. Learn more about it and take a look how you could manage Cisco devices with it."
     },
     {
+        "title": "ncs5500-routing-resource-with-2020-internet",
+        "date": "2020-12-14T16:30:47",
+        "url": "https://xrdocs.io/ncs5500/tutorials/ncs5500-routing-resource-with-2020-internet/",
+        "blog-description": "What a full internet table in 2020 consumes in the NCS5500?"
+    },
+    {
+        "title": "ncs5500-urpf",
+        "date": "2020-12-14T16:28:00",
+        "url": "https://xrdocs.io/ncs5500/tutorials/ncs5500-urpf/",
+        "blog-description": "In this article, we analyse the configuration and impact of URPF on NCS5500 systems"
+    },
+    {
+        "title": "Understanding-ncs5500-jericho-plus-systems",
+        "date": "2020-12-14T16:26:12",
+        "url": "https://xrdocs.io/ncs5500/tutorials/Understanding-ncs5500-jericho-plus-systems/",
+        "blog-description": "Introduction to the NCS5500 Jericho+ Systems and their Scalability"
+    },
+    {
+        "title": "full-internet-view-on-base-ncs-5500-systems-s01e04",
+        "date": "2020-12-14T16:24:46",
+        "url": "https://xrdocs.io/ncs5500/tutorials/2017-12-30-full-internet-view-on-base-ncs-5500-systems-s01e04/",
+        "blog-description": "Post #4 on the NCS5500 Resources with a YT video to illustrate full internet support on non-eTCAM systems"
+    },
+    {
+        "title": "understanding-ncs5500-resources-s01e03",
+        "date": "2020-12-14T16:22:28",
+        "url": "https://xrdocs.io/ncs5500/tutorials/2017-08-07-understanding-ncs5500-resources-s01e03/",
+        "blog-description": "Third post on the NCS5500 Resources focusing on IPv6 prefixes"
+    },
+    {
+        "title": "understanding-ncs5500-resources-s01e02",
+        "date": "2020-12-14T16:19:11",
+        "url": "https://xrdocs.io/ncs5500/tutorials/2017-08-03-understanding-ncs5500-resources-s01e02/",
+        "blog-description": "Second post on the NCS5500 Resources focusing on IPv4 prefixes"
+    },
+    {
+        "title": "ncs-5700-400g-optics-technology-and-roadmap",
+        "date": "2020-11-16T18:21:47",
+        "url": "https://xrdocs.io/ncs5500/tutorials/ncs-5700-400g-optics-technology-and-roadmap/",
+        "blog-description": "NCS-5700 400G Optics Technology and Roadmap"
+    },
+    {
         "title": "peering-fabric-hld",
         "date": "2020-11-01T19:42:00",
         "url": "https://xrdocs.io/design/blogs/2020-01-10-peering-fabric-hld/",
         "blog-description": "Peering Fabric Design - 3.0"
+    },
+    {
+        "title": "ncs5500-lab-series",
+        "date": "2020-10-13T14:53:43",
+        "url": "https://xrdocs.io/ncs5500/tutorials/ncs5500-lab-series/",
+        "blog-description": "Test cases and demos of the NCS5500 products to speed up your own validation process"
+    },
+    {
+        "title": "ncs-5500-fabric-migration",
+        "date": "2020-10-12T19:19:00",
+        "url": "https://xrdocs.io/ncs5500/tutorials/ncs-5500-fabric-migration/",
+        "blog-description": "v1 to v2 NCS-5500 ugprade procedure"
     },
     {
         "title": "enabling-ios-xr-on-third-party-network-hardware",
@@ -654,10 +1014,76 @@
         "blog-description": "Cisco Converged SDN Transport (CST) design introduces an SDN-ready architecture evolving network design towards an SDN enabled, programmable network capable of delivering all services. This guide is an excerpt from the larger CST high-level design and implementation guides specific to CIN."
     },
     {
+        "title": "user-defined-field-ncs55xx-and-ncs5xx",
+        "date": "2020-09-07T12:12:54",
+        "url": "https://xrdocs.io/ncs5500/tutorials/user-defined-field-ncs55xx-and-ncs5xx/",
+        "blog-description": "This document aims to deep dive into UDF ACL for NCS55xx and NCS5xx ACL's"
+    },
+    {
+        "title": "ncs-5500-buffering-architecture",
+        "date": "2020-09-04T10:50:02",
+        "url": "https://xrdocs.io/ncs5500/blogs/2020-09-04-ncs-5500-buffering-architecture/",
+        "blog-description": "The NCS 5500 uses an innovative design to provide deep buffering while   maintaining high performance and power efficiency. This paper explores this   design and shows its strengths over traditional forwarding architectures. It   also will address criticism of these optimizations coming from other vendors."
+    },
+    {
+        "title": "macsec-on-ncs-5500-technology-and-platform-overview",
+        "date": "2020-08-26T22:49:49",
+        "url": "https://xrdocs.io/ncs5500/tutorials/macsec-on-ncs-5500-technology-and-platform-overview/",
+        "blog-description": "MACsec on NCS-5500 - Technology and Platform Overview"
+    },
+    {
+        "title": "user-defined-key-udk-for-ncs55xx-and-ncs5xx",
+        "date": "2020-08-20T17:58:58",
+        "url": "https://xrdocs.io/ncs5500/tutorials/user-defined-key-udk-for-ncs55xx-and-ncs5xx/",
+        "blog-description": "This document aims to deep dive into the concept of User Defined Keys on Cisco NCS55xx and NCS5xx"
+    },
+    {
+        "title": "acl-ip-fragments-matching-ncs55xx-and-ncs5xx",
+        "date": "2020-08-11T05:25:26",
+        "url": "https://xrdocs.io/ncs5500/tutorials/acl-ip-fragments-matching-ncs55xx-and-ncs5xx/",
+        "blog-description": "This document provides the capabilities of NCS5xx and NCS55xx to secure the data plane by filtering the fragmented packets"
+    },
+    {
+        "title": "acl-packet-length-matching-ncs55xx-and-ncs5xx",
+        "date": "2020-08-05T17:10:36",
+        "url": "https://xrdocs.io/ncs5500/tutorials/acl-packet-length-matching-ncs55xx-and-ncs5xx/",
+        "blog-description": "This document describes the implementation of ACL packet length matching on NCS55xx and NCS5xx"
+    },
+    {
+        "title": "bgp-flowspec-to-acl-script",
+        "date": "2020-07-20T09:45:13",
+        "url": "https://xrdocs.io/ncs5500/tutorials/bgp-flowspec-to-acl-script/",
+        "blog-description": "Introduction and validation of the BGPFS2ACL script"
+    },
+    {
         "title": "rpki-on-xr",
         "date": "2020-06-16T19:33:32",
         "url": "https://xrdocs.io/design/blogs/2020-05-10-rpki-on-xr/",
         "blog-description": "RPKI or Resource Public Key Infrastructure is rapidly being deployed today to provide BGP prefix security across the Internet. In this blog we will show how to host a popular RPKI validator and RTR cache"
+    },
+    {
+        "title": "bgp-evpn-irb-configuration",
+        "date": "2020-05-06T18:41:45",
+        "url": "https://xrdocs.io/ncs5500/tutorials/bgp-evpn-irb-configuration/",
+        "blog-description": "In this post we will cover the EVPN-IRB configuration on NCS5500"
+    },
+    {
+        "title": "bgp-evpn-configuration-ncs-5500-part-2",
+        "date": "2020-05-06T18:38:35",
+        "url": "https://xrdocs.io/ncs5500/tutorials/bgp-evpn-configuration-ncs-5500-part-2/",
+        "blog-description": "This post covers the configuration of BGP-EVPN based Multi-Homing of devices on NCS 5500."
+    },
+    {
+        "title": "bgp-evpn-configuration-ncs-5500-part-3",
+        "date": "2020-05-06T18:37:27",
+        "url": "https://xrdocs.io/ncs5500/tutorials/bgp-evpn-configuration-ncs-5500-part-3/",
+        "blog-description": "In this post we will cover the provisioning of BGP-EVPN based Layer-2 VPN service"
+    },
+    {
+        "title": "ncs5500-fib-scale-test",
+        "date": "2020-04-13T18:04:54",
+        "url": "https://xrdocs.io/ncs5500/tutorials/ncs5500-fib-scale-test/",
+        "blog-description": "Testing full internet views and up to 4M prefixes in J+/eTCAM NCS5500 systems"
     },
     {
         "title": "cisco-sp-eantc2020-coronavirus",
@@ -666,10 +1092,46 @@
         "blog-description": "Cisco IOS XR Service Provider drops from EANTC 2020 public interop event due to Coronavirus pandemic"
     },
     {
+        "title": "ncs5500-qos-part-2-verifying-buffering",
+        "date": "2019-12-05T23:55:48",
+        "url": "https://xrdocs.io/ncs5500/tutorials/ncs5500-qos-part-2-verifying-buffering/",
+        "blog-description": "Second part of the NCS5500 QoS Series: Packet Buffering illustrated in lab and in production networks"
+    },
+    {
+        "title": "ncs5500-fabric-redundancy-tests",
+        "date": "2019-10-08T15:20:03",
+        "url": "https://xrdocs.io/ncs5500/tutorials/ncs5500-fabric-redundancy-tests/",
+        "blog-description": "How an NCS5500 modular chassis behaves with 5 out of 6 fabric cards?"
+    },
+    {
+        "title": "testing-ndr-on-ncs5500",
+        "date": "2019-09-24T15:23:58",
+        "url": "https://xrdocs.io/ncs5500/tutorials/testing-ndr-on-ncs5500/",
+        "blog-description": "Test to measure and explain the NDR on NCS5500 36x100G-SE line cards"
+    },
+    {
+        "title": "ncs5500-performance-and-load-balancing",
+        "date": "2019-09-17T14:44:45",
+        "url": "https://xrdocs.io/ncs5500/tutorials/ncs5500-performance-and-load-balancing/",
+        "blog-description": "Test performed on fully wired chassis to validate the PPS performance and the load balancing features"
+    },
+    {
+        "title": "netflow-ncs5500-test-results",
+        "date": "2019-09-10T12:46:47",
+        "url": "https://xrdocs.io/ncs5500/tutorials/netflow-ncs5500-test-results/",
+        "blog-description": "Second part of the Netflow on NCS5500 Tuto. This time the test results"
+    },
+    {
         "title": "application-hosting-and-packet-io-on-ios-xr-a-deep-dive",
         "date": "2019-08-22T05:32:24",
         "url": "https://xrdocs.io/application-hosting/blogs/2019-08-19-application-hosting-and-packet-io-on-ios-xr-a-deep-dive/",
         "blog-description": "Looking to understand how Linux applications are able to run on IOS-XR and how they interact with IOS-XR and the external world? How do these applications run the same way on  modular and fixed platforms running IOS-XR with no variations?  Get the answers to these questions and more in this deep dive."
+    },
+    {
+        "title": "bgp-evpn-configuration-ncs-5500-part-1",
+        "date": "2019-07-26T00:40:34",
+        "url": "https://xrdocs.io/ncs5500/tutorials/bgp-evpn-configuration-ncs-5500-part-1/",
+        "blog-description": "This is the first part of the series for EVPN configuration on NCS5500. In this post we will focus on configuring BGP-EVPN Control-Plane & Segment Routing Forwarding-Plane."
     },
     {
         "title": "converged-sdn-transport-implementation-guide",
@@ -708,6 +1170,12 @@
         "blog-description": "Traditional ECMP or equal cost multipath loadbalances traffic over a number of available paths towards a destination. When one path fails, the traffic gets re-shuffled over the available number of paths."
     },
     {
+        "title": "understanding-ncs5500-resources-s01e01",
+        "date": "2019-05-14T13:28:50",
+        "url": "https://xrdocs.io/ncs5500/tutorials/2017-08-02-understanding-ncs5500-resources-s01e01/",
+        "blog-description": "First post on the NCS5500 Resource: today, we cover the platform and the forwarding ASICs"
+    },
+    {
         "title": "metro-fabric-hld",
         "date": "2019-04-25T21:21:21",
         "url": "https://xrdocs.io/design/blogs/2018-10-01-metro-fabric-hld/",
@@ -742,6 +1210,24 @@
         "date": "2019-01-29T07:09:46",
         "url": "https://xrdocs.io/cloud-scale-networking/blogs/ios-xr-at-CLEUR19/",
         "blog-description": "IOS XR related content at Cisco Live Europe 2019"
+    },
+    {
+        "title": "s01e05-large-routing-tables-on-scale-ncs-5500-systems",
+        "date": "2018-12-20T02:28:04",
+        "url": "https://xrdocs.io/ncs5500/tutorials/2018-01-25-s01e05-large-routing-tables-on-scale-ncs-5500-systems/",
+        "blog-description": "Post #5 on the NCS5500 Resources: very large routing table in eTCAM systems, illustrated in a YouTube Video"
+    },
+    {
+        "title": "netflow-sampling-interval-and-the-mythical-internet-packet-size",
+        "date": "2018-12-20T02:28:04",
+        "url": "https://xrdocs.io/ncs5500/tutorials/2018-02-19-netflow-sampling-interval-and-the-mythical-internet-packet-size/",
+        "blog-description": "Blog post describing the NCS5500 Netflow implementation."
+    },
+    {
+        "title": "ncs5500-fib-programming-speed",
+        "date": "2018-12-20T02:28:04",
+        "url": "https://xrdocs.io/ncs5500/tutorials/ncs5500-fib-programming-speed/",
+        "blog-description": "In this post, we focus on the speed the system can program routes in RP and in hardware"
     },
     {
         "title": "dynamic-packet-buffering",

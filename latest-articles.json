@@ -1,15 +1,15 @@
 [
     {
+        "title": "agile-services-networking-metro-1_0-hld-convert",
+        "date": "2025-12-04T22:54:04",
+        "url": "https://xrdocs.io/design/blogs/latest-asn-metro-hld",
+        "blog-description": "Cisco Agile Services Networking enables network operators to build flexible converged networks to handle any type of service at any place in the network. Networks built using ASN provide the scale, efficiency, and resiliency required while maintaining a simplier and easier to operate network."
+    },
+    {
         "title": "radkit-tips-and-tricks",
         "date": "2025-12-01T15:08:52",
         "url": "https://xrdocs.io/programmability/tutorials/radkit-tips-and-tricks/",
         "blog-description": ""
-    },
-    {
-        "title": "agile-services-networking-metro-1_0-hld-convert",
-        "date": "2025-11-13T20:16:04",
-        "url": "https://xrdocs.io/design/blogs/latest-asn-metro-hld",
-        "blog-description": "Cisco Agile Services Networking enables network operators to build flexible converged networks to handle any type of service at any place in the network. Networks built using ASN provide the scale, efficiency, and resiliency required while maintaining a simplier and easier to operate network."
     },
     {
         "title": "xrv-9000-ucs-m7-appliance-software-upgrade",

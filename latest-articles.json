@@ -1,5 +1,11 @@
 [
     {
+        "title": "ncs5500-hw-module-profiles",
+        "date": "2025-12-08T14:26:43",
+        "url": "https://xrdocs.io/ncs5500/tutorials/ncs5500-hw-module-profiles/",
+        "blog-description": "WIP document describing the various options behind the NCS5500 hw-module CLI"
+    },
+    {
         "title": "agile-services-networking-metro-1_0-hld-convert",
         "date": "2025-12-04T22:54:04",
         "url": "https://xrdocs.io/design/blogs/latest-asn-metro-hld",
@@ -28,12 +34,6 @@
         "date": "2025-10-23T12:51:11",
         "url": "https://xrdocs.io/cnbng/tutorials/pppoe-lac-subscriber-bringup-in-cnbng/",
         "blog-description": "Learn how to bring PPPoE LAC sessions in this tutorial. This tutorial also brings up PPPoE PTA sessions on same access interface."
-    },
-    {
-        "title": "ncs5500-hw-module-profiles",
-        "date": "2025-10-07T08:58:01",
-        "url": "https://xrdocs.io/ncs5500/tutorials/ncs5500-hw-module-profiles/",
-        "blog-description": "WIP document describing the various options behind the NCS5500 hw-module CLI"
     },
     {
         "title": "Cisco-at-ECOC2025",

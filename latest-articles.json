@@ -1,5 +1,11 @@
 [
     {
+        "title": "pppoe-ds-dhcpv6-subscriber-bringup-in-cnbng",
+        "date": "2025-12-11T09:57:24",
+        "url": "https://xrdocs.io/cnbng/tutorials/pppoe-ds-dhcpv6-subscriber-bringup-in-cnbng/",
+        "blog-description": "Learn how to bring a PPPoE Dualstack session in this tutorial. This tutorial covers pap/chap auth for PPPoE subscriber and accounting."
+    },
+    {
         "title": "ncs5500-hw-module-profiles",
         "date": "2025-12-08T14:26:43",
         "url": "https://xrdocs.io/ncs5500/tutorials/ncs5500-hw-module-profiles/",
@@ -190,12 +196,6 @@
         "date": "2024-08-26T13:57:22",
         "url": "https://xrdocs.io/asr9k/tutorials/asr-9000-bng-scale-best-practices/",
         "blog-description": "This article covers ASR 9000 best practices to maximize BNG scale"
-    },
-    {
-        "title": "pppoe-ds-dhcpv6-subscriber-bringup-in-cnbng",
-        "date": "2024-08-23T10:30:12",
-        "url": "https://xrdocs.io/cnbng/tutorials/pppoe-ds-dhcpv6-subscriber-bringup-in-cnbng/",
-        "blog-description": "Learn how to bring a PPPoE Dualstack session in this tutorial. This tutorial covers pap/chap auth for PPPoE subscriber and accounting."
     },
     {
         "title": "cnbng-cp-multiserver-vmware-deployment-guide",

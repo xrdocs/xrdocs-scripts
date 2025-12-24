@@ -1,5 +1,11 @@
 [
     {
+        "title": "cisco-8000-port-assignment-part-2",
+        "date": "2025-12-24T00:51:42",
+        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-port-assignment-part-2/",
+        "blog-description": "This article will highlight how ports are allocated to IFG/Slice/NPU for each Cisco 8000 line card and systems (Part 2)."
+    },
+    {
         "title": "pppoe-ds-dhcpv6-subscriber-bringup-in-cnbng",
         "date": "2025-12-11T09:57:24",
         "url": "https://xrdocs.io/cnbng/tutorials/pppoe-ds-dhcpv6-subscriber-bringup-in-cnbng/",
@@ -70,12 +76,6 @@
         "date": "2025-06-23T10:20:48",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-disk-encryption/",
         "blog-description": "This article aims to describe the disk encryption feature on Cisco 8000 routers.  This functionality creates an encrypted partition where sensitive data such configuration, certificates and keys are stored. "
-    },
-    {
-        "title": "cisco-8000-port-assignment-part-2",
-        "date": "2025-05-23T19:22:01",
-        "url": "https://xrdocs.io/8000/tutorials/cisco-8000-port-assignment-part-2/",
-        "blog-description": "This article will highlight how ports are allocated to IFG/Slice/NPU for each Cisco 8000 line card and systems (Part 2)."
     },
     {
         "title": "cisco-8000-fib-scale",

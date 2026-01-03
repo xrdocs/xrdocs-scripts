@@ -1,5 +1,11 @@
 [
     {
+        "title": "cst-routed-optical-4_0",
+        "date": "2026-01-02T16:58:57",
+        "url": "https://xrdocs.io/design/blogs/latest-routed-optical-networking-hld",
+        "blog-description": "Routed Optical Networking 4.0"
+    },
+    {
         "title": "cisco-8000-port-assignment-part-2",
         "date": "2025-12-24T00:51:42",
         "url": "https://xrdocs.io/8000/tutorials/cisco-8000-port-assignment-part-2/",
@@ -34,12 +40,6 @@
         "date": "2025-11-04T23:51:25",
         "url": "https://xrdocs.io/virtual-routing/tutorials/xrv-9000-ucs-m7-appliance-software-upgrade/",
         "blog-description": "This document aims to describe and document how to upgrade Cisco IOS XR software running on a Cisco IOS XRv 9000 UCS M7 appliance."
-    },
-    {
-        "title": "cst-routed-optical-4_0",
-        "date": "2025-10-29T11:25:27",
-        "url": "https://xrdocs.io/design/blogs/latest-routed-optical-networking-hld",
-        "blog-description": "Routed Optical Networking 4.0"
     },
     {
         "title": "pppoe-lac-subscriber-bringup-in-cnbng",

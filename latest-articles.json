@@ -1,5 +1,11 @@
 [
     {
+        "title": "ncs5500-hw-module-profiles",
+        "date": "2026-01-30T06:09:45",
+        "url": "https://xrdocs.io/ncs5500/tutorials/ncs5500-hw-module-profiles/",
+        "blog-description": "WIP document describing the various options behind the NCS5500 hw-module CLI"
+    },
+    {
         "title": "cst-routed-optical-4_0",
         "date": "2026-01-02T16:58:57",
         "url": "https://xrdocs.io/design/blogs/latest-routed-optical-networking-hld",
@@ -16,12 +22,6 @@
         "date": "2025-12-11T09:57:24",
         "url": "https://xrdocs.io/cnbng/tutorials/pppoe-ds-dhcpv6-subscriber-bringup-in-cnbng/",
         "blog-description": "Learn how to bring a PPPoE Dualstack session in this tutorial. This tutorial covers pap/chap auth for PPPoE subscriber and accounting."
-    },
-    {
-        "title": "ncs5500-hw-module-profiles",
-        "date": "2025-12-08T14:26:43",
-        "url": "https://xrdocs.io/ncs5500/tutorials/ncs5500-hw-module-profiles/",
-        "blog-description": "WIP document describing the various options behind the NCS5500 hw-module CLI"
     },
     {
         "title": "agile-services-networking-metro-1_0-hld-convert",
